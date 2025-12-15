@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Swift Coins Leaderboard</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<style>
+body {
+  margin: 0;
+  padding: 20px;
+  background: radial-gradient(circle at top, #0d1b2a, #05070d);
+  color: #e8f5ff;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+  color: #00c8ff;
+  margin-bottom: 30px;
+}
+
+.card {
+  background: rgba(17, 22, 42, 0.9);
+  border-radius: 14px;
+  padding: 15px 20px;
+  margin-bottom: 12px;
+  box-shadow: 0 0 25px rgba(0, 200, 255, 0.15);
+}
+
+.rank {
+  font-size: 20px;
+  color: #00c8ff;
+  font-weight: bold;
+}
+
+.wallet {
+  font-size: 16px;
+}
+
+.updated {
+  margin-top: 30px;
+  text-align: center;
+  opacity: 0.6;
+  font-size: 14px;
+}
+</style>
+</head>
+
+<body>
+
+<h1>🏆 Swift Coins Leaderboard</h1>
+<div id="list">Loading leaderboard...</div>
+<div class="updated" id="updated"></div>
+
+<script>
+const DATA_URL = "https://raw.githubusercontent.com/R-y-x/swift-leaderboard/refs/heads/main/leaderboard.json";
+
+fetch(DATA_URL)
+  .then(res => res.json())
+  .then(data => {
+    const list = document.getElementById("list");
+    list.innerHTML = "";
+
+    data.leaderboard.forEach(user => {
+      list.innerHTML += `
+        <div class="card">
+          <div class="rank">#${user.rank}</div>
+          <div class="wallet">💰 ${user.wallet.toLocaleString()} Swift Coins</div>
+          <div>User ID: ${user.user_id}</div>
+        </div>
+      `;
+    });
+
+    document.getElementById("updated").innerText =
+      "Updated: " + new Date(data.updated * 1000).toLocaleString();
+  })
+  .catch(err => {
+    document.getElementById("list").innerText = "Failed to load leaderboard.";
+    console.error(err);
+  });
+</script>
+
+</body>
+</html>
