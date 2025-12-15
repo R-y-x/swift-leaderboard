@@ -54,7 +54,33 @@
       text-align: center;
       font-size: 14px;
       color: var(--muted);
-      margin-bottom: 20px;
+      margin-bottom: 14px;
+    }
+
+    /* 🔍 SEARCH BAR */
+    .search-box {
+      margin-bottom: 18px;
+    }
+
+    .search-box input {
+      width: 100%;
+      padding: 12px 14px;
+      border-radius: 12px;
+      border: 1px solid rgba(0,200,255,0.25);
+      background: rgba(255,255,255,0.03);
+      color: var(--text);
+      font-size: 15px;
+      outline: none;
+      transition: border 0.2s, box-shadow 0.2s;
+    }
+
+    .search-box input::placeholder {
+      color: var(--muted);
+    }
+
+    .search-box input:focus {
+      border-color: var(--accent);
+      box-shadow: 0 0 12px var(--accent-soft);
     }
 
     .leaderboard {
@@ -95,7 +121,7 @@
       color: var(--accent);
     }
 
-    /* 🥇 TOP 1 SPECIAL */
+    /* 🥇 TOP 1 */
     .row.top {
       background: linear-gradient(
         90deg,
@@ -106,13 +132,8 @@
       box-shadow: 0 0 25px rgba(255, 209, 102, 0.25);
     }
 
-    .row.top .rank {
-      color: var(--gold);
-      font-size: 18px;
-    }
-
+    .row.top .rank,
     .row.top .username {
-      font-size: 17px;
       color: var(--gold);
     }
 
@@ -133,6 +154,12 @@
       50% { opacity: 1; }
       100% { opacity: 0.4; }
     }
+
+    .empty {
+      text-align: center;
+      color: var(--muted);
+      padding: 20px;
+    }
   </style>
 </head>
 
@@ -141,6 +168,16 @@
     <h1>🏆 Swift Coins Leaderboard</h1>
     <div class="subtitle">
       Top richest wallets · Auto updates every minute
+    </div>
+
+    <!-- 🔍 SEARCH -->
+    <div class="search-box">
+      <input
+        type="text"
+        id="search"
+        placeholder="Search user..."
+        oninput="renderLeaderboard()"
+      />
     </div>
 
     <div id="leaderboard" class="leaderboard"></div>
@@ -152,14 +189,35 @@
   </div>
 
   <script>
+    let leaderboardData = [];
+
     async function loadLeaderboard() {
       const res = await fetch("leaderboard.json?_=" + Date.now());
       const data = await res.json();
+      leaderboardData = data.leaderboard;
+      renderLeaderboard();
 
+      const secondsAgo = Math.floor(Date.now() / 1000 - data.updated);
+      document.getElementById("updated").textContent =
+        `Last updated ${secondsAgo}s ago`;
+    }
+
+    function renderLeaderboard() {
       const board = document.getElementById("leaderboard");
+      const query = document.getElementById("search").value.toLowerCase();
+
       board.innerHTML = "";
 
-      data.leaderboard.forEach(user => {
+      const filtered = leaderboardData.filter(u =>
+        u.username.toLowerCase().includes(query)
+      );
+
+      if (filtered.length === 0) {
+        board.innerHTML = `<div class="empty">No users found</div>`;
+        return;
+      }
+
+      filtered.forEach(user => {
         const row = document.createElement("div");
         row.className = "row" + (user.rank === 1 ? " top" : "");
 
@@ -171,10 +229,6 @@
 
         board.appendChild(row);
       });
-
-      const updated = document.getElementById("updated");
-      const secondsAgo = Math.floor(Date.now() / 1000 - data.updated);
-      updated.textContent = `Last updated ${secondsAgo}s ago`;
     }
 
     loadLeaderboard();
