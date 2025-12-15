@@ -1,5 +1,5 @@
 {
-  "updated": 1765842700,
+  "updated": 1765842780,
   "leaderboard": [
     {
       "rank": 1,
@@ -43,8 +43,8 @@
       "username": "clearyear123.",
       "wallet": 76395,
       "usd": 2.292,
-      "protected": true,
-      "protection_remaining": 54
+      "protected": false,
+      "protection_remaining": 0
     },
     {
       "rank": 6,
@@ -350,7 +350,7 @@
       "wallet": 11035,
       "usd": 0.331,
       "protected": true,
-      "protection_remaining": 1505
+      "protection_remaining": 1425
     },
     {
       "rank": 40,
