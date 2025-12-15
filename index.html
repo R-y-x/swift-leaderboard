@@ -1,85 +1,184 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-<meta charset="UTF-8">
-<title>Swift Coins Leaderboard</title>
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8" />
+  <title>Swift Coins Leaderboard</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-<style>
-body {
-  margin: 0;
-  padding: 20px;
-  background: radial-gradient(circle at top, #0d1b2a, #05070d);
-  color: #e8f5ff;
-  font-family: Arial, sans-serif;
-}
+  <style>
+    :root {
+      --bg: #050812;
+      --panel: #0b1020;
+      --accent: #00c8ff;
+      --accent-soft: rgba(0, 200, 255, 0.25);
+      --text: #e8f5ff;
+      --muted: #8aa0b8;
+      --gold: #ffd166;
+    }
 
-h1 {
-  text-align: center;
-  color: #00c8ff;
-  margin-bottom: 30px;
-}
+    * {
+      box-sizing: border-box;
+      font-family: "Segoe UI", system-ui, sans-serif;
+    }
 
-.card {
-  background: rgba(17, 22, 42, 0.9);
-  border-radius: 14px;
-  padding: 15px 20px;
-  margin-bottom: 12px;
-  box-shadow: 0 0 25px rgba(0, 200, 255, 0.15);
-}
+    body {
+      margin: 0;
+      background: radial-gradient(circle at top, #08162b, var(--bg));
+      color: var(--text);
+      min-height: 100vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      padding: 20px;
+    }
 
-.rank {
-  font-size: 20px;
-  color: #00c8ff;
-  font-weight: bold;
-}
+    .container {
+      width: 100%;
+      max-width: 720px;
+      background: linear-gradient(180deg, #0b1225, #070b18);
+      border-radius: 16px;
+      padding: 24px;
+      box-shadow: 0 0 40px rgba(0,0,0,0.7);
+      border: 1px solid rgba(0,200,255,0.15);
+    }
 
-.wallet {
-  font-size: 16px;
-}
+    h1 {
+      margin: 0 0 6px;
+      text-align: center;
+      font-size: 28px;
+      color: var(--accent);
+      text-shadow: 0 0 12px var(--accent-soft);
+    }
 
-.updated {
-  margin-top: 30px;
-  text-align: center;
-  opacity: 0.6;
-  font-size: 14px;
-}
-</style>
+    .subtitle {
+      text-align: center;
+      font-size: 14px;
+      color: var(--muted);
+      margin-bottom: 20px;
+    }
+
+    .leaderboard {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+    }
+
+    .row {
+      display: grid;
+      grid-template-columns: 50px 1fr auto;
+      align-items: center;
+      padding: 12px 14px;
+      background: rgba(255,255,255,0.02);
+      border-radius: 12px;
+      border: 1px solid rgba(255,255,255,0.05);
+      transition: transform 0.15s ease, box-shadow 0.15s ease;
+    }
+
+    .row:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 20px rgba(0,0,0,0.4);
+    }
+
+    .rank {
+      font-weight: 700;
+      color: var(--muted);
+      text-align: center;
+    }
+
+    .username {
+      font-weight: 600;
+      letter-spacing: 0.2px;
+    }
+
+    .wallet {
+      font-weight: 700;
+      color: var(--accent);
+    }
+
+    /* 🥇 TOP 1 SPECIAL */
+    .row.top {
+      background: linear-gradient(
+        90deg,
+        rgba(255, 209, 102, 0.15),
+        rgba(255, 209, 102, 0.03)
+      );
+      border-color: rgba(255, 209, 102, 0.35);
+      box-shadow: 0 0 25px rgba(255, 209, 102, 0.25);
+    }
+
+    .row.top .rank {
+      color: var(--gold);
+      font-size: 18px;
+    }
+
+    .row.top .username {
+      font-size: 17px;
+      color: var(--gold);
+    }
+
+    .footer {
+      margin-top: 18px;
+      display: flex;
+      justify-content: space-between;
+      font-size: 13px;
+      color: var(--muted);
+    }
+
+    .pulse {
+      animation: pulse 1.5s infinite;
+    }
+
+    @keyframes pulse {
+      0% { opacity: 0.4; }
+      50% { opacity: 1; }
+      100% { opacity: 0.4; }
+    }
+  </style>
 </head>
 
 <body>
+  <div class="container">
+    <h1>🏆 Swift Coins Leaderboard</h1>
+    <div class="subtitle">
+      Top richest wallets · Auto updates every minute
+    </div>
 
-<h1>🏆 Swift Coins Leaderboard</h1>
-<div id="list">Loading leaderboard...</div>
-<div class="updated" id="updated"></div>
+    <div id="leaderboard" class="leaderboard"></div>
 
-<script>
-const DATA_URL = "https://raw.githubusercontent.com/R-y-x/swift-leaderboard/refs/heads/main/leaderboard.json";
+    <div class="footer">
+      <span id="updated" class="pulse">Updating…</span>
+      <span>Inf Aurora</span>
+    </div>
+  </div>
 
-fetch(DATA_URL)
-  .then(res => res.json())
-  .then(data => {
-    const list = document.getElementById("list");
-    list.innerHTML = "";
+  <script>
+    async function loadLeaderboard() {
+      const res = await fetch("leaderboard.json?_=" + Date.now());
+      const data = await res.json();
 
-    data.leaderboard.forEach(user => {
-      list.innerHTML += `
-        <div class="card">
+      const board = document.getElementById("leaderboard");
+      board.innerHTML = "";
+
+      data.leaderboard.forEach(user => {
+        const row = document.createElement("div");
+        row.className = "row" + (user.rank === 1 ? " top" : "");
+
+        row.innerHTML = `
           <div class="rank">#${user.rank}</div>
-          <div class="wallet">💰 ${user.wallet.toLocaleString()} Swift Coins</div>
-          <div>👤 ${user.username}</div>
-        </div>
-      `;
-    });
+          <div class="username">${user.username}</div>
+          <div class="wallet">${user.wallet.toLocaleString()} 🪙</div>
+        `;
 
-    document.getElementById("updated").innerText =
-      "Updated: " + new Date(data.updated * 1000).toLocaleString();
-  })
-  .catch(err => {
-    document.getElementById("list").innerText = "Failed to load leaderboard.";
-    console.error(err);
-  });
-</script>
+        board.appendChild(row);
+      });
 
+      const updated = document.getElementById("updated");
+      const secondsAgo = Math.floor(Date.now() / 1000 - data.updated);
+      updated.textContent = `Last updated ${secondsAgo}s ago`;
+    }
+
+    loadLeaderboard();
+    setInterval(loadLeaderboard, 60000);
+  </script>
 </body>
 </html>
