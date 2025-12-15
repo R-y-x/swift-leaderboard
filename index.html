@@ -14,6 +14,7 @@
       --text: #e8f5ff;
       --muted: #8aa0b8;
       --gold: #ffd166;
+      --green: #4dffb5;
     }
 
     * {
@@ -34,7 +35,7 @@
 
     .container {
       width: 100%;
-      max-width: 720px;
+      max-width: 780px;
       background: linear-gradient(180deg, #0b1225, #070b18);
       border-radius: 16px;
       padding: 24px;
@@ -54,10 +55,9 @@
       text-align: center;
       font-size: 14px;
       color: var(--muted);
-      margin-bottom: 14px;
+      margin-bottom: 16px;
     }
 
-    /* 🔍 SEARCH BAR */
     .search-box {
       margin-bottom: 18px;
     }
@@ -71,16 +71,6 @@
       color: var(--text);
       font-size: 15px;
       outline: none;
-      transition: border 0.2s, box-shadow 0.2s;
-    }
-
-    .search-box input::placeholder {
-      color: var(--muted);
-    }
-
-    .search-box input:focus {
-      border-color: var(--accent);
-      box-shadow: 0 0 12px var(--accent-soft);
     }
 
     .leaderboard {
@@ -91,7 +81,8 @@
 
     .row {
       display: grid;
-      grid-template-columns: 50px 1fr auto;
+      grid-template-columns: 52px 1fr auto;
+      gap: 10px;
       align-items: center;
       padding: 12px 14px;
       background: rgba(255,255,255,0.02);
@@ -111,21 +102,38 @@
       text-align: center;
     }
 
-    .username {
-      font-weight: 600;
-      letter-spacing: 0.2px;
+    .user {
+      display: flex;
+      flex-direction: column;
+      gap: 2px;
     }
 
-    .wallet {
+    .username {
+      font-weight: 600;
+    }
+
+    .protection {
+      font-size: 12px;
+      color: var(--green);
+      opacity: 0.9;
+    }
+
+    .money {
+      text-align: right;
       font-weight: 700;
       color: var(--accent);
     }
 
-    /* 🥇 TOP 1 */
+    .usd {
+      font-size: 12px;
+      color: var(--muted);
+      font-weight: 500;
+    }
+
     .row.top {
       background: linear-gradient(
         90deg,
-        rgba(255, 209, 102, 0.15),
+        rgba(255, 209, 102, 0.18),
         rgba(255, 209, 102, 0.03)
       );
       border-color: rgba(255, 209, 102, 0.35);
@@ -167,10 +175,9 @@
   <div class="container">
     <h1>🏆 Swift Coins Leaderboard</h1>
     <div class="subtitle">
-      Top richest wallets · Auto updates every minute
+      Top richest wallets · Updates every minute
     </div>
 
-    <!-- 🔍 SEARCH -->
     <div class="search-box">
       <input
         type="text"
@@ -190,6 +197,14 @@
 
   <script>
     let leaderboardData = [];
+
+    function formatTime(seconds) {
+      if (seconds <= 0) return "0s";
+      const h = Math.floor(seconds / 3600);
+      const m = Math.floor((seconds % 3600) / 60);
+      if (h > 0) return `${h}h ${m}m`;
+      return `${m}m`;
+    }
 
     async function loadLeaderboard() {
       const res = await fetch("leaderboard.json?_=" + Date.now());
@@ -221,10 +236,20 @@
         const row = document.createElement("div");
         row.className = "row" + (user.rank === 1 ? " top" : "");
 
+        const protection = user.protected
+          ? `<div class="protection">🛡 ${formatTime(user.protection_remaining)}</div>`
+          : "";
+
         row.innerHTML = `
           <div class="rank">#${user.rank}</div>
-          <div class="username">${user.username}</div>
-          <div class="wallet">${user.wallet.toLocaleString()} 🪙</div>
+          <div class="user">
+            <div class="username">${user.username}</div>
+            ${protection}
+          </div>
+          <div class="money">
+            ${user.wallet.toLocaleString()} 🪙
+            <div class="usd">$${user.usd}</div>
+          </div>
         `;
 
         board.appendChild(row);
