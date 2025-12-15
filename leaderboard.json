@@ -1,104 +1,124 @@
 {
-  "updated": 1765827231,
+  "updated": 1765829716,
   "leaderboard": [
     {
       "rank": 1,
-      "user_id": 889499674891931698,
+      "user_id": "889499674891931698",
+      "username": "ryx_acc",
       "wallet": 644335
     },
     {
       "rank": 2,
-      "user_id": 1217459458662465536,
+      "user_id": "1217459458662465536",
+      "username": "i_am_dust_himself",
       "wallet": 144619
     },
     {
       "rank": 3,
-      "user_id": 1242858796460544050,
-      "wallet": 128971
+      "user_id": "1242858796460544050",
+      "username": "breaddripin",
+      "wallet": 135086
     },
     {
       "rank": 4,
-      "user_id": 1320513278887333919,
+      "user_id": "1320513278887333919",
+      "username": "bingbong877",
       "wallet": 96961
     },
     {
       "rank": 5,
-      "user_id": 1247576722476372090,
+      "user_id": "1247576722476372090",
+      "username": "fritz05209",
       "wallet": 82122
     },
     {
       "rank": 6,
-      "user_id": 1084097024355479732,
+      "user_id": "1084097024355479732",
+      "username": "clearyear123.",
       "wallet": 76395
     },
     {
       "rank": 7,
-      "user_id": 1020891980433211444,
+      "user_id": "1020891980433211444",
+      "username": "iam_nooob",
       "wallet": 69158
     },
     {
       "rank": 8,
-      "user_id": 1256677659753185363,
+      "user_id": "1256677659753185363",
+      "username": "foxyfelix09",
       "wallet": 57000
     },
     {
       "rank": 9,
-      "user_id": 1330619336603472034,
+      "user_id": "1330619336603472034",
+      "username": "vylence1",
       "wallet": 53378
     },
     {
       "rank": 10,
-      "user_id": 843223906243969074,
+      "user_id": "843223906243969074",
+      "username": "meowl_2222",
       "wallet": 47354
     },
     {
       "rank": 11,
-      "user_id": 1083768025737601075,
+      "user_id": "1083768025737601075",
+      "username": "mrgoldfish02",
       "wallet": 45851
     },
     {
       "rank": 12,
-      "user_id": 1257572580446175254,
+      "user_id": "1257572580446175254",
+      "username": "joshsfv",
       "wallet": 45529
     },
     {
       "rank": 13,
-      "user_id": 906171609247789118,
+      "user_id": "906171609247789118",
+      "username": ".a.h.t",
       "wallet": 33446
     },
     {
       "rank": 14,
-      "user_id": 778841248382713897,
+      "user_id": "778841248382713897",
+      "username": "senkopost",
       "wallet": 27000
     },
     {
       "rank": 15,
-      "user_id": 913401790123372544,
+      "user_id": "913401790123372544",
+      "username": "da_wink",
       "wallet": 27000
     },
     {
       "rank": 16,
-      "user_id": 1433024569580720169,
+      "user_id": "1433024569580720169",
+      "username": "potatob0774",
       "wallet": 27000
     },
     {
       "rank": 17,
-      "user_id": 1184734239917350925,
+      "user_id": "1184734239917350925",
+      "username": "freakydark_knight69",
       "wallet": 26500
     },
     {
       "rank": 18,
-      "user_id": 1034508461066686544,
+      "user_id": "1034508461066686544",
+      "username": "demopic1407",
       "wallet": 25375
     },
     {
       "rank": 19,
-      "user_id": 1316481315624976407,
+      "user_id": "1316481315624976407",
+      "username": "nahwaitaminute_06887",
       "wallet": 25258
     },
     {
       "rank": 20,
-      "user_id": 1057102480275689575,
+      "user_id": "1057102480275689575",
+      "username": "alessandro0_0",
       "wallet": 22558
     }
   ]
