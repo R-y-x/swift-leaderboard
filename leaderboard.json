@@ -1,12 +1,12 @@
 {
-  "updated": 1765838487,
+  "updated": 1765838569,
   "leaderboard": [
     {
       "rank": 1,
       "user_id": "889499674891931698",
       "username": "ryx_acc",
-      "wallet": 655878,
-      "usd": 19.676,
+      "wallet": 661269,
+      "usd": 19.838,
       "protected": false,
       "protection_remaining": 0
     },
@@ -26,23 +26,23 @@
       "wallet": 135086,
       "usd": 4.053,
       "protected": true,
-      "protection_remaining": 38892
+      "protection_remaining": 38811
     },
     {
       "rank": 4,
-      "user_id": "1093718723753431110",
-      "username": "your1and._only",
-      "wallet": 125021,
-      "usd": 3.751,
+      "user_id": "1320513278887333919",
+      "username": "bingbong877",
+      "wallet": 96961,
+      "usd": 2.909,
       "protected": false,
       "protection_remaining": 0
     },
     {
       "rank": 5,
-      "user_id": "1320513278887333919",
-      "username": "bingbong877",
-      "wallet": 96961,
-      "usd": 2.909,
+      "user_id": "1093718723753431110",
+      "username": "your1and._only",
+      "wallet": 90021,
+      "usd": 2.701,
       "protected": false,
       "protection_remaining": 0
     },
@@ -62,7 +62,7 @@
       "wallet": 76395,
       "usd": 2.292,
       "protected": true,
-      "protection_remaining": 4267
+      "protection_remaining": 4185
     },
     {
       "rank": 8,
@@ -368,7 +368,7 @@
       "wallet": 11526,
       "usd": 0.346,
       "protected": true,
-      "protection_remaining": 5718
+      "protection_remaining": 5636
     },
     {
       "rank": 42,
