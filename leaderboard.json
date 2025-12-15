@@ -1,12 +1,12 @@
 {
-  "updated": 1765837881,
+  "updated": 1765837960,
   "leaderboard": [
     {
       "rank": 1,
       "user_id": "889499674891931698",
       "username": "ryx_acc",
-      "wallet": 630899,
-      "usd": 18.927,
+      "wallet": 730899,
+      "usd": 21.927,
       "protected": false,
       "protection_remaining": 0
     },
@@ -26,7 +26,7 @@
       "wallet": 135086,
       "usd": 4.053,
       "protected": true,
-      "protection_remaining": 39498
+      "protection_remaining": 39419
     },
     {
       "rank": 4,
@@ -53,7 +53,7 @@
       "wallet": 76395,
       "usd": 2.292,
       "protected": true,
-      "protection_remaining": 4873
+      "protection_remaining": 4793
     },
     {
       "rank": 7,
@@ -368,7 +368,7 @@
       "wallet": 11526,
       "usd": 0.346,
       "protected": true,
-      "protection_remaining": 6324
+      "protection_remaining": 6244
     },
     {
       "rank": 42,
