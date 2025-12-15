@@ -1,5 +1,5 @@
 {
-  "updated": 1765837114,
+  "updated": 1765837193,
   "leaderboard": [
     {
       "rank": 1,
@@ -26,7 +26,7 @@
       "wallet": 135086,
       "usd": 4.053,
       "protected": true,
-      "protection_remaining": 40265
+      "protection_remaining": 40186
     },
     {
       "rank": 4,
@@ -53,7 +53,7 @@
       "wallet": 76395,
       "usd": 2.292,
       "protected": true,
-      "protection_remaining": 5640
+      "protection_remaining": 5561
     },
     {
       "rank": 7,
@@ -359,7 +359,7 @@
       "wallet": 11526,
       "usd": 0.346,
       "protected": true,
-      "protection_remaining": 7091
+      "protection_remaining": 7012
     },
     {
       "rank": 41,
@@ -579,6 +579,15 @@
     },
     {
       "rank": 65,
+      "user_id": "1093718723753431110",
+      "username": "your1and._only",
+      "wallet": 7000,
+      "usd": 0.21,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 66,
       "user_id": "1124551746207887412",
       "username": "mrturtleig",
       "wallet": 7000,
@@ -587,7 +596,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 66,
+      "rank": 67,
       "user_id": "1177560878523109436",
       "username": "nav_god",
       "wallet": 7000,
@@ -596,7 +605,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 67,
+      "rank": 68,
       "user_id": "1178549680238497873",
       "username": "aprilfoo4",
       "wallet": 7000,
@@ -605,7 +614,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 68,
+      "rank": 69,
       "user_id": "1196157075185737779",
       "username": "diablo0823",
       "wallet": 7000,
@@ -614,7 +623,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 69,
+      "rank": 70,
       "user_id": "1200833137970782309",
       "username": "xxlucas08",
       "wallet": 7000,
@@ -623,7 +632,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 70,
+      "rank": 71,
       "user_id": "1202668573630144604",
       "username": "glg_edits",
       "wallet": 7000,
@@ -632,7 +641,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 71,
+      "rank": 72,
       "user_id": "1204855414651617310",
       "username": "gapsi0",
       "wallet": 7000,
@@ -641,7 +650,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 72,
+      "rank": 73,
       "user_id": "1226873713379770419",
       "username": "frostykutya",
       "wallet": 7000,
@@ -650,7 +659,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 73,
+      "rank": 74,
       "user_id": "1229048000714637417",
       "username": "voidy.boy.hehe_96124",
       "wallet": 7000,
@@ -659,18 +668,9 @@
       "protection_remaining": 0
     },
     {
-      "rank": 74,
+      "rank": 75,
       "user_id": "1324990944348733532",
       "username": "utooslow_999",
-      "wallet": 7000,
-      "usd": 0.21,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 75,
-      "user_id": "1347899640338452563",
-      "username": "speedblox69",
       "wallet": 7000,
       "usd": 0.21,
       "protected": false,
