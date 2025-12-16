@@ -1,5 +1,5 @@
 {
-  "updated": 1765897075,
+  "updated": 1765897154,
   "leaderboard": [
     {
       "rank": 1,
@@ -8,7 +8,7 @@
       "wallet": 403446,
       "usd": 12.103,
       "protected": true,
-      "protection_remaining": 27138
+      "protection_remaining": 27059
     },
     {
       "rank": 2,
@@ -17,7 +17,7 @@
       "wallet": 400000,
       "usd": 12.0,
       "protected": true,
-      "protection_remaining": 25004
+      "protection_remaining": 24925
     },
     {
       "rank": 3,
@@ -138,19 +138,19 @@
     },
     {
       "rank": 16,
-      "user_id": "913401790123372544",
-      "username": "da_wink",
-      "wallet": 27000,
-      "usd": 0.81,
+      "user_id": "1184734239917350925",
+      "username": "freakydark_knight69",
+      "wallet": 31500,
+      "usd": 0.945,
       "protected": false,
       "protection_remaining": 0
     },
     {
       "rank": 17,
-      "user_id": "1184734239917350925",
-      "username": "freakydark_knight69",
-      "wallet": 26500,
-      "usd": 0.795,
+      "user_id": "913401790123372544",
+      "username": "da_wink",
+      "wallet": 27000,
+      "usd": 0.81,
       "protected": false,
       "protection_remaining": 0
     },
