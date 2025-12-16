@@ -1,5 +1,5 @@
 {
-  "updated": 1765910128,
+  "updated": 1765910728,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 463446,
       "usd": 13.903,
       "protected": true,
-      "protection_remaining": 14086
+      "protection_remaining": 13486
     },
     {
       "rank": 2,
@@ -76,8 +76,8 @@
       "user_id": "843223906243969074",
       "username": "meowl_2222",
       "avatar": "https://cdn.discordapp.com/avatars/843223906243969074/4ef64370bfb23555739dc46aca3a0671.png?size=128",
-      "wallet": 48254,
-      "usd": 1.448,
+      "wallet": 52754,
+      "usd": 1.583,
       "protected": false,
       "protection_remaining": 0
     },
@@ -199,7 +199,7 @@
       "wallet": 22693,
       "usd": 0.681,
       "protected": true,
-      "protection_remaining": 41102
+      "protection_remaining": 40502
     },
     {
       "rank": 21,
