@@ -1,5 +1,5 @@
 {
-  "updated": 1765895157,
+  "updated": 1765895236,
   "leaderboard": [
     {
       "rank": 1,
@@ -8,7 +8,7 @@
       "wallet": 403446,
       "usd": 12.103,
       "protected": true,
-      "protection_remaining": 29056
+      "protection_remaining": 28977
     },
     {
       "rank": 2,
@@ -17,14 +17,14 @@
       "wallet": 400000,
       "usd": 12.0,
       "protected": true,
-      "protection_remaining": 26922
+      "protection_remaining": 26843
     },
     {
       "rank": 3,
       "user_id": "1217459458662465536",
       "username": "i_am_dust_himself",
-      "wallet": 114284,
-      "usd": 3.429,
+      "wallet": 116608,
+      "usd": 3.498,
       "protected": false,
       "protection_remaining": 0
     },
@@ -48,15 +48,6 @@
     },
     {
       "rank": 6,
-      "user_id": "1084097024355479732",
-      "username": "clearyear123.",
-      "wallet": 76395,
-      "usd": 2.292,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 7,
       "user_id": "1020891980433211444",
       "username": "iam_nooob",
       "wallet": 69158,
@@ -65,7 +56,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 8,
+      "rank": 7,
       "user_id": "1256677659753185363",
       "username": "foxyfelix09",
       "wallet": 57000,
@@ -74,7 +65,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 9,
+      "rank": 8,
       "user_id": "1330619336603472034",
       "username": "vylence1",
       "wallet": 53378,
@@ -83,7 +74,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 10,
+      "rank": 9,
       "user_id": "843223906243969074",
       "username": "meowl_2222",
       "wallet": 47354,
@@ -92,7 +83,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 11,
+      "rank": 10,
       "user_id": "1083768025737601075",
       "username": "mrgoldfish02",
       "wallet": 45851,
@@ -101,11 +92,20 @@
       "protection_remaining": 0
     },
     {
-      "rank": 12,
+      "rank": 11,
       "user_id": "1257572580446175254",
       "username": "joshsfv",
       "wallet": 45529,
       "usd": 1.366,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 12,
+      "user_id": "1084097024355479732",
+      "username": "clearyear123.",
+      "wallet": 43571,
+      "usd": 1.307,
       "protected": false,
       "protection_remaining": 0
     },
