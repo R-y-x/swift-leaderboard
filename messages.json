@@ -1,5 +1,5 @@
 {
-  "updated": 1765920928,
+  "updated": 1765921528,
   "leaderboard": [
     {
       "rank": 1,
@@ -254,7 +254,7 @@
       "user_id": "1093718723753431110",
       "username": "your1and._only",
       "avatar": "https://cdn.discordapp.com/avatars/1093718723753431110/d0b9e0dcb1ee8b6c612be0fb97f6f850.png?size=128",
-      "messages": 196,
+      "messages": 197,
       "level": 7
     },
     {
@@ -291,6 +291,14 @@
     },
     {
       "rank": 37,
+      "user_id": "706348880786096130",
+      "username": "jerry_472",
+      "avatar": "https://cdn.discordapp.com/avatars/706348880786096130/8bc684e825a6829e54bae908fe104c20.png?size=128",
+      "messages": 145,
+      "level": 6
+    },
+    {
+      "rank": 38,
       "user_id": "1330883338398863372",
       "username": "koi090907",
       "avatar": "https://cdn.discordapp.com/avatars/1330883338398863372/e39557b99308a285b3f8589495e64d4d.png?size=128",
@@ -298,7 +306,7 @@
       "level": 6
     },
     {
-      "rank": 38,
+      "rank": 39,
       "user_id": "1436344372734988479",
       "username": "display_14975",
       "avatar": "https://cdn.discordapp.com/embed/avatars/0.png?size=128",
@@ -306,19 +314,11 @@
       "level": 6
     },
     {
-      "rank": 39,
+      "rank": 40,
       "user_id": "1320513278887333919",
       "username": "bingbong877",
       "avatar": "https://cdn.discordapp.com/avatars/1320513278887333919/17dbfbe719488c8ed5217e93df5071ba.png?size=128",
       "messages": 144,
-      "level": 6
-    },
-    {
-      "rank": 40,
-      "user_id": "706348880786096130",
-      "username": "jerry_472",
-      "avatar": "https://cdn.discordapp.com/avatars/706348880786096130/8bc684e825a6829e54bae908fe104c20.png?size=128",
-      "messages": 142,
       "level": 6
     },
     {
@@ -350,7 +350,7 @@
       "user_id": "694954634854400090",
       "username": "sawrules",
       "avatar": "https://cdn.discordapp.com/avatars/694954634854400090/d0d907865de80d040f4b4976f3a94edd.png?size=128",
-      "messages": 113,
+      "messages": 115,
       "level": 6
     },
     {
