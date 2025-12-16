@@ -1,447 +1,279 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8" />
-  <title>Swift Leaderboards</title>
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta charset="UTF-8">
+<title>Swift Leaderboard</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <style>
-    :root{
-      --bg:#050812;
-      --panel:#0b1020;
-      --panel2:#0d1730;
-      --accent:#00c8ff;
-      --accentSoft:rgba(0,200,255,.18);
-      --text:#e8f5ff;
-      --muted:#8aa0b8;
-      --gold:#ffd166;
-      --red:#ff5c7a;
-      --green:#4dffb5;
-    }
+<style>
+:root{
+  --bg1:#0a1430;
+  --bg2:#050812;
+  --panel:#0b1a3a;
+  --row:#10245a;
+  --accent:#4aa3ff;
+  --accentGlow:rgba(74,163,255,.45);
+  --text:#eaf3ff;
+  --muted:#9bb0d3;
+  --gold:#ffd166;
+}
 
-    *{ box-sizing:border-box; font-family: "Segoe UI", system-ui, sans-serif; }
-    body{
-      margin:0;
-      min-height:100vh;
-      background: radial-gradient(circle at top, #0a1b33, var(--bg));
-      color:var(--text);
-      display:flex;
-      justify-content:center;
-      padding:24px;
-    }
+*{box-sizing:border-box;font-family:Segoe UI,system-ui,sans-serif}
 
-    .wrap{
-      width:min(980px, 100%);
-    }
+body{
+  margin:0;
+  min-height:100vh;
+  background:radial-gradient(circle at top,var(--bg1),var(--bg2));
+  display:flex;
+  justify-content:center;
+  padding:28px;
+  color:var(--text);
+}
 
-    .topbar{
-      display:flex;
-      align-items:center;
-      justify-content:space-between;
-      gap:12px;
-      margin-bottom:14px;
-    }
+.container{
+  width:100%;
+  max-width:820px;
+}
 
-    .brand{
-      display:flex;
-      align-items:center;
-      gap:10px;
-    }
+/* ===== HEADER ===== */
+.header{
+  text-align:center;
+  margin-bottom:18px;
+}
 
-    .dot{
-      width:12px;height:12px;border-radius:50%;
-      background:var(--accent);
-      box-shadow: 0 0 16px var(--accent);
-    }
+.header h1{
+  margin:0;
+  font-size:22px;
+  letter-spacing:.5px;
+}
 
-    h1{
-      font-size:18px;
-      margin:0;
-      letter-spacing:.3px;
-      font-weight:700;
-    }
+.header span{
+  font-size:13px;
+  color:var(--muted);
+}
 
-    .controls{
-      display:flex;
-      gap:10px;
-      flex-wrap:wrap;
-      align-items:center;
-      justify-content:flex-end;
-    }
+/* ===== CARD ===== */
+.card{
+  background:linear-gradient(180deg,#0e1f4a,#081433);
+  border-radius:22px;
+  padding:18px;
+  box-shadow:0 0 0 2px rgba(74,163,255,.15),0 25px 60px rgba(0,0,0,.45);
+  position:relative;
+}
 
-    .tabs{
-      display:flex;
-      background:rgba(255,255,255,.04);
-      border:1px solid rgba(255,255,255,.06);
-      border-radius:14px;
-      overflow:hidden;
-    }
+/* ===== TOP CONTROLS ===== */
+.controls{
+  display:flex;
+  gap:10px;
+  justify-content:space-between;
+  flex-wrap:wrap;
+  margin-bottom:12px;
+}
 
-    .tab{
-      padding:10px 12px;
-      cursor:pointer;
-      user-select:none;
-      font-weight:700;
-      color:var(--muted);
-      transition:.18s;
-      display:flex;
-      align-items:center;
-      gap:8px;
-      font-size:13px;
-    }
-    .tab.active{
-      color:var(--text);
-      background:linear-gradient(180deg, rgba(0,200,255,.18), rgba(0,200,255,.06));
-      box-shadow: inset 0 0 0 1px rgba(0,200,255,.20);
-    }
+.tabs{
+  display:flex;
+  background:rgba(255,255,255,.05);
+  border-radius:14px;
+  overflow:hidden;
+}
 
-    .search{
-      position:relative;
-      min-width:260px;
-      flex:1;
-      max-width:360px;
-    }
-    .search input{
-      width:100%;
-      padding:10px 12px 10px 36px;
-      border-radius:14px;
-      border:1px solid rgba(255,255,255,.08);
-      background:rgba(255,255,255,.04);
-      color:var(--text);
-      outline:none;
-    }
-    .search input:focus{
-      border-color:rgba(0,200,255,.35);
-      box-shadow:0 0 0 3px var(--accentSoft);
-    }
-    .search .icon{
-      position:absolute;
-      left:12px;
-      top:50%;
-      transform:translateY(-50%);
-      opacity:.8;
-      color:var(--muted);
-      font-size:14px;
-    }
+.tab{
+  padding:8px 14px;
+  cursor:pointer;
+  font-weight:700;
+  font-size:13px;
+  color:var(--muted);
+}
 
-    .card{
-      background:linear-gradient(180deg, rgba(255,255,255,.06), rgba(255,255,255,.03));
-      border:1px solid rgba(255,255,255,.07);
-      border-radius:18px;
-      padding:16px;
-      box-shadow:0 18px 40px rgba(0,0,0,.35);
-      overflow:hidden;
-      position:relative;
-    }
+.tab.active{
+  background:linear-gradient(180deg,rgba(74,163,255,.35),rgba(74,163,255,.15));
+  color:white;
+}
 
-    .meta{
-      display:flex;
-      align-items:center;
-      justify-content:space-between;
-      gap:12px;
-      color:var(--muted);
-      font-size:12px;
-      margin-bottom:10px;
-    }
+.search input{
+  background:rgba(255,255,255,.06);
+  border:1px solid rgba(255,255,255,.1);
+  border-radius:14px;
+  padding:8px 12px;
+  color:white;
+  outline:none;
+}
 
-    .pill{
-      border:1px solid rgba(0,200,255,.22);
-      background:rgba(0,200,255,.08);
-      color:var(--text);
-      padding:6px 10px;
-      border-radius:999px;
-      font-weight:700;
-      font-size:12px;
-    }
+/* ===== ROWS ===== */
+.list{
+  display:flex;
+  flex-direction:column;
+  gap:10px;
+}
 
-    .list{
-      display:flex;
-      flex-direction:column;
-      gap:10px;
-    }
+.row{
+  display:grid;
+  grid-template-columns:60px 1fr auto;
+  gap:12px;
+  align-items:center;
+  background:linear-gradient(90deg,#0f255e,#0b1b44);
+  padding:10px 14px;
+  border-radius:16px;
+  box-shadow:inset 0 0 0 1px rgba(255,255,255,.08);
+}
 
-    .row{
-      display:grid;
-      grid-template-columns: 56px 1fr auto;
-      align-items:center;
-      gap:12px;
-      padding:10px;
-      border-radius:16px;
-      border:1px solid rgba(255,255,255,.06);
-      background:rgba(0,0,0,.18);
-      transition:.15s;
-    }
-    .row:hover{
-      border-color: rgba(0,200,255,.22);
-      box-shadow: 0 0 0 3px var(--accentSoft);
-    }
+.rank{
+  font-size:20px;
+  font-weight:900;
+  text-align:center;
+}
 
-    .left{
-      display:flex;
-      align-items:center;
-      gap:10px;
-      min-width:0;
-    }
+.avatar{
+  width:42px;
+  height:42px;
+  border-radius:50%;
+  border:2px solid var(--accent);
+  box-shadow:0 0 12px var(--accentGlow);
+}
 
-    .rank{
-      width:28px;
-      text-align:center;
-      font-weight:900;
-      color:var(--muted);
-    }
+.user{
+  display:flex;
+  gap:10px;
+  align-items:center;
+}
 
-    .avatar{
-      width:38px;height:38px;
-      border-radius:50%;
-      border:2px solid rgba(0,200,255,.35);
-      box-shadow:0 0 18px rgba(0,200,255,.12);
-      flex:0 0 auto;
-      background:rgba(255,255,255,.06);
-      object-fit:cover;
-    }
+.name{
+  font-weight:800;
+  font-size:14px;
+  line-height:1.2;
+  white-space:normal;        /* IMPORTANT */
+  word-break:break-word;     /* IMPORTANT */
+}
 
-    .nameWrap{
-      display:flex;
-      flex-direction:column;
-      gap:2px;
-      min-width:0;
-    }
+.sub{
+  font-size:11px;
+  color:var(--muted);
+}
 
-    .username{
-      font-weight:800;
-      white-space:nowrap;
-      overflow:hidden;
-      text-overflow:ellipsis;
-      max-width: 520px;
-    }
+/* ===== STARS ===== */
+.stars{
+  color:#ffc83d;
+  font-size:14px;
+  margin-top:3px;
+}
 
-    .sub{
-      color:var(--muted);
-      font-size:12px;
-      white-space:nowrap;
-      overflow:hidden;
-      text-overflow:ellipsis;
-      max-width: 520px;
-    }
+.value{
+  text-align:right;
+  font-weight:900;
+}
 
-    .value{
-      font-weight:900;
-      letter-spacing:.2px;
-      text-align:right;
-      padding-left:10px;
-      white-space:nowrap;
-    }
+.value small{
+  display:block;
+  font-size:11px;
+  color:var(--muted);
+}
 
-    .value small{
-      display:block;
-      color:var(--muted);
-      font-weight:700;
-      margin-top:2px;
-      font-size:12px;
-    }
-
-    .crown{
-      color:var(--gold);
-      margin-left:6px;
-      filter: drop-shadow(0 0 10px rgba(255,209,102,.30));
-    }
-
-    .empty{
-      padding:18px;
-      border-radius:16px;
-      border:1px dashed rgba(255,255,255,.12);
-      color:var(--muted);
-      text-align:center;
-    }
-
-    .footerNote{
-      margin-top:12px;
-      color:var(--muted);
-      font-size:12px;
-      text-align:center;
-    }
-
-    a.linkBtn{
-      color:var(--text);
-      text-decoration:none;
-      font-weight:800;
-      border:1px solid rgba(255,255,255,.10);
-      background:rgba(255,255,255,.04);
-      padding:10px 12px;
-      border-radius:14px;
-      transition:.15s;
-    }
-    a.linkBtn:hover{
-      border-color: rgba(0,200,255,.22);
-      box-shadow: 0 0 0 3px var(--accentSoft);
-    }
-  </style>
+/* ===== EMPTY ===== */
+.empty{
+  text-align:center;
+  padding:18px;
+  color:var(--muted);
+}
+</style>
 </head>
 
 <body>
-  <div class="wrap">
+<div class="container">
 
-    <div class="topbar">
-      <div class="brand">
-        <div class="dot"></div>
-        <div>
-          <h1>Swift Leaderboards</h1>
-          <div style="color:var(--muted); font-size:12px;">Coins + Messages • with PFPs</div>
-        </div>
-      </div>
-
-      <div class="controls">
-        <div class="tabs">
-          <div class="tab active" id="tabCoins">🪙 Coins</div>
-          <div class="tab" id="tabMessages">💬 Messages</div>
-        </div>
-
-        <div class="search">
-          <div class="icon">🔎</div>
-          <input id="searchInput" placeholder="Search user..." autocomplete="off" />
-        </div>
-
-        <a class="linkBtn" href="https://r-y-x.github.io/swift-leaderboard/" target="_blank">Full Site ↗</a>
-      </div>
-    </div>
-
-    <div class="card">
-      <div class="meta">
-        <div class="pill" id="modePill">🪙 Coins leaderboard</div>
-        <div id="updatedText">Updated: —</div>
-      </div>
-
-      <div class="list" id="list"></div>
-
-      <div class="footerNote">
-        Tip: usernames are cached from your JSON, so this loads fast on GitHub Pages.
-      </div>
-    </div>
-
+  <div class="header">
+    <h1>🏆 LEADERBOARD</h1>
+    <span>Swift Coins & Messages</span>
   </div>
 
-<script>
-  // ---- FILE PATHS (same folder as index.html) ----
-  const COINS_URL = "leaderboard.json";
-  const MSGS_URL  = "messages.json";
+  <div class="card">
 
-  let mode = "coins";
-  let coinsData = null;
-  let msgsData = null;
-
-  const listEl = document.getElementById("list");
-  const updatedText = document.getElementById("updatedText");
-  const modePill = document.getElementById("modePill");
-  const searchInput = document.getElementById("searchInput");
-
-  const tabCoins = document.getElementById("tabCoins");
-  const tabMessages = document.getElementById("tabMessages");
-
-  function fmtTime(unix) {
-    if (!unix) return "—";
-    const d = new Date(unix * 1000);
-    return d.toLocaleString();
-  }
-
-  function safeText(s) {
-    return (s ?? "").toString().replaceAll("<", "&lt;").replaceAll(">", "&gt;");
-  }
-
-  function renderRow(u) {
-    const isTop1 = u.rank === 1;
-
-    const username = safeText(u.username || "Unknown");
-    const avatar = u.avatar || "https://cdn.discordapp.com/embed/avatars/0.png";
-
-    let valueMain = "";
-    let valueSub  = "";
-
-    if (mode === "coins") {
-      const wallet = Number(u.wallet || 0);
-      valueMain = `${wallet.toLocaleString()} 🪙`;
-      valueSub = `$${(u.usd ?? 0).toLocaleString()}`;
-      if (u.protected) valueSub += " • 🛡 protected";
-    } else {
-      const msgs = Number(u.messages || 0);
-      valueMain = `${msgs.toLocaleString()} msgs`;
-      valueSub = `Level ${Number(u.level || 0)}`;
-    }
-
-    return `
-      <div class="row">
-        <div class="left">
-          <div class="rank">${isTop1 ? "🥇" : "#" + u.rank}</div>
-          <img class="avatar" src="${avatar}" loading="lazy" referrerpolicy="no-referrer" />
-          <div class="nameWrap">
-            <div class="username">${username}${isTop1 ? `<span class="crown">👑</span>` : ""}</div>
-            <div class="sub">ID: ${safeText(u.user_id || "")}</div>
-          </div>
-        </div>
-
-        <div class="value">
-          ${valueMain}
-          <small>${valueSub}</small>
-        </div>
+    <div class="controls">
+      <div class="tabs">
+        <div class="tab active" id="tabCoins">🪙 Coins</div>
+        <div class="tab" id="tabMsgs">💬 Messages</div>
       </div>
-    `;
+
+      <div class="search">
+        <input id="search" placeholder="Search username...">
+      </div>
+    </div>
+
+    <div class="list" id="list"></div>
+
+  </div>
+</div>
+
+<script>
+const COINS_URL="leaderboard.json";
+const MSGS_URL="messages.json";
+
+let mode="coins",coins=null,msgs=null;
+
+const list=document.getElementById("list");
+const search=document.getElementById("search");
+
+const tabCoins=document.getElementById("tabCoins");
+const tabMsgs=document.getElementById("tabMsgs");
+
+const medals=["🥇","🥈","🥉"];
+
+function stars(rank){
+  let s=5-Math.min(rank-1,4);
+  return "★".repeat(s)+"☆".repeat(5-s);
+}
+
+function row(u){
+  const r=u.rank||0;
+  const medal=medals[r-1]||`#${r}`;
+  const avatar=u.avatar||"https://cdn.discordapp.com/embed/avatars/0.png";
+
+  let main,sub;
+  if(mode==="coins"){
+    main=`${Number(u.wallet||0).toLocaleString()} 🪙`;
+    sub=u.protected?"Protected 🛡":"";
+  }else{
+    main=`${Number(u.messages||0).toLocaleString()} msgs`;
+    sub=`Level ${u.level||0}`;
   }
 
-  function renderList(data) {
-    const q = searchInput.value.trim().toLowerCase();
-    const arr = (data?.leaderboard || []);
+  return `
+  <div class="row">
+    <div class="rank">${medal}</div>
+    <div class="user">
+      <img class="avatar" src="${avatar}">
+      <div>
+        <div class="name">${u.username||"Unknown"}</div>
+        <div class="stars">${stars(r)}</div>
+        <div class="sub">${u.user_id||""}</div>
+      </div>
+    </div>
+    <div class="value">
+      ${main}
+      <small>${sub}</small>
+    </div>
+  </div>`;
+}
 
-    const filtered = q
-      ? arr.filter(u => (u.username || "").toLowerCase().includes(q) || (u.user_id || "").includes(q))
-      : arr;
+function render(data){
+  if(!data){list.innerHTML=`<div class="empty">No data</div>`;return;}
+  const q=search.value.toLowerCase();
+  const arr=data.leaderboard.filter(u=>
+    (u.username||"").toLowerCase().includes(q)
+  );
+  list.innerHTML=arr.length?arr.map(row).join(""):`<div class="empty">No results</div>`;
+}
 
-    if (!filtered.length) {
-      listEl.innerHTML = `<div class="empty">No results.</div>`;
-      return;
-    }
+async function load(){
+  coins=await fetch(COINS_URL).then(r=>r.json()).catch(()=>null);
+  msgs =await fetch(MSGS_URL).then(r=>r.json()).catch(()=>null);
+  render(coins);
+}
 
-    listEl.innerHTML = filtered.map(renderRow).join("");
-  }
+tabCoins.onclick=()=>{mode="coins";tabCoins.classList.add("active");tabMsgs.classList.remove("active");render(coins);}
+tabMsgs.onclick =()=>{mode="msgs";tabMsgs.classList.add("active");tabCoins.classList.remove("active");render(msgs);}
+search.oninput=()=>render(mode==="coins"?coins:msgs);
 
-  async function fetchJson(url) {
-    const res = await fetch(url, { cache: "no-store" });
-    if (!res.ok) throw new Error(`Failed to load ${url} (${res.status})`);
-    return await res.json();
-  }
-
-  async function loadAll() {
-    try {
-      // load both in parallel (fast)
-      const [c, m] = await Promise.allSettled([fetchJson(COINS_URL), fetchJson(MSGS_URL)]);
-      coinsData = (c.status === "fulfilled") ? c.value : null;
-      msgsData  = (m.status === "fulfilled") ? m.value : null;
-
-      applyMode(mode);
-    } catch (e) {
-      listEl.innerHTML = `<div class="empty">Failed to load JSON files. Check that leaderboard.json and messages.json are in the same folder as index.html.</div>`;
-    }
-  }
-
-  function applyMode(newMode) {
-    mode = newMode;
-
-    tabCoins.classList.toggle("active", mode === "coins");
-    tabMessages.classList.toggle("active", mode === "messages");
-
-    modePill.textContent = (mode === "coins") ? "🪙 Coins leaderboard" : "💬 Messages leaderboard";
-
-    const data = (mode === "coins") ? coinsData : msgsData;
-
-    updatedText.textContent = `Updated: ${fmtTime(data?.updated)}`;
-
-    renderList(data);
-  }
-
-  // events
-  tabCoins.addEventListener("click", () => applyMode("coins"));
-  tabMessages.addEventListener("click", () => applyMode("messages"));
-  searchInput.addEventListener("input", () => applyMode(mode));
-
-  loadAll();
+load();
 </script>
 </body>
 </html>
