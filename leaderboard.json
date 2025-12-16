@@ -1,5 +1,5 @@
 {
-  "updated": 1765910728,
+  "updated": 1765911328,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 463446,
       "usd": 13.903,
       "protected": true,
-      "protection_remaining": 13486
+      "protection_remaining": 12886
     },
     {
       "rank": 2,
@@ -199,7 +199,7 @@
       "wallet": 22693,
       "usd": 0.681,
       "protected": true,
-      "protection_remaining": 40502
+      "protection_remaining": 39902
     },
     {
       "rank": 21,
@@ -354,8 +354,8 @@
     {
       "rank": 36,
       "user_id": "1404449812673331203",
-      "username": "kisuke_oldsigma_boyfr_realaizen",
-      "avatar": "https://cdn.discordapp.com/avatars/1404449812673331203/482a3ae2c2bd4ff979f71f55b56ce046.png?size=128",
+      "username": "aizen_endarc",
+      "avatar": "https://cdn.discordapp.com/avatars/1404449812673331203/84f77db659ec91d7fa2356e6d235bc3e.png?size=128",
       "wallet": 13500,
       "usd": 0.405,
       "protected": false,
