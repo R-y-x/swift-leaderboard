@@ -1,5 +1,5 @@
 {
-  "updated": 1765889041,
+  "updated": 1765889120,
   "leaderboard": [
     {
       "rank": 1,
@@ -8,7 +8,7 @@
       "wallet": 403446,
       "usd": 12.103,
       "protected": true,
-      "protection_remaining": 35172
+      "protection_remaining": 35093
     },
     {
       "rank": 2,
@@ -17,7 +17,7 @@
       "wallet": 400000,
       "usd": 12.0,
       "protected": true,
-      "protection_remaining": 33038
+      "protection_remaining": 32959
     },
     {
       "rank": 3,
@@ -194,8 +194,8 @@
       "rank": 22,
       "user_id": "1242858796460544050",
       "username": "breaddripin",
-      "wallet": 20809,
-      "usd": 0.624,
+      "wallet": 20908,
+      "usd": 0.627,
       "protected": false,
       "protection_remaining": 0
     },
