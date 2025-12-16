@@ -1,5 +1,5 @@
 {
-  "updated": 1765908928,
+  "updated": 1765909528,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,15 +9,15 @@
       "wallet": 463446,
       "usd": 13.903,
       "protected": true,
-      "protection_remaining": 15286
+      "protection_remaining": 14686
     },
     {
       "rank": 2,
       "user_id": "1217459458662465536",
       "username": "i_am_dust_himself",
       "avatar": "https://cdn.discordapp.com/avatars/1217459458662465536/6fb3c2bcc1c4ccfbef2c7bf58ed60eff.png?size=128",
-      "wallet": 109531,
-      "usd": 3.286,
+      "wallet": 114031,
+      "usd": 3.421,
       "protected": false,
       "protection_remaining": 0
     },
@@ -76,8 +76,8 @@
       "user_id": "843223906243969074",
       "username": "meowl_2222",
       "avatar": "https://cdn.discordapp.com/avatars/843223906243969074/4ef64370bfb23555739dc46aca3a0671.png?size=128",
-      "wallet": 47354,
-      "usd": 1.421,
+      "wallet": 48254,
+      "usd": 1.448,
       "protected": false,
       "protection_remaining": 0
     },
@@ -199,25 +199,25 @@
       "wallet": 22693,
       "usd": 0.681,
       "protected": true,
-      "protection_remaining": 42302
+      "protection_remaining": 41702
     },
     {
       "rank": 21,
-      "user_id": "1057102480275689575",
-      "username": "alessandro0_0",
-      "avatar": "https://cdn.discordapp.com/avatars/1057102480275689575/73d9f1c56ad08fb9527800ce3dce4f3c.png?size=128",
-      "wallet": 22558,
-      "usd": 0.677,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 22,
       "user_id": "1409804032024772650",
       "username": "fsa1nt",
       "avatar": "https://cdn.discordapp.com/avatars/1409804032024772650/4c3c1ce5f455086a3eb06c7b14c2f82f.png?size=128",
       "wallet": 22185,
       "usd": 0.666,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 22,
+      "user_id": "1057102480275689575",
+      "username": "alessandro0_0",
+      "avatar": "https://cdn.discordapp.com/avatars/1057102480275689575/73d9f1c56ad08fb9527800ce3dce4f3c.png?size=128",
+      "wallet": 21659,
+      "usd": 0.65,
       "protected": false,
       "protection_remaining": 0
     },
