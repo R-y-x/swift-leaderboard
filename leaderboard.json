@@ -1,5 +1,5 @@
 {
-  "updated": 1765896551,
+  "updated": 1765896630,
   "leaderboard": [
     {
       "rank": 1,
@@ -8,7 +8,7 @@
       "wallet": 403446,
       "usd": 12.103,
       "protected": true,
-      "protection_remaining": 27662
+      "protection_remaining": 27583
     },
     {
       "rank": 2,
@@ -17,14 +17,14 @@
       "wallet": 400000,
       "usd": 12.0,
       "protected": true,
-      "protection_remaining": 25528
+      "protection_remaining": 25449
     },
     {
       "rank": 3,
       "user_id": "1217459458662465536",
       "username": "i_am_dust_himself",
-      "wallet": 116608,
-      "usd": 3.498,
+      "wallet": 117432,
+      "usd": 3.523,
       "protected": false,
       "protection_remaining": 0
     },
@@ -363,15 +363,6 @@
     },
     {
       "rank": 41,
-      "user_id": "1021181530506272819",
-      "username": "cobobear",
-      "wallet": 11035,
-      "usd": 0.331,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 42,
       "user_id": "1403450353609080872",
       "username": "ku3aa",
       "wallet": 11000,
@@ -380,7 +371,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 43,
+      "rank": 42,
       "user_id": "1209475436409790488",
       "username": "anime_320",
       "wallet": 10467,
@@ -389,11 +380,20 @@
       "protection_remaining": 0
     },
     {
-      "rank": 44,
+      "rank": 43,
       "user_id": "1199805026722398421",
       "username": "tayemboss282",
       "wallet": 10252,
       "usd": 0.308,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 44,
+      "user_id": "1021181530506272819",
+      "username": "cobobear",
+      "wallet": 10211,
+      "usd": 0.306,
       "protected": false,
       "protection_remaining": 0
     },
