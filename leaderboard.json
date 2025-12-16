@@ -1,32 +1,32 @@
 {
-  "updated": 1765878364,
+  "updated": 1765878443,
   "leaderboard": [
     {
       "rank": 1,
       "user_id": "889499674891931698",
       "username": "ryx_acc",
-      "wallet": 568873,
-      "usd": 17.066,
+      "wallet": 512466,
+      "usd": 15.374,
       "protected": false,
       "protection_remaining": 0
     },
     {
       "rank": 2,
+      "user_id": "1391125396069552198",
+      "username": "johncena11111222223333",
+      "wallet": 189433,
+      "usd": 5.683,
+      "protected": true,
+      "protection_remaining": 38924
+    },
+    {
+      "rank": 3,
       "user_id": "1217459458662465536",
       "username": "i_am_dust_himself",
       "wallet": 129814,
       "usd": 3.894,
       "protected": false,
       "protection_remaining": 0
-    },
-    {
-      "rank": 3,
-      "user_id": "1391125396069552198",
-      "username": "johncena11111222223333",
-      "wallet": 127043,
-      "usd": 3.811,
-      "protected": true,
-      "protection_remaining": 39003
     },
     {
       "rank": 4,
