@@ -1,5 +1,5 @@
 {
-  "updated": 1765859671,
+  "updated": 1765859720,
   "leaderboard": [
     {
       "rank": 1,
@@ -350,7 +350,7 @@
       "wallet": 11511,
       "usd": 0.345,
       "protected": true,
-      "protection_remaining": 17708
+      "protection_remaining": 17659
     },
     {
       "rank": 40,
@@ -400,7 +400,7 @@
     {
       "rank": 45,
       "user_id": "800345241730285588",
-      "username": "samuelll.exe",
+      "username": "User 800345241730285588",
       "wallet": 10000,
       "usd": 0.3,
       "protected": false,
