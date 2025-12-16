@@ -1,5 +1,5 @@
 {
-  "updated": 1765879264,
+  "updated": 1765879348,
   "leaderboard": [
     {
       "rank": 1,
@@ -14,10 +14,10 @@
       "rank": 2,
       "user_id": "1334732250696257627",
       "username": "demon_b3ast",
-      "wallet": 255000,
-      "usd": 7.65,
+      "wallet": 250000,
+      "usd": 7.5,
       "protected": true,
-      "protection_remaining": 42815
+      "protection_remaining": 42732
     },
     {
       "rank": 3,
