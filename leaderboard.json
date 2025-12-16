@@ -1,5 +1,5 @@
 {
-  "updated": 1765892815,
+  "updated": 1765892893,
   "leaderboard": [
     {
       "rank": 1,
@@ -8,7 +8,7 @@
       "wallet": 403446,
       "usd": 12.103,
       "protected": true,
-      "protection_remaining": 31399
+      "protection_remaining": 31320
     },
     {
       "rank": 2,
@@ -17,7 +17,7 @@
       "wallet": 400000,
       "usd": 12.0,
       "protected": true,
-      "protection_remaining": 29265
+      "protection_remaining": 29186
     },
     {
       "rank": 3,
@@ -84,15 +84,6 @@
     },
     {
       "rank": 10,
-      "user_id": "1242858796460544050",
-      "username": "breaddripin",
-      "wallet": 48749,
-      "usd": 1.462,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 11,
       "user_id": "843223906243969074",
       "username": "meowl_2222",
       "wallet": 47354,
@@ -101,7 +92,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 12,
+      "rank": 11,
       "user_id": "1083768025737601075",
       "username": "mrgoldfish02",
       "wallet": 45851,
@@ -110,7 +101,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 13,
+      "rank": 12,
       "user_id": "1257572580446175254",
       "username": "joshsfv",
       "wallet": 45529,
@@ -119,7 +110,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 14,
+      "rank": 13,
       "user_id": "906171609247789118",
       "username": ".a.h.t",
       "wallet": 33446,
@@ -128,7 +119,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 15,
+      "rank": 14,
       "user_id": "778841248382713897",
       "username": "senkopost",
       "wallet": 33000,
@@ -137,7 +128,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 16,
+      "rank": 15,
       "user_id": "1433024569580720169",
       "username": "potatob0774",
       "wallet": 33000,
@@ -146,7 +137,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 17,
+      "rank": 16,
       "user_id": "913401790123372544",
       "username": "da_wink",
       "wallet": 27000,
@@ -155,7 +146,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 18,
+      "rank": 17,
       "user_id": "1184734239917350925",
       "username": "freakydark_knight69",
       "wallet": 26500,
@@ -164,7 +155,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 19,
+      "rank": 18,
       "user_id": "1034508461066686544",
       "username": "demopic1407",
       "wallet": 25375,
@@ -173,11 +164,20 @@
       "protection_remaining": 0
     },
     {
-      "rank": 20,
+      "rank": 19,
       "user_id": "1316481315624976407",
       "username": "nahwaitaminute_06887",
       "wallet": 25258,
       "usd": 0.758,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 20,
+      "user_id": "1242858796460544050",
+      "username": "breaddripin",
+      "wallet": 24950,
+      "usd": 0.749,
       "protected": false,
       "protection_remaining": 0
     },
