@@ -1,5 +1,5 @@
 {
-  "updated": 1765882557,
+  "updated": 1765882633,
   "leaderboard": [
     {
       "rank": 1,
@@ -8,7 +8,7 @@
       "wallet": 403446,
       "usd": 12.103,
       "protected": true,
-      "protection_remaining": 41656
+      "protection_remaining": 41580
     },
     {
       "rank": 2,
@@ -17,7 +17,7 @@
       "wallet": 400000,
       "usd": 12.0,
       "protected": true,
-      "protection_remaining": 39522
+      "protection_remaining": 39446
     },
     {
       "rank": 3,
@@ -463,7 +463,7 @@
     {
       "rank": 52,
       "user_id": "1428157877218181180",
-      "username": "im_trader1",
+      "username": "User 1428157877218181180",
       "wallet": 10000,
       "usd": 0.3,
       "protected": false,
