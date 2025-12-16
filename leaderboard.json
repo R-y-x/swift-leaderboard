@@ -1,5 +1,5 @@
 {
-  "updated": 1765870328,
+  "updated": 1765870408,
   "leaderboard": [
     {
       "rank": 1,
@@ -192,6 +192,15 @@
     },
     {
       "rank": 22,
+      "user_id": "1242858796460544050",
+      "username": "breaddripin",
+      "wallet": 19290,
+      "usd": 0.579,
+      "protected": true,
+      "protection_remaining": 6971
+    },
+    {
+      "rank": 23,
       "user_id": "1413503283967823912",
       "username": ".arz3_",
       "wallet": 17500,
@@ -200,22 +209,13 @@
       "protection_remaining": 0
     },
     {
-      "rank": 23,
+      "rank": 24,
       "user_id": "1125505928171618394",
       "username": "mrredted",
       "wallet": 17000,
       "usd": 0.51,
       "protected": false,
       "protection_remaining": 0
-    },
-    {
-      "rank": 24,
-      "user_id": "1242858796460544050",
-      "username": "breaddripin",
-      "wallet": 16275,
-      "usd": 0.488,
-      "protected": true,
-      "protection_remaining": 7051
     },
     {
       "rank": 25,
