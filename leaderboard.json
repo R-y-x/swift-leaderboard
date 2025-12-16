@@ -1,12 +1,12 @@
 {
-  "updated": 1765878606,
+  "updated": 1765878656,
   "leaderboard": [
     {
       "rank": 1,
       "user_id": "889499674891931698",
       "username": "ryx_acc",
-      "wallet": 571767,
-      "usd": 17.153,
+      "wallet": 551767,
+      "usd": 16.553,
       "protected": false,
       "protection_remaining": 0
     },
@@ -17,7 +17,7 @@
       "wallet": 218287,
       "usd": 6.549,
       "protected": true,
-      "protection_remaining": 38761
+      "protection_remaining": 38711
     },
     {
       "rank": 3,
