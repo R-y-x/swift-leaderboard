@@ -1,5 +1,5 @@
 {
-  "updated": 1765935928,
+  "updated": 1765936528,
   "leaderboard": [
     {
       "rank": 1,
@@ -387,17 +387,17 @@
     },
     {
       "rank": 49,
-      "user_id": "800345241730285588",
-      "username": "samuelll.exe",
-      "avatar": "https://cdn.discordapp.com/avatars/800345241730285588/6a0cff3ec3ef8fcedde1d24c7d665c3c.png?size=128",
-      "messages": 99,
-      "level": 5
-    },
-    {
-      "rank": 50,
       "user_id": "879950963790737458",
       "username": "kaiofyy",
       "avatar": "https://cdn.discordapp.com/avatars/879950963790737458/41eb1a8412fef75d9b1a7bdbfcf97ce0.png?size=128",
+      "messages": 100,
+      "level": 6
+    },
+    {
+      "rank": 50,
+      "user_id": "800345241730285588",
+      "username": "samuelll.exe",
+      "avatar": "https://cdn.discordapp.com/avatars/800345241730285588/6a0cff3ec3ef8fcedde1d24c7d665c3c.png?size=128",
       "messages": 99,
       "level": 5
     },
