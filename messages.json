@@ -1,5 +1,5 @@
 {
-  "updated": 1765938328,
+  "updated": 1765938928,
   "leaderboard": [
     {
       "rank": 1,
@@ -94,7 +94,7 @@
       "user_id": "1256677659753185363",
       "username": "foxyfelix09",
       "avatar": "https://cdn.discordapp.com/avatars/1256677659753185363/60e3f6922d0f9d2fd70059d986ce6c51.png?size=128",
-      "messages": 714,
+      "messages": 717,
       "level": 13
     },
     {
@@ -179,6 +179,14 @@
     },
     {
       "rank": 23,
+      "user_id": "778841248382713897",
+      "username": "senkopost",
+      "avatar": "https://cdn.discordapp.com/avatars/778841248382713897/7a8031398ac2afe49407c5105559f6fb.png?size=128",
+      "messages": 375,
+      "level": 10
+    },
+    {
+      "rank": 24,
       "user_id": "1433024569580720169",
       "username": "potatob0774",
       "avatar": "https://cdn.discordapp.com/avatars/1433024569580720169/38fe0bc183a69bb5ac1c1e61d1989edf.png?size=128",
@@ -186,19 +194,11 @@
       "level": 10
     },
     {
-      "rank": 24,
-      "user_id": "778841248382713897",
-      "username": "senkopost",
-      "avatar": "https://cdn.discordapp.com/avatars/778841248382713897/7a8031398ac2afe49407c5105559f6fb.png?size=128",
-      "messages": 358,
-      "level": 10
-    },
-    {
       "rank": 25,
       "user_id": "820881663911264306",
       "username": "hatsumoto_maru",
       "avatar": "https://cdn.discordapp.com/avatars/820881663911264306/20504d9425f40216e628a404b4f75906.png?size=128",
-      "messages": 346,
+      "messages": 358,
       "level": 10
     },
     {
