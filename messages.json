@@ -1,5 +1,5 @@
 {
-  "updated": 1765974928,
+  "updated": 1765975528,
   "leaderboard": [
     {
       "rank": 1,
@@ -179,19 +179,19 @@
     },
     {
       "rank": 23,
+      "user_id": "820881663911264306",
+      "username": "hatsumoto_maru",
+      "avatar": "https://cdn.discordapp.com/avatars/820881663911264306/20504d9425f40216e628a404b4f75906.png?size=128",
+      "messages": 428,
+      "level": 11
+    },
+    {
+      "rank": 24,
       "user_id": "1125505928171618394",
       "username": "mrredted",
       "avatar": "https://cdn.discordapp.com/avatars/1125505928171618394/eee78c5e1459bbd77c9eba542d7fe4b3.png?size=128",
       "messages": 423,
       "level": 11
-    },
-    {
-      "rank": 24,
-      "user_id": "820881663911264306",
-      "username": "hatsumoto_maru",
-      "avatar": "https://cdn.discordapp.com/avatars/820881663911264306/20504d9425f40216e628a404b4f75906.png?size=128",
-      "messages": 419,
-      "level": 10
     },
     {
       "rank": 25,
@@ -379,18 +379,18 @@
     },
     {
       "rank": 48,
-      "user_id": "1403450353609080872",
-      "username": "ku3aa",
-      "avatar": "https://cdn.discordapp.com/avatars/1403450353609080872/7164a0beab2dccffb6f1fb7d1aca7fae.png?size=128",
+      "user_id": "879950963790737458",
+      "username": "kaiofyy",
+      "avatar": "https://cdn.discordapp.com/avatars/879950963790737458/41eb1a8412fef75d9b1a7bdbfcf97ce0.png?size=128",
       "messages": 102,
       "level": 6
     },
     {
       "rank": 49,
-      "user_id": "879950963790737458",
-      "username": "kaiofyy",
-      "avatar": "https://cdn.discordapp.com/avatars/879950963790737458/41eb1a8412fef75d9b1a7bdbfcf97ce0.png?size=128",
-      "messages": 101,
+      "user_id": "1403450353609080872",
+      "username": "ku3aa",
+      "avatar": "https://cdn.discordapp.com/avatars/1403450353609080872/7164a0beab2dccffb6f1fb7d1aca7fae.png?size=128",
+      "messages": 102,
       "level": 6
     },
     {
@@ -430,7 +430,7 @@
       "user_id": "1048106658984886284",
       "username": "pursuer_fromdod",
       "avatar": "https://cdn.discordapp.com/avatars/1048106658984886284/14f6f37d440151e24ca3bdc138ca88d4.png?size=128",
-      "messages": 79,
+      "messages": 80,
       "level": 5
     },
     {
