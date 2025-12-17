@@ -1,5 +1,5 @@
 {
-  "updated": 1765950328,
+  "updated": 1765950928,
   "leaderboard": [
     {
       "rank": 1,
@@ -183,6 +183,16 @@
     },
     {
       "rank": 19,
+      "user_id": "1057102480275689575",
+      "username": "alessandro0_0",
+      "avatar": "https://cdn.discordapp.com/avatars/1057102480275689575/73d9f1c56ad08fb9527800ce3dce4f3c.png?size=128",
+      "wallet": 26402,
+      "usd": 0.792,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 20,
       "user_id": "1034508461066686544",
       "username": "demopic1407",
       "avatar": "https://cdn.discordapp.com/avatars/1034508461066686544/c686b99e7d96816252eb6bf0a2d0f2bd.png?size=128",
@@ -192,7 +202,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 20,
+      "rank": 21,
       "user_id": "1316481315624976407",
       "username": "nahwaitaminute_06887",
       "avatar": "https://cdn.discordapp.com/avatars/1316481315624976407/6fd11867cf67d13a4abcd718f32e25a0.png?size=128",
@@ -202,32 +212,22 @@
       "protection_remaining": 0
     },
     {
-      "rank": 21,
+      "rank": 22,
       "user_id": "1339601407711510609",
       "username": "guuuuuurt",
       "avatar": "https://cdn.discordapp.com/avatars/1339601407711510609/795b7b1fb17bd65f38f57403e5697b90.png?size=128",
       "wallet": 22693,
       "usd": 0.681,
       "protected": true,
-      "protection_remaining": 902
+      "protection_remaining": 302
     },
     {
-      "rank": 22,
+      "rank": 23,
       "user_id": "1409804032024772650",
       "username": "fsa1nt",
       "avatar": "https://cdn.discordapp.com/avatars/1409804032024772650/4c3c1ce5f455086a3eb06c7b14c2f82f.png?size=128",
       "wallet": 22185,
       "usd": 0.666,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 23,
-      "user_id": "1057102480275689575",
-      "username": "alessandro0_0",
-      "avatar": "https://cdn.discordapp.com/avatars/1057102480275689575/73d9f1c56ad08fb9527800ce3dce4f3c.png?size=128",
-      "wallet": 21402,
-      "usd": 0.642,
       "protected": false,
       "protection_remaining": 0
     },
