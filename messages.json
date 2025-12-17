@@ -1,5 +1,5 @@
 {
-  "updated": 1765974328,
+  "updated": 1765974928,
   "leaderboard": [
     {
       "rank": 1,
@@ -371,6 +371,14 @@
     },
     {
       "rank": 47,
+      "user_id": "1189239740071948351",
+      "username": "steliostevie_g_",
+      "avatar": "https://cdn.discordapp.com/avatars/1189239740071948351/1b14cffb01f19a4f0bd850a8999f10af.png?size=128",
+      "messages": 104,
+      "level": 6
+    },
+    {
+      "rank": 48,
       "user_id": "1403450353609080872",
       "username": "ku3aa",
       "avatar": "https://cdn.discordapp.com/avatars/1403450353609080872/7164a0beab2dccffb6f1fb7d1aca7fae.png?size=128",
@@ -378,18 +386,10 @@
       "level": 6
     },
     {
-      "rank": 48,
+      "rank": 49,
       "user_id": "879950963790737458",
       "username": "kaiofyy",
       "avatar": "https://cdn.discordapp.com/avatars/879950963790737458/41eb1a8412fef75d9b1a7bdbfcf97ce0.png?size=128",
-      "messages": 101,
-      "level": 6
-    },
-    {
-      "rank": 49,
-      "user_id": "1189239740071948351",
-      "username": "steliostevie_g_",
-      "avatar": "https://cdn.discordapp.com/avatars/1189239740071948351/1b14cffb01f19a4f0bd850a8999f10af.png?size=128",
       "messages": 101,
       "level": 6
     },
@@ -430,7 +430,7 @@
       "user_id": "1048106658984886284",
       "username": "pursuer_fromdod",
       "avatar": "https://cdn.discordapp.com/avatars/1048106658984886284/14f6f37d440151e24ca3bdc138ca88d4.png?size=128",
-      "messages": 78,
+      "messages": 79,
       "level": 5
     },
     {
