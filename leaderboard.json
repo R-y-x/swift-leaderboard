@@ -1,5 +1,5 @@
 {
-  "updated": 1765940728,
+  "updated": 1765941328,
   "leaderboard": [
     {
       "rank": 1,
@@ -133,21 +133,21 @@
     },
     {
       "rank": 14,
-      "user_id": "906171609247789118",
-      "username": ".a.h.t",
-      "avatar": "https://cdn.discordapp.com/avatars/906171609247789118/6cc248009265431b92a46590459bc1ae.png?size=128",
-      "wallet": 33446,
-      "usd": 1.003,
+      "user_id": "778841248382713897",
+      "username": "senkopost",
+      "avatar": "https://cdn.discordapp.com/avatars/778841248382713897/7a8031398ac2afe49407c5105559f6fb.png?size=128",
+      "wallet": 40000,
+      "usd": 1.2,
       "protected": false,
       "protection_remaining": 0
     },
     {
       "rank": 15,
-      "user_id": "778841248382713897",
-      "username": "senkopost",
-      "avatar": "https://cdn.discordapp.com/avatars/778841248382713897/7a8031398ac2afe49407c5105559f6fb.png?size=128",
-      "wallet": 33000,
-      "usd": 0.99,
+      "user_id": "906171609247789118",
+      "username": ".a.h.t",
+      "avatar": "https://cdn.discordapp.com/avatars/906171609247789118/6cc248009265431b92a46590459bc1ae.png?size=128",
+      "wallet": 33446,
+      "usd": 1.003,
       "protected": false,
       "protection_remaining": 0
     },
@@ -209,7 +209,7 @@
       "wallet": 22693,
       "usd": 0.681,
       "protected": true,
-      "protection_remaining": 10502
+      "protection_remaining": 9902
     },
     {
       "rank": 22,
