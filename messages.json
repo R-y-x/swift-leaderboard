@@ -1,12 +1,12 @@
 {
-  "updated": 1765973728,
+  "updated": 1765974328,
   "leaderboard": [
     {
       "rank": 1,
       "user_id": "1174964590652698629",
       "username": "itoshi_sae_japan1",
       "avatar": "https://cdn.discordapp.com/avatars/1174964590652698629/b8000aec257d700a3ad129dede323782.png?size=128",
-      "messages": 11597,
+      "messages": 11599,
       "level": 16
     },
     {
@@ -14,7 +14,7 @@
       "user_id": "1060153899111157770",
       "username": "tommy_dsmp",
       "avatar": "https://cdn.discordapp.com/avatars/1060153899111157770/1b15eae1d6c8d355070a07bd5ba80b64.png?size=128",
-      "messages": 5130,
+      "messages": 5135,
       "level": 16
     },
     {
@@ -38,7 +38,7 @@
       "user_id": "1247576722476372090",
       "username": "fritz05209",
       "avatar": "https://cdn.discordapp.com/avatars/1247576722476372090/3c8e497a826b8095abe43534970c5ea1.png?size=128",
-      "messages": 2474,
+      "messages": 2480,
       "level": 16
     },
     {
@@ -158,7 +158,7 @@
       "user_id": "1411310833497145356",
       "username": "samyut1",
       "avatar": "https://cdn.discordapp.com/avatars/1411310833497145356/7a9987aed0afdfd21df539cee0b8fe03.png?size=128",
-      "messages": 512,
+      "messages": 517,
       "level": 11
     },
     {
@@ -579,6 +579,14 @@
     },
     {
       "rank": 73,
+      "user_id": "1196157075185737779",
+      "username": "diablo0823",
+      "avatar": "https://cdn.discordapp.com/avatars/1196157075185737779/975bbfbc317f8e8155580b74fc0addc7.png?size=128",
+      "messages": 52,
+      "level": 4
+    },
+    {
+      "rank": 74,
       "user_id": "1226873713379770419",
       "username": "frostykutya",
       "avatar": "https://cdn.discordapp.com/avatars/1226873713379770419/a_96fad1220d69d3d05a50a9a22dc2f1a4.gif?size=128",
@@ -586,19 +594,11 @@
       "level": 4
     },
     {
-      "rank": 74,
+      "rank": 75,
       "user_id": "990626432826896424",
       "username": "jaihasbadrng",
       "avatar": "https://cdn.discordapp.com/avatars/990626432826896424/0c5c19d289f72984e5a6703e07d35e9f.png?size=128",
       "messages": 50,
-      "level": 4
-    },
-    {
-      "rank": 75,
-      "user_id": "1196157075185737779",
-      "username": "diablo0823",
-      "avatar": "https://cdn.discordapp.com/avatars/1196157075185737779/975bbfbc317f8e8155580b74fc0addc7.png?size=128",
-      "messages": 49,
       "level": 4
     },
     {
