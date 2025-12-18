@@ -1,5 +1,5 @@
 {
-  "updated": 1766023482,
+  "updated": 1766024082,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 385666,
       "usd": 11.57,
       "protected": true,
-      "protection_remaining": 27428
+      "protection_remaining": 26828
     },
     {
       "rank": 2,
@@ -39,7 +39,7 @@
       "wallet": 128370,
       "usd": 3.851,
       "protected": true,
-      "protection_remaining": 27371
+      "protection_remaining": 26771
     },
     {
       "rank": 5,
@@ -346,8 +346,8 @@
       "user_id": "1334732250696257627",
       "username": "demon_b3ast",
       "avatar": "https://cdn.discordapp.com/avatars/1334732250696257627/9b2b8881d2031e704e528dcf76b3904b.png?size=128",
-      "wallet": 14000,
-      "usd": 0.42,
+      "wallet": 14390,
+      "usd": 0.432,
       "protected": false,
       "protection_remaining": 0
     },
