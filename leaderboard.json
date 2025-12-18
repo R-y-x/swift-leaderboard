@@ -1,5 +1,5 @@
 {
-  "updated": 1766040282,
+  "updated": 1766040882,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 385666,
       "usd": 11.57,
       "protected": true,
-      "protection_remaining": 10628
+      "protection_remaining": 10028
     },
     {
       "rank": 2,
@@ -39,7 +39,7 @@
       "wallet": 128370,
       "usd": 3.851,
       "protected": true,
-      "protection_remaining": 10571
+      "protection_remaining": 9971
     },
     {
       "rank": 5,
@@ -66,8 +66,8 @@
       "user_id": "1092934181979430932",
       "username": "alya._23",
       "avatar": "https://cdn.discordapp.com/avatars/1092934181979430932/9c7c0e90acfdc75efe608b8ceb155c2a.png?size=128",
-      "wallet": 65470,
-      "usd": 1.964,
+      "wallet": 68685,
+      "usd": 2.061,
       "protected": false,
       "protection_remaining": 0
     },
@@ -313,16 +313,6 @@
     },
     {
       "rank": 32,
-      "user_id": "1411310833497145356",
-      "username": "samyut1",
-      "avatar": "https://cdn.discordapp.com/avatars/1411310833497145356/7a9987aed0afdfd21df539cee0b8fe03.png?size=128",
-      "wallet": 15000,
-      "usd": 0.45,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 33,
       "user_id": "860862065081450507",
       "username": "gamerkool",
       "avatar": "https://cdn.discordapp.com/avatars/860862065081450507/3daddb4134aeee7c44bda517411f80fc.png?size=128",
@@ -332,7 +322,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 34,
+      "rank": 33,
       "user_id": "1403450353609080872",
       "username": "ku3aa",
       "avatar": "https://cdn.discordapp.com/avatars/1403450353609080872/7164a0beab2dccffb6f1fb7d1aca7fae.png?size=128",
@@ -342,12 +332,22 @@
       "protection_remaining": 0
     },
     {
-      "rank": 35,
+      "rank": 34,
       "user_id": "1334732250696257627",
       "username": "demon_b3ast",
       "avatar": "https://cdn.discordapp.com/avatars/1334732250696257627/9b2b8881d2031e704e528dcf76b3904b.png?size=128",
       "wallet": 14390,
       "usd": 0.432,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 35,
+      "user_id": "1411310833497145356",
+      "username": "samyut1",
+      "avatar": "https://cdn.discordapp.com/avatars/1411310833497145356/7a9987aed0afdfd21df539cee0b8fe03.png?size=128",
+      "wallet": 13579,
+      "usd": 0.407,
       "protected": false,
       "protection_remaining": 0
     },
@@ -433,6 +433,16 @@
     },
     {
       "rank": 44,
+      "user_id": "1059770388265058304",
+      "username": "matty_da_goat",
+      "avatar": "https://cdn.discordapp.com/avatars/1059770388265058304/a5de5a1ab6c5e80fbdf7b590d39b0a03.png?size=128",
+      "wallet": 12773,
+      "usd": 0.383,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 45,
       "user_id": "1346078270495391804",
       "username": "punch.made777",
       "avatar": "https://cdn.discordapp.com/avatars/1346078270495391804/417cca6813955442d207729d77b3c4e1.png?size=128",
@@ -442,22 +452,12 @@
       "protection_remaining": 0
     },
     {
-      "rank": 45,
+      "rank": 46,
       "user_id": "566502414346354697",
       "username": "ibhoo",
       "avatar": "https://cdn.discordapp.com/avatars/566502414346354697/6a84fba5b439b2ea2c13ccc02ec7bb59.png?size=128",
       "wallet": 11740,
       "usd": 0.352,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 46,
-      "user_id": "1059770388265058304",
-      "username": "matty_da_goat",
-      "avatar": "https://cdn.discordapp.com/avatars/1059770388265058304/a5de5a1ab6c5e80fbdf7b590d39b0a03.png?size=128",
-      "wallet": 11352,
-      "usd": 0.341,
       "protected": false,
       "protection_remaining": 0
     },
