@@ -1,12 +1,12 @@
 {
-  "updated": 1766080482,
+  "updated": 1766081082,
   "leaderboard": [
     {
       "rank": 1,
       "user_id": "1174964590652698629",
       "username": "itoshi_sae_japan1",
       "avatar": "https://cdn.discordapp.com/avatars/1174964590652698629/b8000aec257d700a3ad129dede323782.png?size=128",
-      "messages": 12205,
+      "messages": 12234,
       "level": 16
     },
     {
@@ -14,7 +14,7 @@
       "user_id": "1060153899111157770",
       "username": "tommy_dsmp",
       "avatar": "https://cdn.discordapp.com/avatars/1060153899111157770/1b15eae1d6c8d355070a07bd5ba80b64.png?size=128",
-      "messages": 5604,
+      "messages": 5626,
       "level": 16
     },
     {
@@ -86,8 +86,8 @@
       "user_id": "1061393377049976933",
       "username": "sdiybt244",
       "avatar": "https://cdn.discordapp.com/avatars/1061393377049976933/a_8b4fc7d0a8f6b96c9d3e9c9d03562b0e.gif?size=128",
-      "messages": 999,
-      "level": 14
+      "messages": 1003,
+      "level": 15
     },
     {
       "rank": 12,
@@ -539,17 +539,17 @@
     },
     {
       "rank": 68,
-      "user_id": "920175710755242045",
-      "username": "totallynotfrank.",
-      "avatar": "https://cdn.discordapp.com/avatars/920175710755242045/be4adcefa17efa1247d17b05a70120a1.png?size=128",
-      "messages": 60,
+      "user_id": "1229048000714637417",
+      "username": "voidy.boy.hehe_96124",
+      "avatar": "https://cdn.discordapp.com/embed/avatars/0.png?size=128",
+      "messages": 61,
       "level": 4
     },
     {
       "rank": 69,
-      "user_id": "1229048000714637417",
-      "username": "voidy.boy.hehe_96124",
-      "avatar": "https://cdn.discordapp.com/embed/avatars/0.png?size=128",
+      "user_id": "920175710755242045",
+      "username": "totallynotfrank.",
+      "avatar": "https://cdn.discordapp.com/avatars/920175710755242045/be4adcefa17efa1247d17b05a70120a1.png?size=128",
       "messages": 60,
       "level": 4
     },
