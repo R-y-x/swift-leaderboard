@@ -1,12 +1,12 @@
 {
-  "updated": 1766066082,
+  "updated": 1766066682,
   "leaderboard": [
     {
       "rank": 1,
       "user_id": "1174964590652698629",
       "username": "itoshi_sae_japan1",
       "avatar": "https://cdn.discordapp.com/avatars/1174964590652698629/b8000aec257d700a3ad129dede323782.png?size=128",
-      "messages": 12086,
+      "messages": 12088,
       "level": 16
     },
     {
@@ -14,7 +14,7 @@
       "user_id": "1060153899111157770",
       "username": "tommy_dsmp",
       "avatar": "https://cdn.discordapp.com/avatars/1060153899111157770/1b15eae1d6c8d355070a07bd5ba80b64.png?size=128",
-      "messages": 5538,
+      "messages": 5542,
       "level": 16
     },
     {
@@ -206,7 +206,7 @@
       "user_id": "1422400634576961596",
       "username": "treble_bass.",
       "avatar": "https://cdn.discordapp.com/avatars/1422400634576961596/d7d5f0cbbda5fd2529b1437a64129f39.png?size=128",
-      "messages": 412,
+      "messages": 416,
       "level": 10
     },
     {
@@ -403,6 +403,14 @@
     },
     {
       "rank": 51,
+      "user_id": "990626432826896424",
+      "username": "jaihasbadrng",
+      "avatar": "https://cdn.discordapp.com/avatars/990626432826896424/0c5c19d289f72984e5a6703e07d35e9f.png?size=128",
+      "messages": 89,
+      "level": 5
+    },
+    {
+      "rank": 52,
       "user_id": "1078740523579355146",
       "username": "banan115",
       "avatar": "https://cdn.discordapp.com/avatars/1078740523579355146/c3eadbb1882cbc1fb0f80ef90f65fe8a.png?size=128",
@@ -410,19 +418,11 @@
       "level": 5
     },
     {
-      "rank": 52,
+      "rank": 53,
       "user_id": "724280756658110555",
       "username": "certifiedgrekky",
       "avatar": "https://cdn.discordapp.com/avatars/724280756658110555/d1be504b97eaf28e6461a63ffe7b2650.png?size=128",
       "messages": 88,
-      "level": 5
-    },
-    {
-      "rank": 53,
-      "user_id": "990626432826896424",
-      "username": "jaihasbadrng",
-      "avatar": "https://cdn.discordapp.com/avatars/990626432826896424/0c5c19d289f72984e5a6703e07d35e9f.png?size=128",
-      "messages": 86,
       "level": 5
     },
     {
