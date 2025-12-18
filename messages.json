@@ -1,12 +1,12 @@
 {
-  "updated": 1766056482,
+  "updated": 1766057082,
   "leaderboard": [
     {
       "rank": 1,
       "user_id": "1174964590652698629",
       "username": "itoshi_sae_japan1",
       "avatar": "https://cdn.discordapp.com/avatars/1174964590652698629/b8000aec257d700a3ad129dede323782.png?size=128",
-      "messages": 12034,
+      "messages": 12037,
       "level": 16
     },
     {
@@ -166,7 +166,7 @@
       "user_id": "843223906243969074",
       "username": "meowl_2222",
       "avatar": "https://cdn.discordapp.com/avatars/843223906243969074/4ef64370bfb23555739dc46aca3a0671.png?size=128",
-      "messages": 560,
+      "messages": 561,
       "level": 12
     },
     {
@@ -643,6 +643,14 @@
     },
     {
       "rank": 81,
+      "user_id": "1403399133221355681",
+      "username": "puppeteerdamsel",
+      "avatar": "https://cdn.discordapp.com/avatars/1403399133221355681/743a3d14267298763371870fb30e97de.png?size=128",
+      "messages": 44,
+      "level": 4
+    },
+    {
+      "rank": 82,
       "user_id": "1433113923145695417",
       "username": "popcatplayz7",
       "avatar": "https://cdn.discordapp.com/avatars/1433113923145695417/e3dd13a84aa3bc6dc26088bffcbfc1a3.png?size=128",
@@ -650,7 +658,7 @@
       "level": 4
     },
     {
-      "rank": 82,
+      "rank": 83,
       "user_id": "1445764823915692166",
       "username": "ishowcenat_",
       "avatar": "https://cdn.discordapp.com/avatars/1445764823915692166/6c5996770c985bcd6e5b68131ff2ba04.png?size=128",
@@ -658,18 +666,10 @@
       "level": 4
     },
     {
-      "rank": 83,
+      "rank": 84,
       "user_id": "1202668573630144604",
       "username": "glg_edits",
       "avatar": "https://cdn.discordapp.com/avatars/1202668573630144604/c75fbf8339f89fa01fc6f897781b72e7.png?size=128",
-      "messages": 43,
-      "level": 4
-    },
-    {
-      "rank": 84,
-      "user_id": "1403399133221355681",
-      "username": "puppeteerdamsel",
-      "avatar": "https://cdn.discordapp.com/avatars/1403399133221355681/743a3d14267298763371870fb30e97de.png?size=128",
       "messages": 43,
       "level": 4
     },
