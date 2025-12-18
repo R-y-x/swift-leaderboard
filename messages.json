@@ -1,12 +1,12 @@
 {
-  "updated": 1766076882,
+  "updated": 1766077482,
   "leaderboard": [
     {
       "rank": 1,
       "user_id": "1174964590652698629",
       "username": "itoshi_sae_japan1",
       "avatar": "https://cdn.discordapp.com/avatars/1174964590652698629/b8000aec257d700a3ad129dede323782.png?size=128",
-      "messages": 12199,
+      "messages": 12205,
       "level": 16
     },
     {
@@ -78,7 +78,7 @@
       "user_id": "1184734239917350925",
       "username": "freakydark_knight69",
       "avatar": "https://cdn.discordapp.com/avatars/1184734239917350925/a6df606036dd2328ce46a430a6d68172.png?size=128",
-      "messages": 1005,
+      "messages": 1019,
       "level": 15
     },
     {
@@ -86,7 +86,7 @@
       "user_id": "1061393377049976933",
       "username": "sdiybt244",
       "avatar": "https://cdn.discordapp.com/avatars/1061393377049976933/a_8b4fc7d0a8f6b96c9d3e9c9d03562b0e.gif?size=128",
-      "messages": 996,
+      "messages": 998,
       "level": 14
     },
     {
@@ -515,6 +515,14 @@
     },
     {
       "rank": 65,
+      "user_id": "773448566105571358",
+      "username": "pixbc",
+      "avatar": "https://cdn.discordapp.com/avatars/773448566105571358/bd0b803d5ef2c66062ab6553e6da2580.png?size=128",
+      "messages": 65,
+      "level": 4
+    },
+    {
+      "rank": 66,
       "user_id": "1209475436409790488",
       "username": "anime_320",
       "avatar": "https://cdn.discordapp.com/embed/avatars/3.png?size=128",
@@ -522,19 +530,11 @@
       "level": 4
     },
     {
-      "rank": 66,
+      "rank": 67,
       "user_id": "1347899640338452563",
       "username": "speedblox69",
       "avatar": "https://cdn.discordapp.com/avatars/1347899640338452563/5d0e8066d7ab1709b20f7bcb3b0f433f.png?size=128",
       "messages": 65,
-      "level": 4
-    },
-    {
-      "rank": 67,
-      "user_id": "773448566105571358",
-      "username": "pixbc",
-      "avatar": "https://cdn.discordapp.com/avatars/773448566105571358/bd0b803d5ef2c66062ab6553e6da2580.png?size=128",
-      "messages": 64,
       "level": 4
     },
     {
