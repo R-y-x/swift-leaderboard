@@ -1,5 +1,5 @@
 {
-  "updated": 1766045682,
+  "updated": 1766046282,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 385666,
       "usd": 11.57,
       "protected": true,
-      "protection_remaining": 5228
+      "protection_remaining": 4628
     },
     {
       "rank": 2,
@@ -39,7 +39,7 @@
       "wallet": 128370,
       "usd": 3.851,
       "protected": true,
-      "protection_remaining": 5171
+      "protection_remaining": 4571
     },
     {
       "rank": 5,
@@ -63,6 +63,16 @@
     },
     {
       "rank": 7,
+      "user_id": "1184734239917350925",
+      "username": "freakydark_knight69",
+      "avatar": "https://cdn.discordapp.com/avatars/1184734239917350925/a6df606036dd2328ce46a430a6d68172.png?size=128",
+      "wallet": 71500,
+      "usd": 2.145,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 8,
       "user_id": "1092934181979430932",
       "username": "alya._23",
       "avatar": "https://cdn.discordapp.com/avatars/1092934181979430932/9c7c0e90acfdc75efe608b8ceb155c2a.png?size=128",
@@ -72,22 +82,12 @@
       "protection_remaining": 0
     },
     {
-      "rank": 8,
+      "rank": 9,
       "user_id": "1217459458662465536",
       "username": "i_am_dust_himself",
       "avatar": "https://cdn.discordapp.com/avatars/1217459458662465536/6fb3c2bcc1c4ccfbef2c7bf58ed60eff.png?size=128",
       "wallet": 62992,
       "usd": 1.89,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 9,
-      "user_id": "1184734239917350925",
-      "username": "freakydark_knight69",
-      "avatar": "https://cdn.discordapp.com/avatars/1184734239917350925/a6df606036dd2328ce46a430a6d68172.png?size=128",
-      "wallet": 61500,
-      "usd": 1.845,
       "protected": false,
       "protection_remaining": 0
     },
