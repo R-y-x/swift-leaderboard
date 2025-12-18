@@ -1,12 +1,12 @@
 {
-  "updated": 1766057682,
+  "updated": 1766058282,
   "leaderboard": [
     {
       "rank": 1,
       "user_id": "1174964590652698629",
       "username": "itoshi_sae_japan1",
       "avatar": "https://cdn.discordapp.com/avatars/1174964590652698629/b8000aec257d700a3ad129dede323782.png?size=128",
-      "messages": 12058,
+      "messages": 12083,
       "level": 16
     },
     {
@@ -150,7 +150,7 @@
       "user_id": "843223906243969074",
       "username": "meowl_2222",
       "avatar": "https://cdn.discordapp.com/avatars/843223906243969074/4ef64370bfb23555739dc46aca3a0671.png?size=128",
-      "messages": 568,
+      "messages": 581,
       "level": 12
     },
     {
@@ -611,6 +611,14 @@
     },
     {
       "rank": 77,
+      "user_id": "1403399133221355681",
+      "username": "puppeteerdamsel",
+      "avatar": "https://cdn.discordapp.com/avatars/1403399133221355681/743a3d14267298763371870fb30e97de.png?size=128",
+      "messages": 46,
+      "level": 4
+    },
+    {
+      "rank": 78,
       "user_id": "1204855414651617310",
       "username": "gapsi0",
       "avatar": "https://cdn.discordapp.com/avatars/1204855414651617310/9ef35df0e4b90489b628d0e40579dc8c.png?size=128",
@@ -618,7 +626,7 @@
       "level": 4
     },
     {
-      "rank": 78,
+      "rank": 79,
       "user_id": "934058235328094209",
       "username": "jxdu",
       "avatar": "https://cdn.discordapp.com/avatars/934058235328094209/14db1b7800560fa431caba930aecc897.png?size=128",
@@ -626,7 +634,7 @@
       "level": 4
     },
     {
-      "rank": 79,
+      "rank": 80,
       "user_id": "1323553427321520231",
       "username": "rashdan171_25718",
       "avatar": "https://cdn.discordapp.com/avatars/1323553427321520231/3e94956f9f6838c0091d6946b455d5fb.png?size=128",
@@ -634,18 +642,10 @@
       "level": 4
     },
     {
-      "rank": 80,
+      "rank": 81,
       "user_id": "1324990944348733532",
       "username": "utooslow_999",
       "avatar": "https://cdn.discordapp.com/avatars/1324990944348733532/7b77e0c91ade38f6b03f5e9533f2fdd9.png?size=128",
-      "messages": 44,
-      "level": 4
-    },
-    {
-      "rank": 81,
-      "user_id": "1403399133221355681",
-      "username": "puppeteerdamsel",
-      "avatar": "https://cdn.discordapp.com/avatars/1403399133221355681/743a3d14267298763371870fb30e97de.png?size=128",
       "messages": 44,
       "level": 4
     },
