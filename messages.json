@@ -1,12 +1,12 @@
 {
-  "updated": 1766074482,
+  "updated": 1766075082,
   "leaderboard": [
     {
       "rank": 1,
       "user_id": "1174964590652698629",
       "username": "itoshi_sae_japan1",
       "avatar": "https://cdn.discordapp.com/avatars/1174964590652698629/b8000aec257d700a3ad129dede323782.png?size=128",
-      "messages": 12168,
+      "messages": 12170,
       "level": 16
     },
     {
@@ -14,7 +14,7 @@
       "user_id": "1060153899111157770",
       "username": "tommy_dsmp",
       "avatar": "https://cdn.discordapp.com/avatars/1060153899111157770/1b15eae1d6c8d355070a07bd5ba80b64.png?size=128",
-      "messages": 5598,
+      "messages": 5599,
       "level": 16
     },
     {
@@ -78,7 +78,7 @@
       "user_id": "1061393377049976933",
       "username": "sdiybt244",
       "avatar": "https://cdn.discordapp.com/avatars/1061393377049976933/a_8b4fc7d0a8f6b96c9d3e9c9d03562b0e.gif?size=128",
-      "messages": 991,
+      "messages": 996,
       "level": 14
     },
     {
@@ -86,7 +86,7 @@
       "user_id": "1184734239917350925",
       "username": "freakydark_knight69",
       "avatar": "https://cdn.discordapp.com/avatars/1184734239917350925/a6df606036dd2328ce46a430a6d68172.png?size=128",
-      "messages": 960,
+      "messages": 963,
       "level": 14
     },
     {
@@ -102,7 +102,7 @@
       "user_id": "1256677659753185363",
       "username": "foxyfelix09",
       "avatar": "https://cdn.discordapp.com/avatars/1256677659753185363/60e3f6922d0f9d2fd70059d986ce6c51.png?size=128",
-      "messages": 790,
+      "messages": 792,
       "level": 13
     },
     {
@@ -763,6 +763,14 @@
     },
     {
       "rank": 96,
+      "user_id": "757313429663907901",
+      "username": "1tsalfii",
+      "avatar": "https://cdn.discordapp.com/avatars/757313429663907901/6efc586c570893a42673caa5d85badb7.png?size=128",
+      "messages": 34,
+      "level": 3
+    },
+    {
+      "rank": 97,
       "user_id": "770077166271987782",
       "username": "youkaixue",
       "avatar": "https://cdn.discordapp.com/avatars/770077166271987782/aded1eb38c686a17dc55e270205eb278.png?size=128",
@@ -770,7 +778,7 @@
       "level": 3
     },
     {
-      "rank": 97,
+      "rank": 98,
       "user_id": "988712616253861898",
       "username": "m4ci3q_",
       "avatar": "https://cdn.discordapp.com/avatars/988712616253861898/f65961c4a98650064d1ef4fc4f58a07d.png?size=128",
@@ -778,7 +786,7 @@
       "level": 3
     },
     {
-      "rank": 98,
+      "rank": 99,
       "user_id": "1278981287872299055",
       "username": "admin_winner",
       "avatar": "https://cdn.discordapp.com/avatars/1278981287872299055/52d46625dca9e0b1f45ace686b98ce2e.png?size=128",
@@ -786,19 +794,11 @@
       "level": 3
     },
     {
-      "rank": 99,
+      "rank": 100,
       "user_id": "1334124153204244531",
       "username": "jialin1314",
       "avatar": "https://cdn.discordapp.com/avatars/1334124153204244531/a5ca430b650103d1a7b759fecf97aad7.png?size=128",
       "messages": 34,
-      "level": 3
-    },
-    {
-      "rank": 100,
-      "user_id": "757313429663907901",
-      "username": "1tsalfii",
-      "avatar": "https://cdn.discordapp.com/avatars/757313429663907901/6efc586c570893a42673caa5d85badb7.png?size=128",
-      "messages": 33,
       "level": 3
     }
   ]
