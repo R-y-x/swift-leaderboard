@@ -1,5 +1,5 @@
 {
-  "updated": 1766130780,
+  "updated": 1766131380,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,15 +9,15 @@
       "wallet": 203507,
       "usd": 6.105,
       "protected": true,
-      "protection_remaining": 30966
+      "protection_remaining": 30366
     },
     {
       "rank": 2,
       "user_id": "889499674891931698",
       "username": "ryx_acc",
       "avatar": "https://cdn.discordapp.com/avatars/889499674891931698/0a9b63f4a279013c24a26ee4b0710db4.png?size=128",
-      "wallet": 184696,
-      "usd": 5.541,
+      "wallet": 153824,
+      "usd": 4.615,
       "protected": false,
       "protection_remaining": 0
     },
@@ -53,6 +53,16 @@
     },
     {
       "rank": 6,
+      "user_id": "1092934181979430932",
+      "username": "alya._23",
+      "avatar": "https://cdn.discordapp.com/avatars/1092934181979430932/9c7c0e90acfdc75efe608b8ceb155c2a.png?size=128",
+      "wallet": 110031,
+      "usd": 3.301,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 7,
       "user_id": "1060153899111157770",
       "username": "tommy_dsmp",
       "avatar": "https://cdn.discordapp.com/avatars/1060153899111157770/1b15eae1d6c8d355070a07bd5ba80b64.png?size=128",
@@ -62,24 +72,14 @@
       "protection_remaining": 0
     },
     {
-      "rank": 7,
+      "rank": 8,
       "user_id": "1020891980433211444",
       "username": "iam_nooob",
       "avatar": "https://cdn.discordapp.com/avatars/1020891980433211444/81aff8dd5ec992926a03f2f314220a76.png?size=128",
       "wallet": 71154,
       "usd": 2.135,
       "protected": true,
-      "protection_remaining": 30978
-    },
-    {
-      "rank": 8,
-      "user_id": "1092934181979430932",
-      "username": "alya._23",
-      "avatar": "https://cdn.discordapp.com/avatars/1092934181979430932/9c7c0e90acfdc75efe608b8ceb155c2a.png?size=128",
-      "wallet": 68957,
-      "usd": 2.069,
-      "protected": false,
-      "protection_remaining": 0
+      "protection_remaining": 30378
     },
     {
       "rank": 9,
