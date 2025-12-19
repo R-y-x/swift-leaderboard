@@ -1,5 +1,5 @@
 {
-  "updated": 1766147580,
+  "updated": 1766148180,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 203507,
       "usd": 6.105,
       "protected": true,
-      "protection_remaining": 14166
+      "protection_remaining": 13566
     },
     {
       "rank": 2,
@@ -29,7 +29,7 @@
       "wallet": 146531,
       "usd": 4.396,
       "protected": true,
-      "protection_remaining": 41512
+      "protection_remaining": 40912
     },
     {
       "rank": 4,
@@ -59,7 +59,7 @@
       "wallet": 77154,
       "usd": 2.315,
       "protected": true,
-      "protection_remaining": 14178
+      "protection_remaining": 13578
     },
     {
       "rank": 7,
@@ -395,7 +395,7 @@
       "rank": 40,
       "user_id": "1344162436848029696",
       "username": "wanderingsuni_.",
-      "avatar": "https://cdn.discordapp.com/avatars/1344162436848029696/0c137d38b4b4ca0e155b66858ff2122d.png?size=128",
+      "avatar": "https://cdn.discordapp.com/avatars/1344162436848029696/e2915f489c50553bb10e8dfe58a64634.png?size=128",
       "wallet": 13500,
       "usd": 0.405,
       "protected": false,
