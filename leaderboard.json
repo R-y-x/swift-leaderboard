@@ -1,5 +1,5 @@
 {
-  "updated": 1766149594,
+  "updated": 1766150194,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 203507,
       "usd": 6.105,
       "protected": true,
-      "protection_remaining": 12151
+      "protection_remaining": 11551
     },
     {
       "rank": 2,
@@ -26,10 +26,10 @@
       "user_id": "889499674891931698",
       "username": "ryx_acc",
       "avatar": "https://cdn.discordapp.com/avatars/889499674891931698/0a9b63f4a279013c24a26ee4b0710db4.png?size=128",
-      "wallet": 149400,
-      "usd": 4.482,
+      "wallet": 153900,
+      "usd": 4.617,
       "protected": true,
-      "protection_remaining": 39498
+      "protection_remaining": 38898
     },
     {
       "rank": 4,
@@ -59,7 +59,7 @@
       "wallet": 77154,
       "usd": 2.315,
       "protected": true,
-      "protection_remaining": 12164
+      "protection_remaining": 11564
     },
     {
       "rank": 7,
@@ -574,8 +574,8 @@
     {
       "rank": 58,
       "user_id": "1446501905449750599",
-      "username": "User 1446501905449750599",
-      "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "username": "baconzaskibidi_",
+      "avatar": "https://cdn.discordapp.com/embed/avatars/1.png?size=128",
       "wallet": 10000,
       "usd": 0.3,
       "protected": false,
@@ -674,8 +674,8 @@
     {
       "rank": 68,
       "user_id": "1379049429537001616",
-      "username": "User 1379049429537001616",
-      "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "username": "sarasreal",
+      "avatar": "https://cdn.discordapp.com/avatars/1379049429537001616/a003d1863977b09e2f42f75a76463f11.png?size=128",
       "wallet": 7538,
       "usd": 0.226,
       "protected": false,
