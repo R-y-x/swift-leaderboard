@@ -1,5 +1,5 @@
 {
-  "updated": 1766155594,
+  "updated": 1766156194,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 353507,
       "usd": 10.605,
       "protected": true,
-      "protection_remaining": 6151
+      "protection_remaining": 5551
     },
     {
       "rank": 2,
@@ -19,14 +19,14 @@
       "wallet": 153900,
       "usd": 4.617,
       "protected": true,
-      "protection_remaining": 33498
+      "protection_remaining": 32898
     },
     {
       "rank": 3,
       "user_id": "1247576722476372090",
       "username": "fritz05209",
       "avatar": "https://cdn.discordapp.com/avatars/1247576722476372090/3c8e497a826b8095abe43534970c5ea1.png?size=128",
-      "wallet": 132122,
+      "wallet": 132123,
       "usd": 3.964,
       "protected": false,
       "protection_remaining": 0
@@ -49,7 +49,7 @@
       "wallet": 77154,
       "usd": 2.315,
       "protected": true,
-      "protection_remaining": 6164
+      "protection_remaining": 5564
     },
     {
       "rank": 6,
@@ -689,7 +689,7 @@
       "wallet": 7657,
       "usd": 0.23,
       "protected": true,
-      "protection_remaining": 41296
+      "protection_remaining": 40696
     },
     {
       "rank": 70,
