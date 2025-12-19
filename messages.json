@@ -1,5 +1,5 @@
 {
-  "updated": 1766133780,
+  "updated": 1766134380,
   "leaderboard": [
     {
       "rank": 1,
@@ -14,7 +14,7 @@
       "user_id": "1060153899111157770",
       "username": "tommy_dsmp",
       "avatar": "https://cdn.discordapp.com/avatars/1060153899111157770/1b15eae1d6c8d355070a07bd5ba80b64.png?size=128",
-      "messages": 5683,
+      "messages": 5691,
       "level": 16
     },
     {
@@ -70,7 +70,7 @@
       "user_id": "1184734239917350925",
       "username": "freakydark_knight69",
       "avatar": "https://cdn.discordapp.com/avatars/1184734239917350925/a6df606036dd2328ce46a430a6d68172.png?size=128",
-      "messages": 1197,
+      "messages": 1207,
       "level": 15
     },
     {
@@ -118,7 +118,7 @@
       "user_id": "1334732250696257627",
       "username": "demon_b3ast",
       "avatar": "https://cdn.discordapp.com/avatars/1334732250696257627/9b2b8881d2031e704e528dcf76b3904b.png?size=128",
-      "messages": 742,
+      "messages": 758,
       "level": 13
     },
     {
@@ -427,6 +427,14 @@
     },
     {
       "rank": 54,
+      "user_id": "1177560878523109436",
+      "username": "nav_god",
+      "avatar": "https://cdn.discordapp.com/embed/avatars/5.png?size=128",
+      "messages": 88,
+      "level": 5
+    },
+    {
+      "rank": 55,
       "user_id": "1048106658984886284",
       "username": "pursuer_fromdod",
       "avatar": "https://cdn.discordapp.com/avatars/1048106658984886284/14f6f37d440151e24ca3bdc138ca88d4.png?size=128",
@@ -434,7 +442,7 @@
       "level": 5
     },
     {
-      "rank": 55,
+      "rank": 56,
       "user_id": "1428157877218181180",
       "username": "im_trader1",
       "avatar": "https://cdn.discordapp.com/avatars/1428157877218181180/ffc311a86402fbacf816bb0053556d85.png?size=128",
@@ -442,19 +450,11 @@
       "level": 5
     },
     {
-      "rank": 56,
+      "rank": 57,
       "user_id": "1446501905449750599",
       "username": "baconzaskibidi_",
       "avatar": "https://cdn.discordapp.com/embed/avatars/1.png?size=128",
       "messages": 83,
-      "level": 5
-    },
-    {
-      "rank": 57,
-      "user_id": "1177560878523109436",
-      "username": "nav_god",
-      "avatar": "https://cdn.discordapp.com/embed/avatars/5.png?size=128",
-      "messages": 80,
       "level": 5
     },
     {
