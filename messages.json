@@ -1,5 +1,5 @@
 {
-  "updated": 1766126580,
+  "updated": 1766127180,
   "leaderboard": [
     {
       "rank": 1,
@@ -110,7 +110,7 @@
       "user_id": "1257572580446175254",
       "username": "joshsfv",
       "avatar": "https://cdn.discordapp.com/avatars/1257572580446175254/4fcf863f8676c5baa2b50a6b3bb51ab0.png?size=128",
-      "messages": 746,
+      "messages": 755,
       "level": 13
     },
     {
@@ -182,7 +182,7 @@
       "user_id": "1433024569580720169",
       "username": "potatob0774",
       "avatar": "https://cdn.discordapp.com/avatars/1433024569580720169/38fe0bc183a69bb5ac1c1e61d1989edf.png?size=128",
-      "messages": 468,
+      "messages": 469,
       "level": 11
     },
     {
@@ -366,7 +366,7 @@
       "user_id": "879950963790737458",
       "username": "kaiofyy",
       "avatar": "https://cdn.discordapp.com/avatars/879950963790737458/41eb1a8412fef75d9b1a7bdbfcf97ce0.png?size=128",
-      "messages": 116,
+      "messages": 117,
       "level": 6
     },
     {
@@ -427,6 +427,14 @@
     },
     {
       "rank": 54,
+      "user_id": "1048106658984886284",
+      "username": "pursuer_fromdod",
+      "avatar": "https://cdn.discordapp.com/avatars/1048106658984886284/14f6f37d440151e24ca3bdc138ca88d4.png?size=128",
+      "messages": 85,
+      "level": 5
+    },
+    {
+      "rank": 55,
       "user_id": "1428157877218181180",
       "username": "im_trader1",
       "avatar": "https://cdn.discordapp.com/avatars/1428157877218181180/ffc311a86402fbacf816bb0053556d85.png?size=128",
@@ -434,19 +442,11 @@
       "level": 5
     },
     {
-      "rank": 55,
+      "rank": 56,
       "user_id": "1446501905449750599",
       "username": "baconzaskibidi_",
       "avatar": "https://cdn.discordapp.com/embed/avatars/1.png?size=128",
       "messages": 83,
-      "level": 5
-    },
-    {
-      "rank": 56,
-      "user_id": "1048106658984886284",
-      "username": "pursuer_fromdod",
-      "avatar": "https://cdn.discordapp.com/avatars/1048106658984886284/14f6f37d440151e24ca3bdc138ca88d4.png?size=128",
-      "messages": 82,
       "level": 5
     },
     {
