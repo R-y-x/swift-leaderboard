@@ -1,5 +1,5 @@
 {
-  "updated": 1766148994,
+  "updated": 1766149594,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 203507,
       "usd": 6.105,
       "protected": true,
-      "protection_remaining": 12751
+      "protection_remaining": 12151
     },
     {
       "rank": 2,
@@ -26,10 +26,10 @@
       "user_id": "889499674891931698",
       "username": "ryx_acc",
       "avatar": "https://cdn.discordapp.com/avatars/889499674891931698/0a9b63f4a279013c24a26ee4b0710db4.png?size=128",
-      "wallet": 146531,
-      "usd": 4.396,
+      "wallet": 149400,
+      "usd": 4.482,
       "protected": true,
-      "protection_remaining": 40098
+      "protection_remaining": 39498
     },
     {
       "rank": 4,
@@ -59,7 +59,7 @@
       "wallet": 77154,
       "usd": 2.315,
       "protected": true,
-      "protection_remaining": 12764
+      "protection_remaining": 12164
     },
     {
       "rank": 7,
@@ -284,8 +284,8 @@
     {
       "rank": 29,
       "user_id": "1125505928171618394",
-      "username": "User 1125505928171618394",
-      "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "username": "mrredted",
+      "avatar": "https://cdn.discordapp.com/avatars/1125505928171618394/eee78c5e1459bbd77c9eba542d7fe4b3.png?size=128",
       "wallet": 17000,
       "usd": 0.51,
       "protected": false,
@@ -414,8 +414,8 @@
     {
       "rank": 42,
       "user_id": "1245520333864177744",
-      "username": "User 1245520333864177744",
-      "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "username": ".avdol.",
+      "avatar": "https://cdn.discordapp.com/avatars/1245520333864177744/8f086b6cb37cee6c4508060d18f2551d.png?size=128",
       "wallet": 13458,
       "usd": 0.404,
       "protected": false,
@@ -584,8 +584,8 @@
     {
       "rank": 59,
       "user_id": "1186683963947884614",
-      "username": "User 1186683963947884614",
-      "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "username": "yaemiko010110",
+      "avatar": "https://cdn.discordapp.com/avatars/1186683963947884614/0ff3c1d952a161476c109d3d1d58f0eb.png?size=128",
       "wallet": 9447,
       "usd": 0.283,
       "protected": false,
