@@ -141,8 +141,7 @@ body{
   font-weight:800;
   font-size:14px;
   line-height:1.2;
-  white-space:normal;        /* IMPORTANT */
-  word-break:break-word;     /* IMPORTANT */
+  word-break:break-word;
 }
 
 .sub{
@@ -174,6 +173,14 @@ body{
   padding:18px;
   color:var(--muted);
 }
+
+/* ===== VIEWS ===== */
+.views{
+  text-align:center;
+  margin-top:14px;
+  font-size:12px;
+  color:var(--muted);
+}
 </style>
 </head>
 
@@ -199,6 +206,8 @@ body{
     </div>
 
     <div class="list" id="list"></div>
+
+    <div class="views" id="views">👁️ Views: loading...</div>
 
   </div>
 </div>
@@ -269,11 +278,27 @@ async function load(){
   render(coins);
 }
 
+/* ===== VIEW COUNTER ===== */
+const VIEW_NAMESPACE="swift-leaderboard";
+const VIEW_KEY="views";
+
+async function updateViews(){
+  try{
+    const res=await fetch(`https://api.countapi.xyz/hit/${VIEW_NAMESPACE}/${VIEW_KEY}`);
+    const data=await res.json();
+    document.getElementById("views").innerText=
+      `👁️ Views: ${data.value.toLocaleString()}`;
+  }catch{
+    document.getElementById("views").innerText="👁️ Views: unavailable";
+  }
+}
+
 tabCoins.onclick=()=>{mode="coins";tabCoins.classList.add("active");tabMsgs.classList.remove("active");render(coins);}
 tabMsgs.onclick =()=>{mode="msgs";tabMsgs.classList.add("active");tabCoins.classList.remove("active");render(msgs);}
 search.oninput=()=>render(mode==="coins"?coins:msgs);
 
 load();
+updateViews();
 </script>
 </body>
 </html>
