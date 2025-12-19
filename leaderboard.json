@@ -1,5 +1,5 @@
 {
-  "updated": 1766171891,
+  "updated": 1766172491,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 200849,
       "usd": 6.025,
       "protected": true,
-      "protection_remaining": 17202
+      "protection_remaining": 16602
     },
     {
       "rank": 2,
@@ -94,8 +94,8 @@
     {
       "rank": 10,
       "user_id": "1330619336603472034",
-      "username": "vylence1",
-      "avatar": "https://cdn.discordapp.com/avatars/1330619336603472034/061aad6accd07768a5338f250944b98e.png?size=128",
+      "username": "User 1330619336603472034",
+      "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
       "wallet": 53378,
       "usd": 1.601,
       "protected": false,
@@ -404,8 +404,8 @@
     {
       "rank": 41,
       "user_id": "1245520333864177744",
-      "username": ".avdol.",
-      "avatar": "https://cdn.discordapp.com/avatars/1245520333864177744/8f086b6cb37cee6c4508060d18f2551d.png?size=128",
+      "username": "User 1245520333864177744",
+      "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
       "wallet": 13458,
       "usd": 0.404,
       "protected": false,
@@ -584,8 +584,8 @@
     {
       "rank": 59,
       "user_id": "1446501905449750599",
-      "username": "baconzaskibidi_",
-      "avatar": "https://cdn.discordapp.com/embed/avatars/1.png?size=128",
+      "username": "User 1446501905449750599",
+      "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
       "wallet": 10000,
       "usd": 0.3,
       "protected": false,
@@ -594,8 +594,8 @@
     {
       "rank": 60,
       "user_id": "1186683963947884614",
-      "username": "yaemiko010110",
-      "avatar": "https://cdn.discordapp.com/avatars/1186683963947884614/0ff3c1d952a161476c109d3d1d58f0eb.png?size=128",
+      "username": "User 1186683963947884614",
+      "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
       "wallet": 9447,
       "usd": 0.283,
       "protected": false,
@@ -679,13 +679,13 @@
       "wallet": 7657,
       "usd": 0.23,
       "protected": true,
-      "protection_remaining": 25000
+      "protection_remaining": 24400
     },
     {
       "rank": 69,
       "user_id": "1379049429537001616",
-      "username": "sarasreal",
-      "avatar": "https://cdn.discordapp.com/avatars/1379049429537001616/a003d1863977b09e2f42f75a76463f11.png?size=128",
+      "username": "User 1379049429537001616",
+      "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
       "wallet": 7538,
       "usd": 0.226,
       "protected": false,
