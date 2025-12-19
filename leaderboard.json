@@ -1,15 +1,15 @@
 {
-  "updated": 1766159200,
+  "updated": 1766159800,
   "leaderboard": [
     {
       "rank": 1,
       "user_id": "1184734239917350925",
       "username": "freakydark_knight69",
       "avatar": "https://cdn.discordapp.com/avatars/1184734239917350925/a6df606036dd2328ce46a430a6d68172.png?size=128",
-      "wallet": 353507,
-      "usd": 10.605,
+      "wallet": 376700,
+      "usd": 11.301,
       "protected": true,
-      "protection_remaining": 2546
+      "protection_remaining": 1946
     },
     {
       "rank": 2,
@@ -19,7 +19,7 @@
       "wallet": 153900,
       "usd": 4.617,
       "protected": true,
-      "protection_remaining": 29893
+      "protection_remaining": 29293
     },
     {
       "rank": 3,
@@ -49,7 +49,7 @@
       "wallet": 89985,
       "usd": 2.7,
       "protected": true,
-      "protection_remaining": 41501
+      "protection_remaining": 40901
     },
     {
       "rank": 6,
@@ -59,7 +59,7 @@
       "wallet": 77154,
       "usd": 2.315,
       "protected": true,
-      "protection_remaining": 2559
+      "protection_remaining": 1959
     },
     {
       "rank": 7,
@@ -699,7 +699,7 @@
       "wallet": 7657,
       "usd": 0.23,
       "protected": true,
-      "protection_remaining": 37691
+      "protection_remaining": 37091
     },
     {
       "rank": 71,
