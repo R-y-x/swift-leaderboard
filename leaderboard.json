@@ -1,5 +1,5 @@
 {
-  "updated": 1766157994,
+  "updated": 1766158600,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 353507,
       "usd": 10.605,
       "protected": true,
-      "protection_remaining": 3751
+      "protection_remaining": 3146
     },
     {
       "rank": 2,
@@ -19,25 +19,25 @@
       "wallet": 153900,
       "usd": 4.617,
       "protected": true,
-      "protection_remaining": 31098
+      "protection_remaining": 30493
     },
     {
       "rank": 3,
-      "user_id": "1247576722476372090",
-      "username": "fritz05209",
-      "avatar": "https://cdn.discordapp.com/avatars/1247576722476372090/3c8e497a826b8095abe43534970c5ea1.png?size=128",
-      "wallet": 132123,
-      "usd": 3.964,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 4,
       "user_id": "1320513278887333919",
       "username": "bingbong877",
       "avatar": "https://cdn.discordapp.com/avatars/1320513278887333919/17dbfbe719488c8ed5217e93df5071ba.png?size=128",
       "wallet": 127892,
       "usd": 3.837,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 4,
+      "user_id": "1247576722476372090",
+      "username": "fritz05209",
+      "avatar": "https://cdn.discordapp.com/avatars/1247576722476372090/3c8e497a826b8095abe43534970c5ea1.png?size=128",
+      "wallet": 121358,
+      "usd": 3.641,
       "protected": false,
       "protection_remaining": 0
     },
@@ -49,7 +49,7 @@
       "wallet": 89985,
       "usd": 2.7,
       "protected": true,
-      "protection_remaining": 42707
+      "protection_remaining": 42101
     },
     {
       "rank": 6,
@@ -59,7 +59,7 @@
       "wallet": 77154,
       "usd": 2.315,
       "protected": true,
-      "protection_remaining": 3764
+      "protection_remaining": 3159
     },
     {
       "rank": 7,
@@ -699,7 +699,7 @@
       "wallet": 7657,
       "usd": 0.23,
       "protected": true,
-      "protection_remaining": 38896
+      "protection_remaining": 38291
     },
     {
       "rank": 71,
