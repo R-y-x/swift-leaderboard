@@ -1,5 +1,5 @@
 {
-  "updated": 1766137980,
+  "updated": 1766138580,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 203507,
       "usd": 6.105,
       "protected": true,
-      "protection_remaining": 23766
+      "protection_remaining": 23166
     },
     {
       "rank": 2,
@@ -59,7 +59,7 @@
       "wallet": 77154,
       "usd": 2.315,
       "protected": true,
-      "protection_remaining": 23778
+      "protection_remaining": 23178
     },
     {
       "rank": 7,
@@ -153,21 +153,21 @@
     },
     {
       "rank": 16,
-      "user_id": "906171609247789118",
-      "username": ".a.h.t",
-      "avatar": "https://cdn.discordapp.com/avatars/906171609247789118/6cc248009265431b92a46590459bc1ae.png?size=128",
-      "wallet": 33446,
-      "usd": 1.003,
+      "user_id": "1093718723753431110",
+      "username": "your1and._only",
+      "avatar": "https://cdn.discordapp.com/avatars/1093718723753431110/d0b9e0dcb1ee8b6c612be0fb97f6f850.png?size=128",
+      "wallet": 38594,
+      "usd": 1.158,
       "protected": false,
       "protection_remaining": 0
     },
     {
       "rank": 17,
-      "user_id": "1093718723753431110",
-      "username": "your1and._only",
-      "avatar": "https://cdn.discordapp.com/avatars/1093718723753431110/d0b9e0dcb1ee8b6c612be0fb97f6f850.png?size=128",
-      "wallet": 31594,
-      "usd": 0.948,
+      "user_id": "906171609247789118",
+      "username": ".a.h.t",
+      "avatar": "https://cdn.discordapp.com/avatars/906171609247789118/6cc248009265431b92a46590459bc1ae.png?size=128",
+      "wallet": 33446,
+      "usd": 1.003,
       "protected": false,
       "protection_remaining": 0
     },
@@ -385,7 +385,7 @@
       "rank": 39,
       "user_id": "1344162436848029696",
       "username": "wanderingsuni_.",
-      "avatar": "https://cdn.discordapp.com/avatars/1344162436848029696/1f4cd4fa2bce1f4bbf031dd582f22ddb.png?size=128",
+      "avatar": "https://cdn.discordapp.com/avatars/1344162436848029696/0c137d38b4b4ca0e155b66858ff2122d.png?size=128",
       "wallet": 13500,
       "usd": 0.405,
       "protected": false,
