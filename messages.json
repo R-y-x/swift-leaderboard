@@ -1,12 +1,12 @@
 {
-  "updated": 1766169491,
+  "updated": 1766170091,
   "leaderboard": [
     {
       "rank": 1,
       "user_id": "1174964590652698629",
       "username": "itoshi_sae_japan1",
       "avatar": "https://cdn.discordapp.com/avatars/1174964590652698629/b8000aec257d700a3ad129dede323782.png?size=128",
-      "messages": 12761,
+      "messages": 12772,
       "level": 16
     },
     {
@@ -28,8 +28,8 @@
     {
       "rank": 4,
       "user_id": "779537259980390411",
-      "username": "User 779537259980390411",
-      "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "username": ".tnt.10",
+      "avatar": "https://cdn.discordapp.com/avatars/779537259980390411/168ca4f3036e4208ce20c650824c8090.png?size=128",
       "messages": 3042,
       "level": 16
     },
@@ -94,24 +94,24 @@
       "user_id": "1257572580446175254",
       "username": "joshsfv",
       "avatar": "https://cdn.discordapp.com/avatars/1257572580446175254/4fcf863f8676c5baa2b50a6b3bb51ab0.png?size=128",
-      "messages": 861,
+      "messages": 876,
       "level": 14
     },
     {
       "rank": 13,
+      "user_id": "1411310833497145356",
+      "username": "samyut1",
+      "avatar": "https://cdn.discordapp.com/avatars/1411310833497145356/7a9987aed0afdfd21df539cee0b8fe03.png?size=128",
+      "messages": 809,
+      "level": 14
+    },
+    {
+      "rank": 14,
       "user_id": "1350852016905125948",
       "username": "zrqi_",
       "avatar": "https://cdn.discordapp.com/avatars/1350852016905125948/e914850c226c6b338928a7ee2428c615.png?size=128",
       "messages": 805,
       "level": 14
-    },
-    {
-      "rank": 14,
-      "user_id": "1411310833497145356",
-      "username": "samyut1",
-      "avatar": "https://cdn.discordapp.com/avatars/1411310833497145356/7a9987aed0afdfd21df539cee0b8fe03.png?size=128",
-      "messages": 799,
-      "level": 13
     },
     {
       "rank": 15,
@@ -460,8 +460,8 @@
     {
       "rank": 58,
       "user_id": "1446501905449750599",
-      "username": "User 1446501905449750599",
-      "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "username": "baconzaskibidi_",
+      "avatar": "https://cdn.discordapp.com/embed/avatars/1.png?size=128",
       "messages": 83,
       "level": 5
     },
@@ -732,8 +732,8 @@
     {
       "rank": 92,
       "user_id": "724852116404830269",
-      "username": "User 724852116404830269",
-      "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "username": "hadrillion",
+      "avatar": "https://cdn.discordapp.com/avatars/724852116404830269/c1138f74eb03c5595af4a276907324e1.png?size=128",
       "messages": 37,
       "level": 3
     },
