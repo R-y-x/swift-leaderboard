@@ -1,5 +1,5 @@
 {
-  "updated": 1766143380,
+  "updated": 1766143980,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,15 +9,15 @@
       "wallet": 203507,
       "usd": 6.105,
       "protected": true,
-      "protection_remaining": 18366
+      "protection_remaining": 17766
     },
     {
       "rank": 2,
       "user_id": "1242858796460544050",
       "username": "breaddripin",
       "avatar": "https://cdn.discordapp.com/avatars/1242858796460544050/967b89ac2f9f9a99af25101d9e0ee831.png?size=128",
-      "wallet": 150444,
-      "usd": 4.513,
+      "wallet": 158945,
+      "usd": 4.768,
       "protected": false,
       "protection_remaining": 0
     },
@@ -59,7 +59,7 @@
       "wallet": 77154,
       "usd": 2.315,
       "protected": true,
-      "protection_remaining": 18378
+      "protection_remaining": 17778
     },
     {
       "rank": 7,
