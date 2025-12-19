@@ -1,5 +1,5 @@
 {
-  "updated": 1766120580,
+  "updated": 1766121180,
   "leaderboard": [
     {
       "rank": 1,
@@ -70,7 +70,7 @@
       "user_id": "1184734239917350925",
       "username": "freakydark_knight69",
       "avatar": "https://cdn.discordapp.com/avatars/1184734239917350925/a6df606036dd2328ce46a430a6d68172.png?size=128",
-      "messages": 1128,
+      "messages": 1140,
       "level": 15
     },
     {
@@ -243,18 +243,18 @@
     },
     {
       "rank": 31,
-      "user_id": "581942544729112588",
-      "username": "rev3968",
-      "avatar": "https://cdn.discordapp.com/avatars/581942544729112588/c15d489c2b2939bb0107bf4b1b668362.png?size=128",
-      "messages": 265,
+      "user_id": "1020891980433211444",
+      "username": "iam_nooob",
+      "avatar": "https://cdn.discordapp.com/avatars/1020891980433211444/81aff8dd5ec992926a03f2f314220a76.png?size=128",
+      "messages": 286,
       "level": 9
     },
     {
       "rank": 32,
-      "user_id": "1020891980433211444",
-      "username": "iam_nooob",
-      "avatar": "https://cdn.discordapp.com/avatars/1020891980433211444/81aff8dd5ec992926a03f2f314220a76.png?size=128",
-      "messages": 263,
+      "user_id": "581942544729112588",
+      "username": "rev3968",
+      "avatar": "https://cdn.discordapp.com/avatars/581942544729112588/c15d489c2b2939bb0107bf4b1b668362.png?size=128",
+      "messages": 265,
       "level": 9
     },
     {
@@ -563,6 +563,14 @@
     },
     {
       "rank": 71,
+      "user_id": "1429079716266246265",
+      "username": "wili_manners",
+      "avatar": "https://cdn.discordapp.com/avatars/1429079716266246265/b26ecc5b5eb8d2e410628f35e42f9c20.png?size=128",
+      "messages": 60,
+      "level": 4
+    },
+    {
+      "rank": 72,
       "user_id": "1447532718702333993",
       "username": "hayt25",
       "avatar": "https://cdn.discordapp.com/avatars/1447532718702333993/79157356d0ea87a92a8e02ad68b8ab31.png?size=128",
@@ -570,18 +578,10 @@
       "level": 4
     },
     {
-      "rank": 72,
+      "rank": 73,
       "user_id": "1178549680238497873",
       "username": "aprilfoo4",
       "avatar": "https://cdn.discordapp.com/avatars/1178549680238497873/5161a5ec8b540dec2f3aa777eb6cd7cd.png?size=128",
-      "messages": 59,
-      "level": 4
-    },
-    {
-      "rank": 73,
-      "user_id": "1429079716266246265",
-      "username": "wili_manners",
-      "avatar": "https://cdn.discordapp.com/avatars/1429079716266246265/b26ecc5b5eb8d2e410628f35e42f9c20.png?size=128",
       "messages": 59,
       "level": 4
     },
