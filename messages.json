@@ -1,5 +1,5 @@
 {
-  "updated": 1766155594,
+  "updated": 1766156194,
   "leaderboard": [
     {
       "rank": 1,
@@ -62,7 +62,7 @@
       "user_id": "1184734239917350925",
       "username": "freakydark_knight69",
       "avatar": "https://cdn.discordapp.com/avatars/1184734239917350925/a6df606036dd2328ce46a430a6d68172.png?size=128",
-      "messages": 1411,
+      "messages": 1413,
       "level": 16
     },
     {
@@ -270,7 +270,7 @@
       "user_id": "1177560878523109436",
       "username": "nav_god",
       "avatar": "https://cdn.discordapp.com/embed/avatars/5.png?size=128",
-      "messages": 197,
+      "messages": 199,
       "level": 7
     },
     {
@@ -427,6 +427,14 @@
     },
     {
       "rank": 54,
+      "user_id": "1048106658984886284",
+      "username": "pursuer_fromdod",
+      "avatar": "https://cdn.discordapp.com/avatars/1048106658984886284/14f6f37d440151e24ca3bdc138ca88d4.png?size=128",
+      "messages": 89,
+      "level": 5
+    },
+    {
+      "rank": 55,
       "user_id": "1078740523579355146",
       "username": "banan115",
       "avatar": "https://cdn.discordapp.com/avatars/1078740523579355146/c3eadbb1882cbc1fb0f80ef90f65fe8a.png?size=128",
@@ -434,19 +442,11 @@
       "level": 5
     },
     {
-      "rank": 55,
+      "rank": 56,
       "user_id": "724280756658110555",
       "username": "certifiedgrekky",
       "avatar": "https://cdn.discordapp.com/avatars/724280756658110555/d1be504b97eaf28e6461a63ffe7b2650.png?size=128",
       "messages": 88,
-      "level": 5
-    },
-    {
-      "rank": 56,
-      "user_id": "1048106658984886284",
-      "username": "pursuer_fromdod",
-      "avatar": "https://cdn.discordapp.com/avatars/1048106658984886284/14f6f37d440151e24ca3bdc138ca88d4.png?size=128",
-      "messages": 87,
       "level": 5
     },
     {
