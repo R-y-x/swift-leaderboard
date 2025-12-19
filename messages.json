@@ -1,5 +1,5 @@
 {
-  "updated": 1766137980,
+  "updated": 1766138580,
   "leaderboard": [
     {
       "rank": 1,
@@ -14,7 +14,7 @@
       "user_id": "1060153899111157770",
       "username": "tommy_dsmp",
       "avatar": "https://cdn.discordapp.com/avatars/1060153899111157770/1b15eae1d6c8d355070a07bd5ba80b64.png?size=128",
-      "messages": 5727,
+      "messages": 5735,
       "level": 16
     },
     {
@@ -70,7 +70,7 @@
       "user_id": "1184734239917350925",
       "username": "freakydark_knight69",
       "avatar": "https://cdn.discordapp.com/avatars/1184734239917350925/a6df606036dd2328ce46a430a6d68172.png?size=128",
-      "messages": 1220,
+      "messages": 1230,
       "level": 15
     },
     {
@@ -195,6 +195,14 @@
     },
     {
       "rank": 25,
+      "user_id": "1093718723753431110",
+      "username": "your1and._only",
+      "avatar": "https://cdn.discordapp.com/avatars/1093718723753431110/d0b9e0dcb1ee8b6c612be0fb97f6f850.png?size=128",
+      "messages": 431,
+      "level": 11
+    },
+    {
+      "rank": 26,
       "user_id": "1125505928171618394",
       "username": "mrredted",
       "avatar": "https://cdn.discordapp.com/avatars/1125505928171618394/eee78c5e1459bbd77c9eba542d7fe4b3.png?size=128",
@@ -202,20 +210,12 @@
       "level": 11
     },
     {
-      "rank": 26,
+      "rank": 27,
       "user_id": "1422400634576961596",
       "username": "treble_bass.",
       "avatar": "https://cdn.discordapp.com/avatars/1422400634576961596/d7d5f0cbbda5fd2529b1437a64129f39.png?size=128",
       "messages": 421,
       "level": 11
-    },
-    {
-      "rank": 27,
-      "user_id": "1093718723753431110",
-      "username": "your1and._only",
-      "avatar": "https://cdn.discordapp.com/avatars/1093718723753431110/d0b9e0dcb1ee8b6c612be0fb97f6f850.png?size=128",
-      "messages": 406,
-      "level": 10
     },
     {
       "rank": 28,
@@ -357,7 +357,7 @@
       "rank": 45,
       "user_id": "1344162436848029696",
       "username": "wanderingsuni_.",
-      "avatar": "https://cdn.discordapp.com/avatars/1344162436848029696/1f4cd4fa2bce1f4bbf031dd582f22ddb.png?size=128",
+      "avatar": "https://cdn.discordapp.com/avatars/1344162436848029696/0c137d38b4b4ca0e155b66858ff2122d.png?size=128",
       "messages": 121,
       "level": 6
     },
@@ -483,6 +483,14 @@
     },
     {
       "rank": 61,
+      "user_id": "773448566105571358",
+      "username": "pixbc",
+      "avatar": "https://cdn.discordapp.com/avatars/773448566105571358/bd0b803d5ef2c66062ab6553e6da2580.png?size=128",
+      "messages": 70,
+      "level": 4
+    },
+    {
+      "rank": 62,
       "user_id": "999834114486177812",
       "username": "._quan0_.quantum._0tum_.",
       "avatar": "https://cdn.discordapp.com/avatars/999834114486177812/ae466acb4135708af6d62ada264b2878.png?size=128",
@@ -490,19 +498,11 @@
       "level": 4
     },
     {
-      "rank": 62,
+      "rank": 63,
       "user_id": "1124551746207887412",
       "username": "mrturtleig",
       "avatar": "https://cdn.discordapp.com/avatars/1124551746207887412/80b2979b2a642f1dc5aba670a19109b2.png?size=128",
       "messages": 70,
-      "level": 4
-    },
-    {
-      "rank": 63,
-      "user_id": "773448566105571358",
-      "username": "pixbc",
-      "avatar": "https://cdn.discordapp.com/avatars/773448566105571358/bd0b803d5ef2c66062ab6553e6da2580.png?size=128",
-      "messages": 69,
       "level": 4
     },
     {
