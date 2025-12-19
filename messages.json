@@ -1,5 +1,5 @@
 {
-  "updated": 1766161000,
+  "updated": 1766161600,
   "leaderboard": [
     {
       "rank": 1,
@@ -38,7 +38,7 @@
       "user_id": "1247576722476372090",
       "username": "fritz05209",
       "avatar": "https://cdn.discordapp.com/avatars/1247576722476372090/3c8e497a826b8095abe43534970c5ea1.png?size=128",
-      "messages": 2482,
+      "messages": 2488,
       "level": 16
     },
     {
@@ -595,6 +595,14 @@
     },
     {
       "rank": 75,
+      "user_id": "1433113923145695417",
+      "username": "popcatplayz7",
+      "avatar": "https://cdn.discordapp.com/avatars/1433113923145695417/e3dd13a84aa3bc6dc26088bffcbfc1a3.png?size=128",
+      "messages": 56,
+      "level": 4
+    },
+    {
+      "rank": 76,
       "user_id": "1372916067176808518",
       "username": "yowassup_.",
       "avatar": "https://cdn.discordapp.com/avatars/1372916067176808518/88ca6bb1e234b7cf2de8b64a3c9f98dc.png?size=128",
@@ -602,7 +610,7 @@
       "level": 4
     },
     {
-      "rank": 76,
+      "rank": 77,
       "user_id": "1226873713379770419",
       "username": "frostykutya",
       "avatar": "https://cdn.discordapp.com/avatars/1226873713379770419/a_96fad1220d69d3d05a50a9a22dc2f1a4.gif?size=128",
@@ -610,18 +618,10 @@
       "level": 4
     },
     {
-      "rank": 77,
+      "rank": 78,
       "user_id": "1403399133221355681",
       "username": "puppeteerdamsel",
       "avatar": "https://cdn.discordapp.com/avatars/1403399133221355681/743a3d14267298763371870fb30e97de.png?size=128",
-      "messages": 53,
-      "level": 4
-    },
-    {
-      "rank": 78,
-      "user_id": "1433113923145695417",
-      "username": "popcatplayz7",
-      "avatar": "https://cdn.discordapp.com/avatars/1433113923145695417/e3dd13a84aa3bc6dc26088bffcbfc1a3.png?size=128",
       "messages": 53,
       "level": 4
     },
