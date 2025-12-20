@@ -1,5 +1,5 @@
 {
-  "updated": 1766241811,
+  "updated": 1766242411,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 234424,
       "usd": 7.033,
       "protected": true,
-      "protection_remaining": 12303
+      "protection_remaining": 11703
     },
     {
       "rank": 2,
@@ -155,7 +155,7 @@
       "rank": 16,
       "user_id": "1040939859969310771",
       "username": "comerdore64",
-      "avatar": "https://cdn.discordapp.com/avatars/1040939859969310771/046efcfbe2da99dc28db3b8b0e8c5de0.png?size=128",
+      "avatar": "https://cdn.discordapp.com/avatars/1040939859969310771/c5ef0d6b414b080eba5b5ceac74afbb5.png?size=128",
       "wallet": 33000,
       "usd": 0.99,
       "protected": false,
