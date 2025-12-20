@@ -1,5 +1,5 @@
 {
-  "updated": 1766238211,
+  "updated": 1766238811,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,15 +9,15 @@
       "wallet": 234424,
       "usd": 7.033,
       "protected": true,
-      "protection_remaining": 15903
+      "protection_remaining": 15303
     },
     {
       "rank": 2,
       "user_id": "889499674891931698",
       "username": "ryx_acc",
       "avatar": "https://cdn.discordapp.com/avatars/889499674891931698/0a9b63f4a279013c24a26ee4b0710db4.png?size=128",
-      "wallet": 217504,
-      "usd": 6.525,
+      "wallet": 219178,
+      "usd": 6.575,
       "protected": false,
       "protection_remaining": 0
     },
@@ -163,16 +163,6 @@
     },
     {
       "rank": 17,
-      "user_id": "1060153899111157770",
-      "username": "tommy_dsmp",
-      "avatar": "https://cdn.discordapp.com/avatars/1060153899111157770/1b15eae1d6c8d355070a07bd5ba80b64.png?size=128",
-      "wallet": 31908,
-      "usd": 0.957,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 18,
       "user_id": "913401790123372544",
       "username": "da_wink",
       "avatar": "https://cdn.discordapp.com/avatars/913401790123372544/2e4a3376f0b0e6c5dcbcd55c0f347d36.png?size=128",
@@ -182,7 +172,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 19,
+      "rank": 18,
       "user_id": "1040939859969310771",
       "username": "comerdore64",
       "avatar": "https://cdn.discordapp.com/avatars/1040939859969310771/046efcfbe2da99dc28db3b8b0e8c5de0.png?size=128",
@@ -192,12 +182,22 @@
       "protection_remaining": 0
     },
     {
-      "rank": 20,
+      "rank": 19,
       "user_id": "1057102480275689575",
       "username": "alessandro0_0",
       "avatar": "https://cdn.discordapp.com/avatars/1057102480275689575/73d9f1c56ad08fb9527800ce3dce4f3c.png?size=128",
       "wallet": 26402,
       "usd": 0.792,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 20,
+      "user_id": "1034508461066686544",
+      "username": "demopic1407",
+      "avatar": "https://cdn.discordapp.com/avatars/1034508461066686544/c686b99e7d96816252eb6bf0a2d0f2bd.png?size=128",
+      "wallet": 25375,
+      "usd": 0.761,
       "protected": false,
       "protection_remaining": 0
     }
