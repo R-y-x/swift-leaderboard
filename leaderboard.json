@@ -1,5 +1,5 @@
 {
-  "updated": 1766246585,
+  "updated": 1766247185,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 234424,
       "usd": 7.033,
       "protected": true,
-      "protection_remaining": 7530
+      "protection_remaining": 6930
     },
     {
       "rank": 2,
@@ -113,16 +113,6 @@
     },
     {
       "rank": 12,
-      "user_id": "1084097024355479732",
-      "username": "clearyear123.",
-      "avatar": "https://cdn.discordapp.com/avatars/1084097024355479732/65370f137500ae382e454031839aa249.png?size=128",
-      "wallet": 43571,
-      "usd": 1.307,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 13,
       "user_id": "778841248382713897",
       "username": "senkopost",
       "avatar": "https://cdn.discordapp.com/avatars/778841248382713897/7a8031398ac2afe49407c5105559f6fb.png?size=128",
@@ -132,7 +122,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 14,
+      "rank": 13,
       "user_id": "1433024569580720169",
       "username": "potatob0774",
       "avatar": "https://cdn.discordapp.com/avatars/1433024569580720169/38fe0bc183a69bb5ac1c1e61d1989edf.png?size=128",
@@ -142,7 +132,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 15,
+      "rank": 14,
       "user_id": "906171609247789118",
       "username": ".a.h.t",
       "avatar": "https://cdn.discordapp.com/avatars/906171609247789118/6cc248009265431b92a46590459bc1ae.png?size=128",
@@ -152,12 +142,22 @@
       "protection_remaining": 0
     },
     {
-      "rank": 16,
+      "rank": 15,
       "user_id": "1396607483967049889",
       "username": "sqxxn._",
       "avatar": "https://cdn.discordapp.com/avatars/1396607483967049889/3b8ee41d6b1cce398f7daf3b58ecd8a1.png?size=128",
       "wallet": 32562,
       "usd": 0.977,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 16,
+      "user_id": "1084097024355479732",
+      "username": "clearyear123.",
+      "avatar": "https://cdn.discordapp.com/avatars/1084097024355479732/65370f137500ae382e454031839aa249.png?size=128",
+      "wallet": 28071,
+      "usd": 0.842,
       "protected": false,
       "protection_remaining": 0
     },
