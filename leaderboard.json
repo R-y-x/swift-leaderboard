@@ -1,5 +1,5 @@
 {
-  "updated": 1766194324,
+  "updated": 1766194924,
   "leaderboard": [
     {
       "rank": 1,
@@ -16,8 +16,8 @@
       "user_id": "1247576722476372090",
       "username": "fritz05209",
       "avatar": "https://cdn.discordapp.com/avatars/1247576722476372090/3c8e497a826b8095abe43534970c5ea1.png?size=128",
-      "wallet": 128298,
-      "usd": 3.849,
+      "wallet": 121149,
+      "usd": 3.634,
       "protected": false,
       "protection_remaining": 0
     },
@@ -143,6 +143,16 @@
     },
     {
       "rank": 15,
+      "user_id": "1396607483967049889",
+      "username": "sqxxn._",
+      "avatar": "https://cdn.discordapp.com/avatars/1396607483967049889/431ee17dc80a1a992bb7b81063cf02bb.png?size=128",
+      "wallet": 32562,
+      "usd": 0.977,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 16,
       "user_id": "1060153899111157770",
       "username": "tommy_dsmp",
       "avatar": "https://cdn.discordapp.com/avatars/1060153899111157770/1b15eae1d6c8d355070a07bd5ba80b64.png?size=128",
@@ -152,7 +162,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 16,
+      "rank": 17,
       "user_id": "913401790123372544",
       "username": "da_wink",
       "avatar": "https://cdn.discordapp.com/avatars/913401790123372544/2e4a3376f0b0e6c5dcbcd55c0f347d36.png?size=128",
@@ -162,7 +172,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "user_id": "1057102480275689575",
       "username": "alessandro0_0",
       "avatar": "https://cdn.discordapp.com/avatars/1057102480275689575/73d9f1c56ad08fb9527800ce3dce4f3c.png?size=128",
@@ -172,7 +182,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "user_id": "1034508461066686544",
       "username": "demopic1407",
       "avatar": "https://cdn.discordapp.com/avatars/1034508461066686544/c686b99e7d96816252eb6bf0a2d0f2bd.png?size=128",
@@ -182,22 +192,12 @@
       "protection_remaining": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "user_id": "1316481315624976407",
       "username": "nahwaitaminute_06887",
       "avatar": "https://cdn.discordapp.com/avatars/1316481315624976407/6fd11867cf67d13a4abcd718f32e25a0.png?size=128",
       "wallet": 25258,
       "usd": 0.758,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 20,
-      "user_id": "1339601407711510609",
-      "username": "guuuuuurt",
-      "avatar": "https://cdn.discordapp.com/avatars/1339601407711510609/795b7b1fb17bd65f38f57403e5697b90.png?size=128",
-      "wallet": 22693,
-      "usd": 0.681,
       "protected": false,
       "protection_remaining": 0
     }
