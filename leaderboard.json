@@ -1,5 +1,5 @@
 {
-  "updated": 1766232811,
+  "updated": 1766233411,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,15 +9,15 @@
       "wallet": 234424,
       "usd": 7.033,
       "protected": true,
-      "protection_remaining": 21303
+      "protection_remaining": 20703
     },
     {
       "rank": 2,
       "user_id": "889499674891931698",
       "username": "ryx_acc",
       "avatar": "https://cdn.discordapp.com/avatars/889499674891931698/0a9b63f4a279013c24a26ee4b0710db4.png?size=128",
-      "wallet": 157504,
-      "usd": 4.725,
+      "wallet": 202504,
+      "usd": 6.075,
       "protected": false,
       "protection_remaining": 0
     },
@@ -173,16 +173,6 @@
     },
     {
       "rank": 18,
-      "user_id": "1339601407711510609",
-      "username": "guuuuuurt",
-      "avatar": "https://cdn.discordapp.com/avatars/1339601407711510609/795b7b1fb17bd65f38f57403e5697b90.png?size=128",
-      "wallet": 27193,
-      "usd": 0.816,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 19,
       "user_id": "913401790123372544",
       "username": "da_wink",
       "avatar": "https://cdn.discordapp.com/avatars/913401790123372544/2e4a3376f0b0e6c5dcbcd55c0f347d36.png?size=128",
@@ -192,12 +182,22 @@
       "protection_remaining": 0
     },
     {
-      "rank": 20,
+      "rank": 19,
       "user_id": "1057102480275689575",
       "username": "alessandro0_0",
       "avatar": "https://cdn.discordapp.com/avatars/1057102480275689575/73d9f1c56ad08fb9527800ce3dce4f3c.png?size=128",
       "wallet": 26402,
       "usd": 0.792,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 20,
+      "user_id": "1034508461066686544",
+      "username": "demopic1407",
+      "avatar": "https://cdn.discordapp.com/avatars/1034508461066686544/c686b99e7d96816252eb6bf0a2d0f2bd.png?size=128",
+      "wallet": 25375,
+      "usd": 0.761,
       "protected": false,
       "protection_remaining": 0
     }
