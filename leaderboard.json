@@ -1,15 +1,15 @@
 {
-  "updated": 1766292950,
+  "updated": 1766293550,
   "leaderboard": [
     {
       "rank": 1,
       "user_id": "1411310833497145356",
       "username": "samyut1",
       "avatar": "https://cdn.discordapp.com/avatars/1411310833497145356/7a9987aed0afdfd21df539cee0b8fe03.png?size=128",
-      "wallet": 234424,
-      "usd": 7.033,
-      "protected": false,
-      "protection_remaining": 0
+      "wallet": 200127,
+      "usd": 6.004,
+      "protected": true,
+      "protection_remaining": 43025
     },
     {
       "rank": 2,
@@ -29,7 +29,7 @@
       "wallet": 137030,
       "usd": 4.111,
       "protected": true,
-      "protection_remaining": 13552
+      "protection_remaining": 12952
     },
     {
       "rank": 4,
