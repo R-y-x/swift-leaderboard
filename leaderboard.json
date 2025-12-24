@@ -1,5 +1,5 @@
 {
-  "updated": 1766591060,
+  "updated": 1766591660,
   "leaderboard": [
     {
       "rank": 1,
@@ -173,6 +173,16 @@
     },
     {
       "rank": 18,
+      "user_id": "1018059585824755712",
+      "username": ".hyoteki",
+      "avatar": "https://cdn.discordapp.com/avatars/1018059585824755712/cc3ec62d39ba8fc4a046d1a439a85b8d.png?size=128",
+      "wallet": 40000,
+      "usd": 1.2,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 19,
       "user_id": "1034508461066686544",
       "username": "demopic1407",
       "avatar": "https://cdn.discordapp.com/avatars/1034508461066686544/c686b99e7d96816252eb6bf0a2d0f2bd.png?size=128",
@@ -182,22 +192,12 @@
       "protection_remaining": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "user_id": "906171609247789118",
       "username": ".a.h.t",
       "avatar": "https://cdn.discordapp.com/avatars/906171609247789118/6cc248009265431b92a46590459bc1ae.png?size=128",
       "wallet": 33446,
       "usd": 1.003,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 20,
-      "user_id": "1018059585824755712",
-      "username": ".hyoteki",
-      "avatar": "https://cdn.discordapp.com/avatars/1018059585824755712/cc3ec62d39ba8fc4a046d1a439a85b8d.png?size=128",
-      "wallet": 33000,
-      "usd": 0.99,
       "protected": false,
       "protection_remaining": 0
     }
