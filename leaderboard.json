@@ -1,5 +1,5 @@
 {
-  "updated": 1766544399,
+  "updated": 1766544999,
   "leaderboard": [
     {
       "rank": 1,
@@ -13,21 +13,21 @@
     },
     {
       "rank": 2,
-      "user_id": "889499674891931698",
-      "username": "ryx_acc",
-      "avatar": "https://cdn.discordapp.com/avatars/889499674891931698/0a9b63f4a279013c24a26ee4b0710db4.png?size=128",
-      "wallet": 150875,
-      "usd": 4.526,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 3,
       "user_id": "1247576722476372090",
       "username": "fritz05209",
       "avatar": "https://cdn.discordapp.com/avatars/1247576722476372090/3c8e497a826b8095abe43534970c5ea1.png?size=128",
       "wallet": 140572,
       "usd": 4.217,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 3,
+      "user_id": "889499674891931698",
+      "username": "ryx_acc",
+      "avatar": "https://cdn.discordapp.com/avatars/889499674891931698/0a9b63f4a279013c24a26ee4b0710db4.png?size=128",
+      "wallet": 127927,
+      "usd": 3.838,
       "protected": false,
       "protection_remaining": 0
     },
@@ -53,21 +53,21 @@
     },
     {
       "rank": 6,
-      "user_id": "1093718723753431110",
-      "username": "tuku2_shiesty",
-      "avatar": "https://cdn.discordapp.com/avatars/1093718723753431110/d0b9e0dcb1ee8b6c612be0fb97f6f850.png?size=128",
-      "wallet": 114395,
-      "usd": 3.432,
+      "user_id": "1256677659753185363",
+      "username": "foxyfelix09",
+      "avatar": "https://cdn.discordapp.com/avatars/1256677659753185363/96ea64fc910a2d3b990e7c0a15e9ac05.png?size=128",
+      "wallet": 117000,
+      "usd": 3.51,
       "protected": false,
       "protection_remaining": 0
     },
     {
       "rank": 7,
-      "user_id": "1256677659753185363",
-      "username": "foxyfelix09",
-      "avatar": "https://cdn.discordapp.com/avatars/1256677659753185363/96ea64fc910a2d3b990e7c0a15e9ac05.png?size=128",
-      "wallet": 107000,
-      "usd": 3.21,
+      "user_id": "1093718723753431110",
+      "username": "tuku2_shiesty",
+      "avatar": "https://cdn.discordapp.com/avatars/1093718723753431110/d0b9e0dcb1ee8b6c612be0fb97f6f850.png?size=128",
+      "wallet": 114395,
+      "usd": 3.432,
       "protected": false,
       "protection_remaining": 0
     },
