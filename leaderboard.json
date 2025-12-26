@@ -1,5 +1,5 @@
 {
-  "updated": 1766785634,
+  "updated": 1766786234,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 213392,
       "usd": 6.402,
       "protected": true,
-      "protection_remaining": 26459
+      "protection_remaining": 25859
     },
     {
       "rank": 2,
@@ -19,15 +19,15 @@
       "wallet": 179286,
       "usd": 5.379,
       "protected": true,
-      "protection_remaining": 21742
+      "protection_remaining": 21142
     },
     {
       "rank": 3,
       "user_id": "1060153899111157770",
       "username": "tommy_dsmp",
       "avatar": "https://cdn.discordapp.com/avatars/1060153899111157770/6e4fb5542ca8d45058063ada9ee6b646.png?size=128",
-      "wallet": 100001,
-      "usd": 3.0,
+      "wallet": 100263,
+      "usd": 3.008,
       "protected": false,
       "protection_remaining": 0
     },
@@ -85,7 +85,7 @@
       "rank": 9,
       "user_id": "1257572580446175254",
       "username": "joshsfv",
-      "avatar": "https://cdn.discordapp.com/avatars/1257572580446175254/4fcf863f8676c5baa2b50a6b3bb51ab0.png?size=128",
+      "avatar": "https://cdn.discordapp.com/avatars/1257572580446175254/db9cabed36c566328fe10e497e8fe5b0.png?size=128",
       "wallet": 64529,
       "usd": 1.936,
       "protected": false,
