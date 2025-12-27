@@ -1,5 +1,5 @@
 {
-  "updated": 1766801416,
+  "updated": 1766802016,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 246006,
       "usd": 7.38,
       "protected": true,
-      "protection_remaining": 10677
+      "protection_remaining": 10077
     },
     {
       "rank": 2,
@@ -29,30 +29,20 @@
       "wallet": 179286,
       "usd": 5.379,
       "protected": true,
-      "protection_remaining": 5960
+      "protection_remaining": 5360
     },
     {
       "rank": 4,
-      "user_id": "1453811814168006706",
-      "username": "leantalrich",
-      "avatar": "https://cdn.discordapp.com/avatars/1453811814168006706/93ba3f27076d320a021ebcfb5b5294a5.png?size=128",
-      "wallet": 128000,
-      "usd": 3.84,
-      "protected": true,
-      "protection_remaining": 40525
-    },
-    {
-      "rank": 5,
       "user_id": "1217459458662465536",
       "username": "i_am_dust_himself",
       "avatar": "https://cdn.discordapp.com/avatars/1217459458662465536/6fb3c2bcc1c4ccfbef2c7bf58ed60eff.png?size=128",
       "wallet": 97795,
       "usd": 2.934,
       "protected": true,
-      "protection_remaining": 32456
+      "protection_remaining": 31856
     },
     {
-      "rank": 6,
+      "rank": 5,
       "user_id": "1020891980433211444",
       "username": "iam_nooob",
       "avatar": "https://cdn.discordapp.com/avatars/1020891980433211444/81aff8dd5ec992926a03f2f314220a76.png?size=128",
@@ -62,7 +52,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 7,
+      "rank": 6,
       "user_id": "1021181530506272819",
       "username": "cobobear",
       "avatar": "https://cdn.discordapp.com/avatars/1021181530506272819/5c89c3c2cf44fd5fb69dee5b3b0377f4.png?size=128",
@@ -72,7 +62,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 8,
+      "rank": 7,
       "user_id": "1247576722476372090",
       "username": "fritz05209",
       "avatar": "https://cdn.discordapp.com/avatars/1247576722476372090/3c8e497a826b8095abe43534970c5ea1.png?size=128",
@@ -80,6 +70,16 @@
       "usd": 2.702,
       "protected": false,
       "protection_remaining": 0
+    },
+    {
+      "rank": 8,
+      "user_id": "1453811814168006706",
+      "username": "leantalrich",
+      "avatar": "https://cdn.discordapp.com/avatars/1453811814168006706/93ba3f27076d320a021ebcfb5b5294a5.png?size=128",
+      "wallet": 88000,
+      "usd": 2.64,
+      "protected": true,
+      "protection_remaining": 39925
     },
     {
       "rank": 9,
