@@ -1,5 +1,5 @@
 {
-  "updated": 1766825770,
+  "updated": 1766826370,
   "leaderboard": [
     {
       "rank": 1,
@@ -39,7 +39,7 @@
       "wallet": 97795,
       "usd": 2.934,
       "protected": true,
-      "protection_remaining": 8102
+      "protection_remaining": 7502
     },
     {
       "rank": 5,
@@ -69,7 +69,7 @@
       "wallet": 76554,
       "usd": 2.297,
       "protected": true,
-      "protection_remaining": 40383
+      "protection_remaining": 39783
     },
     {
       "rank": 8,
@@ -103,6 +103,16 @@
     },
     {
       "rank": 11,
+      "user_id": "1436273842182946886",
+      "username": "brandon043731",
+      "avatar": "https://cdn.discordapp.com/avatars/1436273842182946886/6375253bee42e81d0c5dbab964a2d795.png?size=128",
+      "wallet": 57000,
+      "usd": 1.71,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 12,
       "user_id": "1018059585824755712",
       "username": ".hyoteki",
       "avatar": "https://cdn.discordapp.com/avatars/1018059585824755712/cc3ec62d39ba8fc4a046d1a439a85b8d.png?size=128",
@@ -112,20 +122,10 @@
       "protection_remaining": 0
     },
     {
-      "rank": 12,
+      "rank": 13,
       "user_id": "1433024569580720169",
       "username": "potatob0774",
       "avatar": "https://cdn.discordapp.com/avatars/1433024569580720169/38fe0bc183a69bb5ac1c1e61d1989edf.png?size=128",
-      "wallet": 48000,
-      "usd": 1.44,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 13,
-      "user_id": "1436273842182946886",
-      "username": "brandon043731",
-      "avatar": "https://cdn.discordapp.com/avatars/1436273842182946886/6375253bee42e81d0c5dbab964a2d795.png?size=128",
       "wallet": 48000,
       "usd": 1.44,
       "protected": false,
@@ -159,7 +159,7 @@
       "wallet": 42611,
       "usd": 1.278,
       "protected": true,
-      "protection_remaining": 22548
+      "protection_remaining": 21948
     },
     {
       "rank": 17,
