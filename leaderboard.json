@@ -1,5 +1,5 @@
 {
-  "updated": 1766806816,
+  "updated": 1766807416,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 246006,
       "usd": 7.38,
       "protected": true,
-      "protection_remaining": 5277
+      "protection_remaining": 4677
     },
     {
       "rank": 2,
@@ -28,21 +28,31 @@
       "avatar": "https://cdn.discordapp.com/avatars/889499674891931698/0a9b63f4a279013c24a26ee4b0710db4.png?size=128",
       "wallet": 179286,
       "usd": 5.379,
-      "protected": true,
-      "protection_remaining": 560
+      "protected": false,
+      "protection_remaining": 0
     },
     {
       "rank": 4,
+      "user_id": "1453811814168006706",
+      "username": "leantalrich",
+      "avatar": "https://cdn.discordapp.com/avatars/1453811814168006706/93ba3f27076d320a021ebcfb5b5294a5.png?size=128",
+      "wallet": 104667,
+      "usd": 3.14,
+      "protected": true,
+      "protection_remaining": 34525
+    },
+    {
+      "rank": 5,
       "user_id": "1217459458662465536",
       "username": "i_am_dust_himself",
       "avatar": "https://cdn.discordapp.com/avatars/1217459458662465536/6fb3c2bcc1c4ccfbef2c7bf58ed60eff.png?size=128",
       "wallet": 97795,
       "usd": 2.934,
       "protected": true,
-      "protection_remaining": 27056
+      "protection_remaining": 26456
     },
     {
-      "rank": 5,
+      "rank": 6,
       "user_id": "1020891980433211444",
       "username": "iam_nooob",
       "avatar": "https://cdn.discordapp.com/avatars/1020891980433211444/81aff8dd5ec992926a03f2f314220a76.png?size=128",
@@ -50,16 +60,6 @@
       "usd": 2.884,
       "protected": false,
       "protection_remaining": 0
-    },
-    {
-      "rank": 6,
-      "user_id": "1453811814168006706",
-      "username": "leantalrich",
-      "avatar": "https://cdn.discordapp.com/avatars/1453811814168006706/93ba3f27076d320a021ebcfb5b5294a5.png?size=128",
-      "wallet": 94667,
-      "usd": 2.84,
-      "protected": true,
-      "protection_remaining": 35125
     },
     {
       "rank": 7,
@@ -179,7 +179,7 @@
       "wallet": 42611,
       "usd": 1.278,
       "protected": true,
-      "protection_remaining": 41502
+      "protection_remaining": 40902
     },
     {
       "rank": 19,
