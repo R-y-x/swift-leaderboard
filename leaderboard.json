@@ -1,15 +1,15 @@
 {
-  "updated": 1766809216,
+  "updated": 1766809816,
   "leaderboard": [
     {
       "rank": 1,
       "user_id": "1256677659753185363",
       "username": "foxyfelix09",
       "avatar": "https://cdn.discordapp.com/avatars/1256677659753185363/7fe33ded8c91532787eea72cc37b7995.png?size=128",
-      "wallet": 246006,
-      "usd": 7.38,
+      "wallet": 276006,
+      "usd": 8.28,
       "protected": true,
-      "protection_remaining": 2877
+      "protection_remaining": 2277
     },
     {
       "rank": 2,
@@ -49,7 +49,7 @@
       "wallet": 97795,
       "usd": 2.934,
       "protected": true,
-      "protection_remaining": 24656
+      "protection_remaining": 24056
     },
     {
       "rank": 6,
@@ -169,7 +169,7 @@
       "wallet": 42611,
       "usd": 1.278,
       "protected": true,
-      "protection_remaining": 39102
+      "protection_remaining": 38502
     },
     {
       "rank": 18,
