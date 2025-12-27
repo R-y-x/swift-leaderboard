@@ -1,5 +1,5 @@
 {
-  "updated": 1766855222,
+  "updated": 1766855822,
   "leaderboard": [
     {
       "rank": 1,
@@ -63,41 +63,41 @@
     },
     {
       "rank": 7,
+      "user_id": "1239604931288105081",
+      "username": "itzdarkryte",
+      "avatar": "https://cdn.discordapp.com/avatars/1239604931288105081/ead965e20e4aed543b28ff9baee783c7.png?size=128",
+      "wallet": 79000,
+      "usd": 2.37,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 8,
       "user_id": "1247576722476372090",
       "username": "fritz05209",
       "avatar": "https://cdn.discordapp.com/avatars/1247576722476372090/3c8e497a826b8095abe43534970c5ea1.png?size=128",
       "wallet": 76554,
       "usd": 2.297,
       "protected": true,
-      "protection_remaining": 10931
+      "protection_remaining": 10331
     },
     {
-      "rank": 8,
+      "rank": 9,
       "user_id": "1339601407711510609",
       "username": "guuuuuurt",
       "avatar": "https://cdn.discordapp.com/avatars/1339601407711510609/795b7b1fb17bd65f38f57403e5697b90.png?size=128",
       "wallet": 74185,
       "usd": 2.226,
       "protected": true,
-      "protection_remaining": 36374
+      "protection_remaining": 35774
     },
     {
-      "rank": 9,
+      "rank": 10,
       "user_id": "843223906243969074",
       "username": "meowl_2222",
       "avatar": "https://cdn.discordapp.com/avatars/843223906243969074/1dcac1898f06675c7a00fa60e09ee12b.png?size=128",
       "wallet": 71694,
       "usd": 2.151,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 10,
-      "user_id": "1239604931288105081",
-      "username": "itzdarkryte",
-      "avatar": "https://cdn.discordapp.com/avatars/1239604931288105081/ead965e20e4aed543b28ff9baee783c7.png?size=128",
-      "wallet": 67000,
-      "usd": 2.01,
       "protected": false,
       "protection_remaining": 0
     },
