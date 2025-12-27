@@ -1,5 +1,5 @@
 {
-  "updated": 1766797216,
+  "updated": 1766797816,
   "leaderboard": [
     {
       "rank": 1,
@@ -19,7 +19,7 @@
       "wallet": 239000,
       "usd": 7.17,
       "protected": true,
-      "protection_remaining": 14877
+      "protection_remaining": 14277
     },
     {
       "rank": 3,
@@ -29,7 +29,7 @@
       "wallet": 179286,
       "usd": 5.379,
       "protected": true,
-      "protection_remaining": 10160
+      "protection_remaining": 9560
     },
     {
       "rank": 4,
@@ -39,7 +39,7 @@
       "wallet": 97795,
       "usd": 2.934,
       "protected": true,
-      "protection_remaining": 36656
+      "protection_remaining": 36056
     },
     {
       "rank": 5,
@@ -163,16 +163,6 @@
     },
     {
       "rank": 17,
-      "user_id": "1453811814168006706",
-      "username": "leantalrich",
-      "avatar": "https://cdn.discordapp.com/avatars/1453811814168006706/93ba3f27076d320a021ebcfb5b5294a5.png?size=128",
-      "wallet": 43940,
-      "usd": 1.318,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 18,
       "user_id": "778841248382713897",
       "username": "senkopost",
       "avatar": "https://cdn.discordapp.com/avatars/778841248382713897/7a8031398ac2afe49407c5105559f6fb.png?size=128",
@@ -182,7 +172,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 19,
+      "rank": 18,
       "user_id": "913401790123372544",
       "username": "da_wink",
       "avatar": "https://cdn.discordapp.com/avatars/913401790123372544/2e4a3376f0b0e6c5dcbcd55c0f347d36.png?size=128",
@@ -192,10 +182,20 @@
       "protection_remaining": 0
     },
     {
-      "rank": 20,
+      "rank": 19,
       "user_id": "1016147036334202900",
       "username": ".lavoisier.",
       "avatar": "https://cdn.discordapp.com/avatars/1016147036334202900/5513c509dae4c2098b36732bb3dec17f.png?size=128",
+      "wallet": 40000,
+      "usd": 1.2,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 20,
+      "user_id": "1241859064456151061",
+      "username": "talal_on_za",
+      "avatar": "https://cdn.discordapp.com/embed/avatars/4.png?size=128",
       "wallet": 40000,
       "usd": 1.2,
       "protected": false,
