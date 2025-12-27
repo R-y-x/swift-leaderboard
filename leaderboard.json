@@ -1,28 +1,38 @@
 {
-  "updated": 1766849217,
+  "updated": 1766849817,
   "leaderboard": [
     {
       "rank": 1,
       "user_id": "889499674891931698",
       "username": "ryx_acc",
       "avatar": "https://cdn.discordapp.com/avatars/889499674891931698/0a9b63f4a279013c24a26ee4b0710db4.png?size=128",
-      "wallet": 313133,
-      "usd": 9.394,
+      "wallet": 257198,
+      "usd": 7.716,
       "protected": false,
       "protection_remaining": 0
     },
     {
       "rank": 2,
-      "user_id": "1020891980433211444",
-      "username": "iam_nooob",
-      "avatar": "https://cdn.discordapp.com/avatars/1020891980433211444/81aff8dd5ec992926a03f2f314220a76.png?size=128",
-      "wallet": 106117,
-      "usd": 3.184,
+      "user_id": "1060153899111157770",
+      "username": "tommy_dsmp",
+      "avatar": "https://cdn.discordapp.com/avatars/1060153899111157770/6e4fb5542ca8d45058063ada9ee6b646.png?size=128",
+      "wallet": 145533,
+      "usd": 4.366,
       "protected": false,
       "protection_remaining": 0
     },
     {
       "rank": 3,
+      "user_id": "1020891980433211444",
+      "username": "iam_nooob",
+      "avatar": "https://cdn.discordapp.com/avatars/1020891980433211444/81aff8dd5ec992926a03f2f314220a76.png?size=128",
+      "wallet": 104351,
+      "usd": 3.131,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 4,
       "user_id": "1217459458662465536",
       "username": "i_am_dust_himself",
       "avatar": "https://cdn.discordapp.com/avatars/1217459458662465536/6fb3c2bcc1c4ccfbef2c7bf58ed60eff.png?size=128",
@@ -32,22 +42,12 @@
       "protection_remaining": 0
     },
     {
-      "rank": 4,
+      "rank": 5,
       "user_id": "1021181530506272819",
       "username": "cobobear",
       "avatar": "https://cdn.discordapp.com/avatars/1021181530506272819/5c89c3c2cf44fd5fb69dee5b3b0377f4.png?size=128",
       "wallet": 91286,
       "usd": 2.739,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 5,
-      "user_id": "1242858796460544050",
-      "username": "breaddripin",
-      "avatar": "https://cdn.discordapp.com/avatars/1242858796460544050/967b89ac2f9f9a99af25101d9e0ee831.png?size=128",
-      "wallet": 85860,
-      "usd": 2.576,
       "protected": false,
       "protection_remaining": 0
     },
@@ -59,7 +59,7 @@
       "wallet": 76554,
       "usd": 2.297,
       "protected": true,
-      "protection_remaining": 16936
+      "protection_remaining": 16336
     },
     {
       "rank": 7,
@@ -69,7 +69,7 @@
       "wallet": 74185,
       "usd": 2.226,
       "protected": true,
-      "protection_remaining": 42379
+      "protection_remaining": 41779
     },
     {
       "rank": 8,
