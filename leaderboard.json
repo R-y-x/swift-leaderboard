@@ -1,5 +1,5 @@
 {
-  "updated": 1766915853,
+  "updated": 1766916453,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 240268,
       "usd": 7.208,
       "protected": true,
-      "protection_remaining": 1986
+      "protection_remaining": 1386
     },
     {
       "rank": 2,
@@ -153,6 +153,16 @@
     },
     {
       "rank": 16,
+      "user_id": "1362433831025643530",
+      "username": "arxeqq",
+      "avatar": "https://cdn.discordapp.com/avatars/1362433831025643530/a_f69a70a7d2a932eac4e182804537017c.gif?size=128",
+      "wallet": 46516,
+      "usd": 1.395,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 17,
       "user_id": "1034508461066686544",
       "username": "demopic1407",
       "avatar": "https://cdn.discordapp.com/avatars/1034508461066686544/4e74ae4e01c4eaa606756af7689768ee.png?size=128",
@@ -162,7 +172,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "user_id": "1083768025737601075",
       "username": "mrgoldfish02",
       "avatar": "https://cdn.discordapp.com/avatars/1083768025737601075/e4e7cd98cca523d8acc58449e7535d8c.png?size=128",
@@ -172,7 +182,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "user_id": "778841248382713897",
       "username": "senkopost",
       "avatar": "https://cdn.discordapp.com/avatars/778841248382713897/7a8031398ac2afe49407c5105559f6fb.png?size=128",
@@ -182,20 +192,10 @@
       "protection_remaining": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "user_id": "913401790123372544",
       "username": "da_wink",
       "avatar": "https://cdn.discordapp.com/avatars/913401790123372544/2e4a3376f0b0e6c5dcbcd55c0f347d36.png?size=128",
-      "wallet": 40000,
-      "usd": 1.2,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 20,
-      "user_id": "1241859064456151061",
-      "username": "talal_on_za",
-      "avatar": "https://cdn.discordapp.com/embed/avatars/4.png?size=128",
       "wallet": 40000,
       "usd": 1.2,
       "protected": false,
