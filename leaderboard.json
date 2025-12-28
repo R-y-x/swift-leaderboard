@@ -1,5 +1,5 @@
 {
-  "updated": 1766917653,
+  "updated": 1766918253,
   "leaderboard": [
     {
       "rank": 1,
@@ -8,8 +8,8 @@
       "avatar": "https://cdn.discordapp.com/avatars/1256677659753185363/7fe33ded8c91532787eea72cc37b7995.png?size=128",
       "wallet": 240268,
       "usd": 7.208,
-      "protected": true,
-      "protection_remaining": 186
+      "protected": false,
+      "protection_remaining": 0
     },
     {
       "rank": 2,
@@ -53,21 +53,21 @@
     },
     {
       "rank": 6,
-      "user_id": "1021181530506272819",
-      "username": "cobobear",
-      "avatar": "https://cdn.discordapp.com/avatars/1021181530506272819/5c89c3c2cf44fd5fb69dee5b3b0377f4.png?size=128",
-      "wallet": 91286,
-      "usd": 2.739,
+      "user_id": "1239604931288105081",
+      "username": "itzdarkryte",
+      "avatar": "https://cdn.discordapp.com/avatars/1239604931288105081/ead965e20e4aed543b28ff9baee783c7.png?size=128",
+      "wallet": 94000,
+      "usd": 2.82,
       "protected": false,
       "protection_remaining": 0
     },
     {
       "rank": 7,
-      "user_id": "1239604931288105081",
-      "username": "itzdarkryte",
-      "avatar": "https://cdn.discordapp.com/avatars/1239604931288105081/ead965e20e4aed543b28ff9baee783c7.png?size=128",
-      "wallet": 79000,
-      "usd": 2.37,
+      "user_id": "1021181530506272819",
+      "username": "cobobear",
+      "avatar": "https://cdn.discordapp.com/avatars/1021181530506272819/5c89c3c2cf44fd5fb69dee5b3b0377f4.png?size=128",
+      "wallet": 91286,
+      "usd": 2.739,
       "protected": false,
       "protection_remaining": 0
     },
