@@ -1,5 +1,5 @@
 {
-  "updated": 1766983769,
+  "updated": 1766984369,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 211408,
       "usd": 6.342,
       "protected": true,
-      "protection_remaining": 33126
+      "protection_remaining": 32526
     },
     {
       "rank": 2,
@@ -33,6 +33,16 @@
     },
     {
       "rank": 4,
+      "user_id": "1020891980433211444",
+      "username": "iam_nooob",
+      "avatar": "https://cdn.discordapp.com/avatars/1020891980433211444/81aff8dd5ec992926a03f2f314220a76.png?size=128",
+      "wallet": 107874,
+      "usd": 3.236,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 5,
       "user_id": "1239604931288105081",
       "username": "selena_dev",
       "avatar": "https://cdn.discordapp.com/avatars/1239604931288105081/3af6be5e566317302d7656296dc9f296.png?size=128",
@@ -42,7 +52,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 5,
+      "rank": 6,
       "user_id": "1021181530506272819",
       "username": "cobobear",
       "avatar": "https://cdn.discordapp.com/avatars/1021181530506272819/5c89c3c2cf44fd5fb69dee5b3b0377f4.png?size=128",
@@ -52,22 +62,12 @@
       "protection_remaining": 0
     },
     {
-      "rank": 6,
+      "rank": 7,
       "user_id": "1217459458662465536",
       "username": "i_am_dust_himself",
       "avatar": "https://cdn.discordapp.com/avatars/1217459458662465536/a_0cf7b3410e84e031e673b946702ef162.gif?size=128",
       "wallet": 101045,
       "usd": 3.031,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 7,
-      "user_id": "1020891980433211444",
-      "username": "iam_nooob",
-      "avatar": "https://cdn.discordapp.com/avatars/1020891980433211444/81aff8dd5ec992926a03f2f314220a76.png?size=128",
-      "wallet": 97874,
-      "usd": 2.936,
       "protected": false,
       "protection_remaining": 0
     },
@@ -99,7 +99,7 @@
       "wallet": 73768,
       "usd": 2.213,
       "protected": true,
-      "protection_remaining": 7307
+      "protection_remaining": 6707
     },
     {
       "rank": 11,
