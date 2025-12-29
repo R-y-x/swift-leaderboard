@@ -1,5 +1,5 @@
 {
-  "updated": 1767016874,
+  "updated": 1767017474,
   "leaderboard": [
     {
       "rank": 1,
@@ -8,8 +8,8 @@
       "avatar": "https://cdn.discordapp.com/avatars/1256677659753185363/7fe33ded8c91532787eea72cc37b7995.png?size=128",
       "wallet": 211408,
       "usd": 6.342,
-      "protected": true,
-      "protection_remaining": 21
+      "protected": false,
+      "protection_remaining": 0
     },
     {
       "rank": 2,
@@ -29,7 +29,7 @@
       "wallet": 133173,
       "usd": 3.995,
       "protected": true,
-      "protection_remaining": 38726
+      "protection_remaining": 38126
     },
     {
       "rank": 4,
@@ -39,7 +39,7 @@
       "wallet": 129723,
       "usd": 3.892,
       "protected": true,
-      "protection_remaining": 27899
+      "protection_remaining": 27299
     },
     {
       "rank": 5,
