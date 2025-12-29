@@ -1,5 +1,5 @@
 {
-  "updated": 1767007795,
+  "updated": 1767008474,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,14 +9,14 @@
       "wallet": 211408,
       "usd": 6.342,
       "protected": true,
-      "protection_remaining": 9100
+      "protection_remaining": 8421
     },
     {
       "rank": 2,
       "user_id": "889499674891931698",
       "username": "ryx_acc",
       "avatar": "https://cdn.discordapp.com/avatars/889499674891931698/0a9b63f4a279013c24a26ee4b0710db4.png?size=128",
-      "wallet": 159925,
+      "wallet": 159929,
       "usd": 4.798,
       "protected": false,
       "protection_remaining": 0
@@ -39,7 +39,7 @@
       "wallet": 129723,
       "usd": 3.892,
       "protected": true,
-      "protection_remaining": 36978
+      "protection_remaining": 36299
     },
     {
       "rank": 5,
