@@ -1,5 +1,5 @@
 {
-  "updated": 1767027364,
+  "updated": 1767027964,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 204997,
       "usd": 6.15,
       "protected": true,
-      "protection_remaining": 36739
+      "protection_remaining": 36139
     },
     {
       "rank": 2,
@@ -29,7 +29,7 @@
       "wallet": 133173,
       "usd": 3.995,
       "protected": true,
-      "protection_remaining": 28236
+      "protection_remaining": 27636
     },
     {
       "rank": 4,
@@ -39,7 +39,7 @@
       "wallet": 129723,
       "usd": 3.892,
       "protected": true,
-      "protection_remaining": 17409
+      "protection_remaining": 16809
     },
     {
       "rank": 5,
@@ -55,7 +55,7 @@
       "rank": 6,
       "user_id": "1239604931288105081",
       "username": "selena_dev",
-      "avatar": "https://cdn.discordapp.com/avatars/1239604931288105081/3af6be5e566317302d7656296dc9f296.png?size=128",
+      "avatar": "https://cdn.discordapp.com/avatars/1239604931288105081/0e1716607757b961ab63ab6335b44db2.png?size=128",
       "wallet": 106000,
       "usd": 3.18,
       "protected": false,
