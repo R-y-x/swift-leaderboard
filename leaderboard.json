@@ -1,5 +1,5 @@
 {
-  "updated": 1767111254,
+  "updated": 1767111854,
   "leaderboard": [
     {
       "rank": 1,
@@ -79,7 +79,7 @@
       "wallet": 90234,
       "usd": 2.707,
       "protected": true,
-      "protection_remaining": 1966
+      "protection_remaining": 1366
     },
     {
       "rank": 9,
@@ -96,8 +96,8 @@
       "user_id": "929445453546803200",
       "username": "flixyz47",
       "avatar": "https://cdn.discordapp.com/avatars/929445453546803200/e2cbe752ac345eb5c8be07b716384459.png?size=128",
-      "wallet": 79000,
-      "usd": 2.37,
+      "wallet": 77900,
+      "usd": 2.337,
       "protected": false,
       "protection_remaining": 0
     },
