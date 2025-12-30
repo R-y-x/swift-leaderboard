@@ -1,5 +1,5 @@
 {
-  "updated": 1767130078,
+  "updated": 1767130678,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 186490,
       "usd": 5.595,
       "protected": true,
-      "protection_remaining": 25809
+      "protection_remaining": 25209
     },
     {
       "rank": 2,
@@ -26,8 +26,8 @@
       "user_id": "1239604931288105081",
       "username": "selena_dev",
       "avatar": "https://cdn.discordapp.com/avatars/1239604931288105081/e55fec1b42045764fceeb435b01ddc39.png?size=128",
-      "wallet": 121000,
-      "usd": 3.63,
+      "wallet": 136000,
+      "usd": 4.08,
       "protected": false,
       "protection_remaining": 0
     },
