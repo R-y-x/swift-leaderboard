@@ -1,15 +1,15 @@
 {
-  "updated": 1767155907,
+  "updated": 1767156507,
   "leaderboard": [
     {
       "rank": 1,
       "user_id": "1256677659753185363",
       "username": "foxyfelix09",
       "avatar": "https://cdn.discordapp.com/avatars/1256677659753185363/e4ccd3016381dfe88af2668bc306cf33.png?size=128",
-      "wallet": 186490,
-      "usd": 5.595,
-      "protected": false,
-      "protection_remaining": 0
+      "wallet": 158517,
+      "usd": 4.756,
+      "protected": true,
+      "protection_remaining": 43038
     },
     {
       "rank": 2,
