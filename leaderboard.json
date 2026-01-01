@@ -1,5 +1,5 @@
 {
-  "updated": 1767273789,
+  "updated": 1767274389,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 130000,
       "usd": 3.9,
       "protected": true,
-      "protection_remaining": 13993
+      "protection_remaining": 13393
     },
     {
       "rank": 2,
@@ -36,7 +36,7 @@
       "user_id": "1217459458662465536",
       "username": "i_am_dust_himself",
       "avatar": "https://cdn.discordapp.com/avatars/1217459458662465536/0cf7b3410e84e031e673b946702ef162.png?size=128",
-      "wallet": 97895,
+      "wallet": 97896,
       "usd": 2.937,
       "protected": false,
       "protection_remaining": 0
