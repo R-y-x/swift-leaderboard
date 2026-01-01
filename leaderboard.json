@@ -1,5 +1,5 @@
 {
-  "updated": 1767249922,
+  "updated": 1767250522,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 130000,
       "usd": 3.9,
       "protected": true,
-      "protection_remaining": 37859
+      "protection_remaining": 37259
     },
     {
       "rank": 2,
@@ -184,7 +184,7 @@
     {
       "rank": 19,
       "user_id": "1362433831025643530",
-      "username": "arxeqq",
+      "username": "chr1sx_",
       "avatar": "https://cdn.discordapp.com/avatars/1362433831025643530/a_f69a70a7d2a932eac4e182804537017c.gif?size=128",
       "wallet": 46516,
       "usd": 1.395,
