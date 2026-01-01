@@ -1,5 +1,5 @@
 {
-  "updated": 1767253522,
+  "updated": 1767254122,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 130000,
       "usd": 3.9,
       "protected": true,
-      "protection_remaining": 34259
+      "protection_remaining": 33659
     },
     {
       "rank": 2,
@@ -25,7 +25,7 @@
       "rank": 3,
       "user_id": "1020891980433211444",
       "username": "iam_nooob",
-      "avatar": "https://cdn.discordapp.com/avatars/1020891980433211444/81aff8dd5ec992926a03f2f314220a76.png?size=128",
+      "avatar": "https://cdn.discordapp.com/avatars/1020891980433211444/4a2bd4ff2e51cd06ca1741393ef812b6.png?size=128",
       "wallet": 113913,
       "usd": 3.417,
       "protected": false,
