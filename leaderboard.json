@@ -1,5 +1,5 @@
 {
-  "updated": 1767363842,
+  "updated": 1767364442,
   "leaderboard": [
     {
       "rank": 1,
@@ -49,7 +49,7 @@
       "wallet": 95202,
       "usd": 2.856,
       "protected": true,
-      "protection_remaining": 33312
+      "protection_remaining": 32712
     },
     {
       "rank": 6,
@@ -73,6 +73,16 @@
     },
     {
       "rank": 8,
+      "user_id": "1084097024355479732",
+      "username": "clearyear123",
+      "avatar": "https://cdn.discordapp.com/avatars/1084097024355479732/65370f137500ae382e454031839aa249.png?size=128",
+      "wallet": 76307,
+      "usd": 2.289,
+      "protected": true,
+      "protection_remaining": 31961
+    },
+    {
+      "rank": 9,
       "user_id": "1021181530506272819",
       "username": "cobobear",
       "avatar": "https://cdn.discordapp.com/avatars/1021181530506272819/5c89c3c2cf44fd5fb69dee5b3b0377f4.png?size=128",
@@ -82,7 +92,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 9,
+      "rank": 10,
       "user_id": "1016147036334202900",
       "username": ".lavoisier.",
       "avatar": "https://cdn.discordapp.com/avatars/1016147036334202900/5513c509dae4c2098b36732bb3dec17f.png?size=128",
@@ -92,7 +102,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "user_id": "1187070526196293734",
       "username": "davitestaccount",
       "avatar": "https://cdn.discordapp.com/avatars/1187070526196293734/9e1d0236e42e535066d49e064404f9d0.png?size=128",
@@ -102,7 +112,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "user_id": "1257572580446175254",
       "username": "joshsfv",
       "avatar": "https://cdn.discordapp.com/avatars/1257572580446175254/34f6942d20d51802787d113c109d5fb8.png?size=128",
@@ -110,16 +120,6 @@
       "usd": 1.936,
       "protected": false,
       "protection_remaining": 0
-    },
-    {
-      "rank": 12,
-      "user_id": "1084097024355479732",
-      "username": "clearyear123",
-      "avatar": "https://cdn.discordapp.com/avatars/1084097024355479732/65370f137500ae382e454031839aa249.png?size=128",
-      "wallet": 64307,
-      "usd": 1.929,
-      "protected": true,
-      "protection_remaining": 32561
     },
     {
       "rank": 13,
