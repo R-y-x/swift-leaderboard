@@ -1,5 +1,5 @@
 {
-  "updated": 1767369242,
+  "updated": 1767369842,
   "leaderboard": [
     {
       "rank": 1,
@@ -49,7 +49,7 @@
       "wallet": 95202,
       "usd": 2.856,
       "protected": true,
-      "protection_remaining": 27912
+      "protection_remaining": 27312
     },
     {
       "rank": 6,
@@ -75,11 +75,11 @@
       "rank": 8,
       "user_id": "1084097024355479732",
       "username": "clearyear123",
-      "avatar": "https://cdn.discordapp.com/avatars/1084097024355479732/65370f137500ae382e454031839aa249.png?size=128",
+      "avatar": "https://cdn.discordapp.com/avatars/1084097024355479732/0d09931d05c55b0343139ef4ea65039d.png?size=128",
       "wallet": 76307,
       "usd": 2.289,
       "protected": true,
-      "protection_remaining": 27161
+      "protection_remaining": 26561
     },
     {
       "rank": 9,
