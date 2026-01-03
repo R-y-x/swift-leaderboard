@@ -1,5 +1,5 @@
 {
-  "updated": 1767450439,
+  "updated": 1767451039,
   "leaderboard": [
     {
       "rank": 1,
@@ -38,7 +38,7 @@
       "user_id": "779537259980390411",
       "username": "dlyv9",
       "avatar": "https://cdn.discordapp.com/avatars/779537259980390411/25c239acb908296b7a59fb2a91a4ea06.png?size=128",
-      "messages": 4958,
+      "messages": 5016,
       "level": 16
     },
     {
@@ -46,7 +46,7 @@
       "user_id": "929445453546803200",
       "username": "flixyz47",
       "avatar": "https://cdn.discordapp.com/avatars/929445453546803200/e2cbe752ac345eb5c8be07b716384459.png?size=128",
-      "messages": 4871,
+      "messages": 4893,
       "level": 16
     },
     {
@@ -86,7 +86,7 @@
       "user_id": "1084097024355479732",
       "username": "clearyear123",
       "avatar": "https://cdn.discordapp.com/avatars/1084097024355479732/0d09931d05c55b0343139ef4ea65039d.png?size=128",
-      "messages": 2518,
+      "messages": 2550,
       "level": 16
     },
     {
@@ -147,18 +147,18 @@
     },
     {
       "rank": 19,
-      "user_id": "1411310833497145356",
-      "username": "samyut1",
-      "avatar": "https://cdn.discordapp.com/avatars/1411310833497145356/7a9987aed0afdfd21df539cee0b8fe03.png?size=128",
-      "messages": 1567,
+      "user_id": "1016147036334202900",
+      "username": ".lavoisier.",
+      "avatar": "https://cdn.discordapp.com/avatars/1016147036334202900/5513c509dae4c2098b36732bb3dec17f.png?size=128",
+      "messages": 1601,
       "level": 15
     },
     {
       "rank": 20,
-      "user_id": "1016147036334202900",
-      "username": ".lavoisier.",
-      "avatar": "https://cdn.discordapp.com/avatars/1016147036334202900/5513c509dae4c2098b36732bb3dec17f.png?size=128",
-      "messages": 1559,
+      "user_id": "1411310833497145356",
+      "username": "samyut1",
+      "avatar": "https://cdn.discordapp.com/avatars/1411310833497145356/7a9987aed0afdfd21df539cee0b8fe03.png?size=128",
+      "messages": 1567,
       "level": 15
     }
   ]
