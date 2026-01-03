@@ -1,5 +1,5 @@
 {
-  "updated": 1767446239,
+  "updated": 1767446839,
   "leaderboard": [
     {
       "rank": 1,
@@ -73,6 +73,26 @@
     },
     {
       "rank": 8,
+      "user_id": "1016147036334202900",
+      "username": ".lavoisier.",
+      "avatar": "https://cdn.discordapp.com/avatars/1016147036334202900/5513c509dae4c2098b36732bb3dec17f.png?size=128",
+      "wallet": 79000,
+      "usd": 2.37,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 9,
+      "user_id": "1187070526196293734",
+      "username": "davitestaccount",
+      "avatar": "https://cdn.discordapp.com/avatars/1187070526196293734/9e1d0236e42e535066d49e064404f9d0.png?size=128",
+      "wallet": 79000,
+      "usd": 2.37,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 10,
       "user_id": "1247576722476372090",
       "username": "fritz05209",
       "avatar": "https://cdn.discordapp.com/avatars/1247576722476372090/3c8e497a826b8095abe43534970c5ea1.png?size=128",
@@ -82,32 +102,12 @@
       "protection_remaining": 0
     },
     {
-      "rank": 9,
+      "rank": 11,
       "user_id": "1084127991564603522",
       "username": "flawless_247",
       "avatar": "https://cdn.discordapp.com/avatars/1084127991564603522/fd39ce2173288019ab5d4519090eff16.png?size=128",
       "wallet": 68610,
       "usd": 2.058,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 10,
-      "user_id": "1016147036334202900",
-      "username": ".lavoisier.",
-      "avatar": "https://cdn.discordapp.com/avatars/1016147036334202900/5513c509dae4c2098b36732bb3dec17f.png?size=128",
-      "wallet": 67000,
-      "usd": 2.01,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 11,
-      "user_id": "1187070526196293734",
-      "username": "davitestaccount",
-      "avatar": "https://cdn.discordapp.com/avatars/1187070526196293734/9e1d0236e42e535066d49e064404f9d0.png?size=128",
-      "wallet": 67000,
-      "usd": 2.01,
       "protected": false,
       "protection_remaining": 0
     },
