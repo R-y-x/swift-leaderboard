@@ -1,5 +1,5 @@
 {
-  "updated": 1767417951,
+  "updated": 1767418552,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 203068,
       "usd": 6.092,
       "protected": true,
-      "protection_remaining": 7875
+      "protection_remaining": 7275
     },
     {
       "rank": 2,
@@ -153,6 +153,16 @@
     },
     {
       "rank": 16,
+      "user_id": "1084127991564603522",
+      "username": "flawless_247",
+      "avatar": "https://cdn.discordapp.com/avatars/1084127991564603522/fd39ce2173288019ab5d4519090eff16.png?size=128",
+      "wallet": 52227,
+      "usd": 1.567,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 17,
       "user_id": "778841248382713897",
       "username": "senkopost",
       "avatar": "https://cdn.discordapp.com/avatars/778841248382713897/7a8031398ac2afe49407c5105559f6fb.png?size=128",
@@ -162,7 +172,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 17,
+      "rank": 18,
       "user_id": "1018059585824755712",
       "username": ".hyoteki",
       "avatar": "https://cdn.discordapp.com/avatars/1018059585824755712/cc3ec62d39ba8fc4a046d1a439a85b8d.png?size=128",
@@ -172,7 +182,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 18,
+      "rank": 19,
       "user_id": "1254835302653104151",
       "username": "astro129812",
       "avatar": "https://cdn.discordapp.com/avatars/1254835302653104151/1c8e72434543588fe5b387dbeb94b632.png?size=128",
@@ -182,20 +192,10 @@
       "protection_remaining": 0
     },
     {
-      "rank": 19,
+      "rank": 20,
       "user_id": "1267460119843704906",
       "username": "notatharvalyt1",
       "avatar": "https://cdn.discordapp.com/avatars/1267460119843704906/cf0ca906be6129a9e65d29b5af2c6fb5.png?size=128",
-      "wallet": 48000,
-      "usd": 1.44,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 20,
-      "user_id": "1433024569580720169",
-      "username": "potatob0774",
-      "avatar": "https://cdn.discordapp.com/avatars/1433024569580720169/38fe0bc183a69bb5ac1c1e61d1989edf.png?size=128",
       "wallet": 48000,
       "usd": 1.44,
       "protected": false,
