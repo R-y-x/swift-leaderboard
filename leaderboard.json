@@ -1,5 +1,5 @@
 {
-  "updated": 1767440839,
+  "updated": 1767441439,
   "leaderboard": [
     {
       "rank": 1,
@@ -16,8 +16,8 @@
       "user_id": "581942544729112588",
       "username": "rev3968",
       "avatar": "https://cdn.discordapp.com/avatars/581942544729112588/c15d489c2b2939bb0107bf4b1b668362.png?size=128",
-      "wallet": 118243,
-      "usd": 3.547,
+      "wallet": 118983,
+      "usd": 3.569,
       "protected": false,
       "protection_remaining": 0
     },
@@ -83,6 +83,16 @@
     },
     {
       "rank": 9,
+      "user_id": "1084127991564603522",
+      "username": "flawless_247",
+      "avatar": "https://cdn.discordapp.com/avatars/1084127991564603522/fd39ce2173288019ab5d4519090eff16.png?size=128",
+      "wallet": 68610,
+      "usd": 2.058,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 10,
       "user_id": "1016147036334202900",
       "username": ".lavoisier.",
       "avatar": "https://cdn.discordapp.com/avatars/1016147036334202900/5513c509dae4c2098b36732bb3dec17f.png?size=128",
@@ -92,7 +102,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 10,
+      "rank": 11,
       "user_id": "1187070526196293734",
       "username": "davitestaccount",
       "avatar": "https://cdn.discordapp.com/avatars/1187070526196293734/9e1d0236e42e535066d49e064404f9d0.png?size=128",
@@ -102,22 +112,12 @@
       "protection_remaining": 0
     },
     {
-      "rank": 11,
+      "rank": 12,
       "user_id": "1257572580446175254",
       "username": "joshsfv",
       "avatar": "https://cdn.discordapp.com/avatars/1257572580446175254/34f6942d20d51802787d113c109d5fb8.png?size=128",
       "wallet": 64529,
       "usd": 1.936,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 12,
-      "user_id": "1084127991564603522",
-      "username": "flawless_247",
-      "avatar": "https://cdn.discordapp.com/avatars/1084127991564603522/fd39ce2173288019ab5d4519090eff16.png?size=128",
-      "wallet": 58610,
-      "usd": 1.758,
       "protected": false,
       "protection_remaining": 0
     },
