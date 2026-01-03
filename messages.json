@@ -1,5 +1,5 @@
 {
-  "updated": 1767446239,
+  "updated": 1767446839,
   "leaderboard": [
     {
       "rank": 1,
@@ -38,7 +38,7 @@
       "user_id": "779537259980390411",
       "username": "dlyv9",
       "avatar": "https://cdn.discordapp.com/avatars/779537259980390411/25c239acb908296b7a59fb2a91a4ea06.png?size=128",
-      "messages": 4862,
+      "messages": 4914,
       "level": 16
     },
     {
@@ -94,7 +94,7 @@
       "user_id": "1084097024355479732",
       "username": "clearyear123",
       "avatar": "https://cdn.discordapp.com/avatars/1084097024355479732/0d09931d05c55b0343139ef4ea65039d.png?size=128",
-      "messages": 2456,
+      "messages": 2494,
       "level": 15
     },
     {
@@ -158,8 +158,8 @@
       "user_id": "1187070526196293734",
       "username": "davitestaccount",
       "avatar": "https://cdn.discordapp.com/avatars/1187070526196293734/9e1d0236e42e535066d49e064404f9d0.png?size=128",
-      "messages": 1489,
-      "level": 14
+      "messages": 1512,
+      "level": 15
     }
   ]
 }
