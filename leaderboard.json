@@ -1,5 +1,5 @@
 {
-  "updated": 1767654147,
+  "updated": 1767654747,
   "leaderboard": [
     {
       "rank": 1,
@@ -13,21 +13,21 @@
     },
     {
       "rank": 2,
-      "user_id": "1108675652917407774",
-      "username": "eric8808",
-      "avatar": "https://cdn.discordapp.com/avatars/1108675652917407774/ea44ac9a35f110ab768c6ae6c6984fe4.png?size=128",
-      "wallet": 135105,
-      "usd": 4.053,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 3,
       "user_id": "1339601407711510609",
       "username": "guuuuuurt",
       "avatar": "https://cdn.discordapp.com/avatars/1339601407711510609/795b7b1fb17bd65f38f57403e5697b90.png?size=128",
       "wallet": 121588,
       "usd": 3.648,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 3,
+      "user_id": "1108675652917407774",
+      "username": "eric8808",
+      "avatar": "https://cdn.discordapp.com/avatars/1108675652917407774/ea44ac9a35f110ab768c6ae6c6984fe4.png?size=128",
+      "wallet": 118286,
+      "usd": 3.549,
       "protected": false,
       "protection_remaining": 0
     },
@@ -53,21 +53,21 @@
     },
     {
       "rank": 6,
-      "user_id": "843223906243969074",
-      "username": "meowl_2222",
-      "avatar": "https://cdn.discordapp.com/avatars/843223906243969074/1dcac1898f06675c7a00fa60e09ee12b.png?size=128",
-      "wallet": 88694,
-      "usd": 2.661,
+      "user_id": "889499674891931698",
+      "username": "ryx_acc",
+      "avatar": "https://cdn.discordapp.com/avatars/889499674891931698/0a9b63f4a279013c24a26ee4b0710db4.png?size=128",
+      "wallet": 96539,
+      "usd": 2.896,
       "protected": false,
       "protection_remaining": 0
     },
     {
       "rank": 7,
-      "user_id": "889499674891931698",
-      "username": "ryx_acc",
-      "avatar": "https://cdn.discordapp.com/avatars/889499674891931698/0a9b63f4a279013c24a26ee4b0710db4.png?size=128",
-      "wallet": 84345,
-      "usd": 2.53,
+      "user_id": "843223906243969074",
+      "username": "meowl_2222",
+      "avatar": "https://cdn.discordapp.com/avatars/843223906243969074/1dcac1898f06675c7a00fa60e09ee12b.png?size=128",
+      "wallet": 88694,
+      "usd": 2.661,
       "protected": false,
       "protection_remaining": 0
     },
@@ -99,7 +99,7 @@
       "wallet": 78117,
       "usd": 2.344,
       "protected": true,
-      "protection_remaining": 14640
+      "protection_remaining": 14040
     },
     {
       "rank": 11,
