@@ -1,5 +1,5 @@
 {
-  "updated": 1767628884,
+  "updated": 1767629484,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 150898,
       "usd": 4.527,
       "protected": true,
-      "protection_remaining": 24419
+      "protection_remaining": 23819
     },
     {
       "rank": 2,
@@ -56,8 +56,8 @@
       "user_id": "889499674891931698",
       "username": "ryx_acc",
       "avatar": "https://cdn.discordapp.com/avatars/889499674891931698/0a9b63f4a279013c24a26ee4b0710db4.png?size=128",
-      "wallet": 80248,
-      "usd": 2.407,
+      "wallet": 84345,
+      "usd": 2.53,
       "protected": false,
       "protection_remaining": 0
     },
@@ -89,7 +89,7 @@
       "wallet": 78117,
       "usd": 2.344,
       "protected": true,
-      "protection_remaining": 39903
+      "protection_remaining": 39303
     },
     {
       "rank": 10,
@@ -143,16 +143,6 @@
     },
     {
       "rank": 15,
-      "user_id": "1084097024355479732",
-      "username": "clearyear123",
-      "avatar": "https://cdn.discordapp.com/avatars/1084097024355479732/65370f137500ae382e454031839aa249.png?size=128",
-      "wallet": 57420,
-      "usd": 1.723,
-      "protected": true,
-      "protection_remaining": 20358
-    },
-    {
-      "rank": 16,
       "user_id": "1436273842182946886",
       "username": "brandon043731",
       "avatar": "https://cdn.discordapp.com/avatars/1436273842182946886/6375253bee42e81d0c5dbab964a2d795.png?size=128",
@@ -160,6 +150,16 @@
       "usd": 1.71,
       "protected": false,
       "protection_remaining": 0
+    },
+    {
+      "rank": 16,
+      "user_id": "1084097024355479732",
+      "username": "clearyear123",
+      "avatar": "https://cdn.discordapp.com/avatars/1084097024355479732/65370f137500ae382e454031839aa249.png?size=128",
+      "wallet": 53323,
+      "usd": 1.6,
+      "protected": true,
+      "protection_remaining": 19758
     },
     {
       "rank": 17,
