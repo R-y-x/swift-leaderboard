@@ -1,13 +1,13 @@
 {
-  "updated": 1767607556,
+  "updated": 1767608156,
   "leaderboard": [
     {
       "rank": 1,
       "user_id": "1015274324443275266",
       "username": "gods_worshipper",
       "avatar": "https://cdn.discordapp.com/avatars/1015274324443275266/b8ee8d1fcf506aae9442370cfd5e12df.png?size=128",
-      "wallet": 129790,
-      "usd": 3.894,
+      "wallet": 134290,
+      "usd": 4.029,
       "protected": false,
       "protection_remaining": 0
     },
@@ -93,16 +93,6 @@
     },
     {
       "rank": 10,
-      "user_id": "1247576722476372090",
-      "username": "fritz05209",
-      "avatar": "https://cdn.discordapp.com/avatars/1247576722476372090/3c8e497a826b8095abe43534970c5ea1.png?size=128",
-      "wallet": 76554,
-      "usd": 2.297,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 11,
       "user_id": "581942544729112588",
       "username": "rev3968",
       "avatar": "https://cdn.discordapp.com/avatars/581942544729112588/c15d489c2b2939bb0107bf4b1b668362.png?size=128",
@@ -112,7 +102,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 12,
+      "rank": 11,
       "user_id": "1084127991564603522",
       "username": "flawless_247",
       "avatar": "https://cdn.discordapp.com/avatars/1084127991564603522/fd39ce2173288019ab5d4519090eff16.png?size=128",
@@ -122,12 +112,22 @@
       "protection_remaining": 0
     },
     {
-      "rank": 13,
+      "rank": 12,
       "user_id": "1257572580446175254",
       "username": "joshsfv",
       "avatar": "https://cdn.discordapp.com/avatars/1257572580446175254/34f6942d20d51802787d113c109d5fb8.png?size=128",
       "wallet": 64529,
       "usd": 1.936,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 13,
+      "user_id": "1247576722476372090",
+      "username": "fritz05209",
+      "avatar": "https://cdn.discordapp.com/avatars/1247576722476372090/3c8e497a826b8095abe43534970c5ea1.png?size=128",
+      "wallet": 63793,
+      "usd": 1.914,
       "protected": false,
       "protection_remaining": 0
     },
@@ -159,7 +159,7 @@
       "wallet": 53376,
       "usd": 1.601,
       "protected": true,
-      "protection_remaining": 41685
+      "protection_remaining": 41085
     },
     {
       "rank": 17,
