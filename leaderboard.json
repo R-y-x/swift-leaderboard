@@ -1,5 +1,5 @@
 {
-  "updated": 1767621084,
+  "updated": 1767621684,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,13 +9,13 @@
       "wallet": 128703,
       "usd": 3.861,
       "protected": true,
-      "protection_remaining": 32219
+      "protection_remaining": 31619
     },
     {
       "rank": 2,
       "user_id": "1339601407711510609",
-      "username": "User 1339601407711510609",
-      "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "username": "guuuuuurt",
+      "avatar": "https://cdn.discordapp.com/avatars/1339601407711510609/795b7b1fb17bd65f38f57403e5697b90.png?size=128",
       "wallet": 121588,
       "usd": 3.648,
       "protected": false,
@@ -24,8 +24,8 @@
     {
       "rank": 3,
       "user_id": "1020891980433211444",
-      "username": "User 1020891980433211444",
-      "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "username": "iam_nooob",
+      "avatar": "https://cdn.discordapp.com/avatars/1020891980433211444/4a2bd4ff2e51cd06ca1741393ef812b6.png?size=128",
       "wallet": 113914,
       "usd": 3.417,
       "protected": false,
@@ -54,8 +54,8 @@
     {
       "rank": 6,
       "user_id": "843223906243969074",
-      "username": "User 843223906243969074",
-      "avatar": "https://cdn.discordapp.com/embed/avatars/0.png",
+      "username": "meowl_2222",
+      "avatar": "https://cdn.discordapp.com/avatars/843223906243969074/1dcac1898f06675c7a00fa60e09ee12b.png?size=128",
       "wallet": 88694,
       "usd": 2.661,
       "protected": false,
@@ -149,7 +149,7 @@
       "wallet": 57420,
       "usd": 1.723,
       "protected": true,
-      "protection_remaining": 28158
+      "protection_remaining": 27558
     },
     {
       "rank": 16,
