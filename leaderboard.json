@@ -1,5 +1,5 @@
 {
-  "updated": 1767681172,
+  "updated": 1767681772,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 136264,
       "usd": 4.088,
       "protected": true,
-      "protection_remaining": 24659
+      "protection_remaining": 24059
     },
     {
       "rank": 2,
@@ -36,8 +36,8 @@
       "user_id": "1108675652917407774",
       "username": "eric8808",
       "avatar": "https://cdn.discordapp.com/avatars/1108675652917407774/ea44ac9a35f110ab768c6ae6c6984fe4.png?size=128",
-      "wallet": 101206,
-      "usd": 3.036,
+      "wallet": 100171,
+      "usd": 3.005,
       "protected": false,
       "protection_remaining": 0
     },
@@ -123,16 +123,6 @@
     },
     {
       "rank": 13,
-      "user_id": "1084097024355479732",
-      "username": "clearyear123",
-      "avatar": "https://cdn.discordapp.com/avatars/1084097024355479732/65370f137500ae382e454031839aa249.png?size=128",
-      "wallet": 71471,
-      "usd": 2.144,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 14,
       "user_id": "1267460119843704906",
       "username": "notatharvalyt1",
       "avatar": "https://cdn.discordapp.com/avatars/1267460119843704906/cf0ca906be6129a9e65d29b5af2c6fb5.png?size=128",
@@ -142,7 +132,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 15,
+      "rank": 14,
       "user_id": "1257572580446175254",
       "username": "joshsfv",
       "avatar": "https://cdn.discordapp.com/avatars/1257572580446175254/34f6942d20d51802787d113c109d5fb8.png?size=128",
@@ -152,7 +142,7 @@
       "protection_remaining": 0
     },
     {
-      "rank": 16,
+      "rank": 15,
       "user_id": "1247576722476372090",
       "username": "fritz05209",
       "avatar": "https://cdn.discordapp.com/avatars/1247576722476372090/3c8e497a826b8095abe43534970c5ea1.png?size=128",
@@ -160,6 +150,16 @@
       "usd": 1.914,
       "protected": false,
       "protection_remaining": 0
+    },
+    {
+      "rank": 16,
+      "user_id": "1084097024355479732",
+      "username": "clearyear123",
+      "avatar": "https://cdn.discordapp.com/avatars/1084097024355479732/65370f137500ae382e454031839aa249.png?size=128",
+      "wallet": 61786,
+      "usd": 1.854,
+      "protected": true,
+      "protection_remaining": 42800
     },
     {
       "rank": 17,
