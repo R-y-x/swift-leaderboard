@@ -1,15 +1,15 @@
 {
-  "updated": 1767693172,
+  "updated": 1767693772,
   "leaderboard": [
     {
       "rank": 1,
       "user_id": "1015274324443275266",
       "username": "gods_worshipper",
       "avatar": "https://cdn.discordapp.com/avatars/1015274324443275266/b8ee8d1fcf506aae9442370cfd5e12df.png?size=128",
-      "wallet": 136264,
-      "usd": 4.088,
+      "wallet": 145264,
+      "usd": 4.358,
       "protected": true,
-      "protection_remaining": 12659
+      "protection_remaining": 12059
     },
     {
       "rank": 2,
@@ -159,7 +159,7 @@
       "wallet": 63264,
       "usd": 1.898,
       "protected": true,
-      "protection_remaining": 31400
+      "protection_remaining": 30800
     },
     {
       "rank": 17,
