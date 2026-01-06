@@ -1,5 +1,5 @@
 {
-  "updated": 1767723138,
+  "updated": 1767723738,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 133475,
       "usd": 4.004,
       "protected": true,
-      "protection_remaining": 26504
+      "protection_remaining": 25904
     },
     {
       "rank": 2,
@@ -169,7 +169,7 @@
       "wallet": 56800,
       "usd": 1.704,
       "protected": true,
-      "protection_remaining": 1434
+      "protection_remaining": 834
     },
     {
       "rank": 18,
