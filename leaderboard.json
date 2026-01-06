@@ -1,5 +1,5 @@
 {
-  "updated": 1767711060,
+  "updated": 1767711660,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 123475,
       "usd": 3.704,
       "protected": true,
-      "protection_remaining": 38581
+      "protection_remaining": 37981
     },
     {
       "rank": 2,
@@ -36,8 +36,8 @@
       "user_id": "1108675652917407774",
       "username": "eric8808",
       "avatar": "https://cdn.discordapp.com/avatars/1108675652917407774/ea44ac9a35f110ab768c6ae6c6984fe4.png?size=128",
-      "wallet": 99489,
-      "usd": 2.985,
+      "wallet": 103092,
+      "usd": 3.093,
       "protected": false,
       "protection_remaining": 0
     },
@@ -153,16 +153,6 @@
     },
     {
       "rank": 16,
-      "user_id": "1084097024355479732",
-      "username": "clearyear123",
-      "avatar": "https://cdn.discordapp.com/avatars/1084097024355479732/65370f137500ae382e454031839aa249.png?size=128",
-      "wallet": 60402,
-      "usd": 1.812,
-      "protected": true,
-      "protection_remaining": 13511
-    },
-    {
-      "rank": 17,
       "user_id": "1436273842182946886",
       "username": "brandon043731",
       "avatar": "https://cdn.discordapp.com/avatars/1436273842182946886/6375253bee42e81d0c5dbab964a2d795.png?size=128",
@@ -170,6 +160,16 @@
       "usd": 1.71,
       "protected": false,
       "protection_remaining": 0
+    },
+    {
+      "rank": 17,
+      "user_id": "1084097024355479732",
+      "username": "clearyear123",
+      "avatar": "https://cdn.discordapp.com/avatars/1084097024355479732/65370f137500ae382e454031839aa249.png?size=128",
+      "wallet": 56800,
+      "usd": 1.704,
+      "protected": true,
+      "protection_remaining": 12911
     },
     {
       "rank": 18,
