@@ -1,5 +1,5 @@
 {
-  "updated": 1767697860,
+  "updated": 1767698460,
   "leaderboard": [
     {
       "rank": 1,
@@ -9,7 +9,7 @@
       "wallet": 145264,
       "usd": 4.358,
       "protected": true,
-      "protection_remaining": 7970
+      "protection_remaining": 7370
     },
     {
       "rank": 2,
@@ -145,7 +145,7 @@
       "rank": 15,
       "user_id": "1257572580446175254",
       "username": "joshsfv",
-      "avatar": "https://cdn.discordapp.com/avatars/1257572580446175254/34f6942d20d51802787d113c109d5fb8.png?size=128",
+      "avatar": "https://cdn.discordapp.com/avatars/1257572580446175254/74edac6ec23ceba9782ab7cf2af62a8e.png?size=128",
       "wallet": 64529,
       "usd": 1.936,
       "protected": false,
@@ -159,7 +159,7 @@
       "wallet": 63264,
       "usd": 1.898,
       "protected": true,
-      "protection_remaining": 26711
+      "protection_remaining": 26111
     },
     {
       "rank": 17,
