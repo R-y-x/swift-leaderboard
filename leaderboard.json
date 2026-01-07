@@ -1,12 +1,12 @@
 {
-  "updated": 1767810698,
+  "updated": 1767811298,
   "leaderboard": [
     {
       "rank": 1,
       "user_id": "1108675652917407774",
       "username": "eric8808",
       "avatar": "https://cdn.discordapp.com/avatars/1108675652917407774/ea44ac9a35f110ab768c6ae6c6984fe4.png?size=128",
-      "wallet": 128832,
+      "wallet": 128833,
       "usd": 3.865,
       "protected": false,
       "protection_remaining": 0
@@ -19,7 +19,7 @@
       "wallet": 125465,
       "usd": 3.764,
       "protected": true,
-      "protection_remaining": 13196
+      "protection_remaining": 12596
     },
     {
       "rank": 3,
