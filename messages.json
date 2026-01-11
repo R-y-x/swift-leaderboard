@@ -1,5 +1,5 @@
 {
-  "updated": 1768164418,
+  "updated": 1768165018,
   "leaderboard": [
     {
       "rank": 1,
@@ -46,7 +46,7 @@
       "user_id": "929445453546803200",
       "username": "flixyz47",
       "avatar": "https://cdn.discordapp.com/avatars/929445453546803200/cc6a52e3cf90080105d3dbba426d6c21.png?size=128",
-      "messages": 5760,
+      "messages": 5761,
       "level": 16
     },
     {
@@ -62,7 +62,7 @@
       "user_id": "1084097024355479732",
       "username": "clearyear123",
       "avatar": "https://cdn.discordapp.com/avatars/1084097024355479732/65370f137500ae382e454031839aa249.png?size=128",
-      "messages": 4310,
+      "messages": 4350,
       "level": 16
     },
     {
@@ -102,7 +102,7 @@
       "user_id": "889499674891931698",
       "username": "ryx_acc",
       "avatar": "https://cdn.discordapp.com/avatars/889499674891931698/0a9b63f4a279013c24a26ee4b0710db4.png?size=128",
-      "messages": 2567,
+      "messages": 2570,
       "level": 16
     },
     {
@@ -134,11 +134,19 @@
       "user_id": "566502414346354697",
       "username": "ibhoo",
       "avatar": "https://cdn.discordapp.com/avatars/566502414346354697/aa56a12be77a724200ae8d688e4043ef.png?size=128",
-      "messages": 2131,
+      "messages": 2143,
       "level": 15
     },
     {
       "rank": 18,
+      "user_id": "1396607483967049889",
+      "username": "sqxxn._",
+      "avatar": "https://cdn.discordapp.com/avatars/1396607483967049889/8b5b73c4e69cb2269e94db047fe73cde.png?size=128",
+      "messages": 2038,
+      "level": 15
+    },
+    {
+      "rank": 19,
       "user_id": "1187070526196293734",
       "username": "davitestaccount",
       "avatar": "https://cdn.discordapp.com/avatars/1187070526196293734/9e1d0236e42e535066d49e064404f9d0.png?size=128",
@@ -146,19 +154,11 @@
       "level": 15
     },
     {
-      "rank": 19,
-      "user_id": "1396607483967049889",
-      "username": "sqxxn._",
-      "avatar": "https://cdn.discordapp.com/avatars/1396607483967049889/8b5b73c4e69cb2269e94db047fe73cde.png?size=128",
-      "messages": 1985,
-      "level": 15
-    },
-    {
       "rank": 20,
       "user_id": "1016147036334202900",
       "username": ".lavoisier.",
       "avatar": "https://cdn.discordapp.com/avatars/1016147036334202900/5513c509dae4c2098b36732bb3dec17f.png?size=128",
-      "messages": 1953,
+      "messages": 1989,
       "level": 15
     }
   ]
