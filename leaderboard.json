@@ -1,28 +1,8 @@
 {
-  "updated": 1768161518,
+  "updated": 1768162118,
   "leaderboard": [
     {
       "rank": 1,
-      "user_id": "1108675652917407774",
-      "username": "eric8808",
-      "avatar": "https://cdn.discordapp.com/avatars/1108675652917407774/e2bf29b964b4dd72de7096ac409d3908.png?size=128",
-      "wallet": 127878,
-      "usd": 3.836,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 2,
-      "user_id": "1015274324443275266",
-      "username": "gods_worshipper",
-      "avatar": "https://cdn.discordapp.com/avatars/1015274324443275266/0775164d0099976a3b4423e23fbab4fb.png?size=128",
-      "wallet": 125466,
-      "usd": 3.764,
-      "protected": false,
-      "protection_remaining": 0
-    },
-    {
-      "rank": 3,
       "user_id": "1339601407711510609",
       "username": "guuuuuurt",
       "avatar": "https://cdn.discordapp.com/avatars/1339601407711510609/795b7b1fb17bd65f38f57403e5697b90.png?size=128",
@@ -32,12 +12,32 @@
       "protection_remaining": 0
     },
     {
-      "rank": 4,
+      "rank": 2,
+      "user_id": "1108675652917407774",
+      "username": "eric8808",
+      "avatar": "https://cdn.discordapp.com/avatars/1108675652917407774/e2bf29b964b4dd72de7096ac409d3908.png?size=128",
+      "wallet": 115735,
+      "usd": 3.472,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 3,
       "user_id": "1020891980433211444",
       "username": "iam_nooob",
       "avatar": "https://cdn.discordapp.com/avatars/1020891980433211444/3b1ebace1fbe7a5bbdab84c7965f9646.png?size=128",
       "wallet": 113914,
       "usd": 3.417,
+      "protected": false,
+      "protection_remaining": 0
+    },
+    {
+      "rank": 4,
+      "user_id": "1015274324443275266",
+      "username": "gods_worshipper",
+      "avatar": "https://cdn.discordapp.com/avatars/1015274324443275266/0775164d0099976a3b4423e23fbab4fb.png?size=128",
+      "wallet": 110463,
+      "usd": 3.314,
       "protected": false,
       "protection_remaining": 0
     },
